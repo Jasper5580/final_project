@@ -79,7 +79,7 @@ log/latest_sessionInfo.txt
 Open:
 
 ```text
-silwood_project.Rproj.Rproj
+silwood_project.Rproj
 ```
 
 in RStudio.
@@ -182,7 +182,7 @@ final_project/
 |
 |-- README.md
 |-- FILE_MANIFEST.csv
-|-- silwood_project.Rproj.Rproj
+|-- silwood_project.Rproj
 |-- install_packages.R
 |-- run_all.R
 |
