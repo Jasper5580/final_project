@@ -1,0 +1,10 @@
+Diversity_order,Coverage_proxy,Months,Spearman_rho,P_value
+q = 0: Richness,Represented audio hours,23,0.962,2.33e-13
+q = 0: Richness,Active detection days,23,0.856,1.93e-7
+q = 0: Richness,Active detection hours,23,0.933,9.25e-11
+q = 1: Exponential Shannon,Represented audio hours,23,-0.275,0.205
+q = 1: Exponential Shannon,Active detection days,23,-0.219,0.315
+q = 1: Exponential Shannon,Active detection hours,23,-0.291,0.178
+q = 2: Inverse Simpson,Represented audio hours,23,-0.317,0.14
+q = 2: Inverse Simpson,Active detection days,23,-0.322,0.134
+q = 2: Inverse Simpson,Active detection hours,23,-0.366,0.0856

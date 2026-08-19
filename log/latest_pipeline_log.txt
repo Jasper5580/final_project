@@ -1,0 +1,34 @@
+2026-08-19 04:53:54 | Silwood final pipeline started. Mode=final; simulations=1000; CV=5x5; run_id=20260819_045354 
+2026-08-19 04:53:54 | START step 1: Clean raw BirdNET export 
+2026-08-19 04:54:10 | DONE step 1 in 15.6 seconds 
+2026-08-19 04:54:10 | START step 12: Prepare frozen final validation data 
+2026-08-19 04:54:14 | DONE step 12 in 4.1 seconds 
+2026-08-19 04:54:14 | START step 13: Fit calibration models 
+2026-08-19 04:54:22 | DONE step 13 in 7.9 seconds 
+2026-08-19 04:54:22 | START step 14: Run event-grouped cross-validation 
+2026-08-19 04:54:43 | DONE step 14 in 21.5 seconds 
+2026-08-19 04:54:43 | START step 16: Assign calibrated probabilities 
+2026-08-19 04:54:52 | DONE step 16 in 8.8 seconds 
+2026-08-19 04:54:52 | START step 17: Run full Monte Carlo propagation 
+2026-08-19 04:59:36 | DONE step 17 in 284.1 seconds 
+2026-08-19 04:59:36 | START step 18: Compare identification workflows 
+2026-08-19 04:59:50 | DONE step 18 in 14.1 seconds 
+2026-08-19 04:59:50 | START step 19: Calculate sampling-coverage proxies 
+2026-08-19 05:00:05 | DONE step 19 in 15.3 seconds 
+2026-08-19 05:00:05 | START step 20: Run higher-coverage robustness analysis 
+2026-08-19 05:00:25 | DONE step 20 in 19.4 seconds 
+2026-08-19 05:00:25 | START step 21: Build analytical benchmark 
+2026-08-19 05:01:56 | DONE step 21 in 91.5 seconds 
+2026-08-19 05:01:56 | START step 22: Rebuild manuscript Figure 2 
+2026-08-19 05:02:00 | DONE step 22 in 3.5 seconds 
+2026-08-19 05:02:00 | START step 23: Rebuild manuscript Figure 3 
+2026-08-19 05:02:02 | DONE step 23 in 2.5 seconds 
+2026-08-19 05:02:02 | START step 24: Rebuild manuscript Figure 4 
+2026-08-19 05:02:04 | DONE step 24 in 1.7 seconds 
+2026-08-19 05:02:04 | START step 25: Rebuild manuscript Figure 5 
+2026-08-19 05:02:06 | DONE step 25 in 1.7 seconds 
+2026-08-19 05:02:06 | START step 26: Rebuild supplementary figures and tables 
+2026-08-19 05:02:16 | DONE step 26 in 9.7 seconds 
+2026-08-19 05:02:16 | START step 27: Collect final thesis outputs 
+2026-08-19 05:02:16 | DONE step 27 in 0.8 seconds 
+2026-08-19 05:02:16 | Pipeline completed successfully. Final outputs: /home/jasper/CMEECourseWork/final_project/results/10_final_outputs 

@@ -1,0 +1,10 @@
+Diversity_order,Component,Analytical_or_plugin,Fixed_MC_mean,Fixed_MC_lower_95,Fixed_MC_upper_95,Full_MC_mean,Full_MC_lower_95,Full_MC_upper_95,Analytical_percent_error
+q = 0: Richness,Alpha,48.91,48.908,47.87,50,49.201,45.174,53.565,0
+q = 0: Richness,Gamma,154.817,154.957,148,163,158.322,146,171,-0.09
+q = 0: Richness,Beta,3.165,3.168,3.024,3.324,3.22,3.008,3.421,-0.09
+q = 1: Exponential Shannon,Alpha,8.901,8.737,8.632,8.85,8.794,8.089,9.462,1.88
+q = 1: Exponential Shannon,Gamma,14.758,14.699,14.497,14.909,14.809,13.551,15.991,0.4
+q = 1: Exponential Shannon,Beta,1.658,1.682,1.672,1.693,1.684,1.666,1.703,-1.45
+q = 2: Inverse Simpson,Alpha,4.707,4.701,4.659,4.743,4.712,4.415,5.005,0.14
+q = 2: Inverse Simpson,Gamma,8.151,8.148,8.081,8.217,8.17,7.653,8.71,0.04
+q = 2: Inverse Simpson,Beta,1.732,1.733,1.725,1.742,1.734,1.71,1.761,-0.1

@@ -1,0 +1,230 @@
+predicted_species,total_detections,n_events,mean_score,median_score,min_score,max_score,n_months,proportion_multi_event,n_0.45-0.60,n_0.60-0.75,n_0.75-0.90,n_0.90-1.00,current_validation_n,confident_validation_n,n_confirmed,current_confirmation_rate,n_high_score_errors,previously_validated,screening_target_n,additional_screening_n,screening_priority,systematic_error_followup_needed
+Coal Tit,412,412,0.6137665602184466,0.57833305,0.4502963,0.9971655,18,0.007281553398058253,229,104,66,13,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Rook,394,394,0.5981972452284263,0.569510935,0.45037633,0.9570668,22,0.030456852791878174,229,113,48,4,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Eurasian Blackcap,323,323,0.5802503447987617,0.54935557,0.45033887,0.9652659,5,0.009287925696594427,211,82,27,3,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Common Firecrest,269,269,0.549629515724907,0.52404106,0.45032775,0.8724596,22,0.055762081784386616,203,52,14,0,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Eurasian Nuthatch,218,218,0.6346861498623853,0.599825515,0.45202345,0.946023,13,0.0045871559633027525,109,60,39,10,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Black Woodpecker,155,155,0.559989952967742,0.53722316,0.45086566,0.82072055,17,0.23225806451612904,114,33,8,0,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Gray Wagtail,144,144,0.5706080364583334,0.538530645,0.4510862,0.87991834,16,0.0763888888888889,95,39,10,0,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Western Capercaillie,144,144,0.5824093251388889,0.56090787,0.45044765,0.95934594,20,0.0,92,38,11,3,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Eurasian Bullfinch,132,132,0.6086706828030303,0.5728974,0.45134142,0.9479493,15,0.0,73,31,26,2,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Gray-headed Woodpecker,124,124,0.5884823752419355,0.549898,0.45010838,0.903351,18,0.2661290322580645,74,36,13,1,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Common Chiffchaff,118,118,0.6742617568644067,0.673129475,0.45056427,0.9544896,7,0.0,45,36,28,9,0,0,0,,0,False,10,10,unvalidated_screening_n10,not_assessed_or_no_signal
+Eurasian Three-toed Woodpecker,99,99,0.5777589107070707,0.55548304,0.45258966,0.943582,17,0.06060606060606061,67,25,6,1,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Graylag Goose,91,91,0.6557192713186814,0.65001196,0.45196107,0.9957075,16,0.10989010989010989,37,31,18,5,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Eurasian Curlew,86,86,0.5718359289534884,0.55522545,0.45177478,0.862961,14,0.03488372093023256,62,17,7,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Goldcrest,82,82,0.5455119369512196,0.501640785,0.45169535,0.9119652,17,0.0975609756097561,63,15,3,1,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Hawfinch,81,81,0.5824695422222222,0.5423726,0.45008034,0.9795949,13,0.012345679012345678,54,20,6,1,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Manx Shearwater,72,72,0.5633012056944444,0.532967505,0.45265758,0.847451,19,0.013888888888888888,51,16,5,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Common Crane,68,68,0.5767369611764707,0.56610715,0.45259833,0.88361746,15,0.07352941176470588,44,20,4,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Eurasian Scops-Owl,68,68,0.5915724061764706,0.56876857,0.45011118,0.9199725,14,0.014705882352941176,42,19,5,2,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Common Wood-Pigeon,62,62,0.5687710851612904,0.54702057,0.45303765,0.8176532,15,0.04838709677419355,41,18,3,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+European Serin,62,62,0.5928243772580646,0.5621953,0.45026103,0.94396657,11,0.016129032258064516,36,17,7,2,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Ural Owl,61,61,0.5707346478688525,0.55105656,0.45192435,0.9258146,14,0.14754098360655737,44,13,2,2,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Common Raven,57,57,0.56885856,0.5381325,0.45222902,0.91191566,15,0.017543859649122806,37,16,3,1,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Eurasian Hobby,55,55,0.5538495709090909,0.5223435,0.45139512,0.7974123,12,0.18181818181818182,43,8,4,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Cirl Bunting,54,54,0.5976647292592593,0.5776860100000001,0.45272556,0.8699799,13,0.018518518518518517,31,18,5,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Northern Lapwing,48,48,0.5994992245833334,0.58381253,0.45218953,0.84653115,15,0.08333333333333333,29,13,6,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Short-toed Treecreeper,44,44,0.5821219377272727,0.5377851,0.45034206,0.88234913,12,0.022727272727272728,29,8,7,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Redwing,43,43,0.6159791853488372,0.60148185,0.45846373,0.9211701,12,0.0,21,10,10,2,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+European Honey-buzzard,40,40,0.5859866225,0.5572108,0.4516032,0.89044964,9,0.1,23,15,2,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Eurasian Golden Oriole,38,38,0.6123987889473684,0.6051908500000001,0.46232408,0.9003473,8,0.0,18,14,5,1,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Black-legged Kittiwake,37,37,0.55196563,0.51810837,0.45755804,0.876774,8,0.0,29,5,3,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Gray Partridge,37,37,0.5260494964864865,0.51105815,0.45436275,0.7568923,13,0.05405405405405406,32,4,1,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Lesser Spotted Woodpecker,34,34,0.5683668811764706,0.5351406000000001,0.45649734,0.78870225,10,0.08823529411764706,22,10,2,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Whooper Swan,34,34,0.5670298223529412,0.522125225,0.45030275,0.81298053,16,0.0,23,7,4,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Eurasian Siskin,33,33,0.6022749509090909,0.59273434,0.4532118,0.79839325,11,0.0,17,12,4,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Iberian Chiffchaff,32,32,0.5175466871875,0.50470382,0.45208374,0.624374,10,0.0,30,2,0,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Crested Tit,27,27,0.53116759,0.49389553,0.45450965,0.70140475,14,0.1111111111111111,22,5,0,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Willow Tit,26,26,0.5960415234615385,0.566117225,0.45107445,0.90894824,8,0.0,14,7,4,1,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Willow Warbler,25,25,0.584856024,0.54647166,0.4500613,0.87423605,8,0.0,16,5,4,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Black Redstart,22,22,0.5902412104545455,0.57795706,0.45145845,0.7606214,12,0.0,12,8,2,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Eurasian Collared-Dove,22,22,0.5446065472727273,0.5130174999999999,0.45717236,0.7600015,7,0.13636363636363635,17,3,2,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Rock Pigeon,22,22,0.5624630431818182,0.5293177,0.4555873,0.744351,13,0.0,16,6,0,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Spotted Flycatcher,22,22,0.5779526700000001,0.5403300849999999,0.46438643,0.88392234,11,0.09090909090909091,13,8,1,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Yellow-browed Warbler,22,22,0.6193246763636364,0.60971407,0.48825717,0.87047243,6,0.045454545454545456,11,9,2,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Ring Ouzel,21,21,0.5455917333333333,0.5192108,0.46843168,0.84863913,8,0.09523809523809523,17,3,1,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Wood Warbler,21,21,0.5793886557142857,0.5590581,0.4525726,0.8553934,9,0.09523809523809523,12,7,2,0,0,0,0,,0,False,6,6,unvalidated_screening_n6,not_assessed_or_no_signal
+Common Murre,20,20,0.5110034910000001,0.49494798,0.45527294,0.6621253,8,0.0,19,1,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Moorhen,20,20,0.556099567,0.5240324000000001,0.4503937,0.95958287,9,0.05,16,3,0,1,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Herring Gull,20,20,0.611639325,0.57639119,0.4571218,0.8063444,9,0.05,11,6,3,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Woodcock,19,19,0.7743136421052632,0.75398576,0.45838466,0.9957125,5,0.0,4,5,4,6,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Black Kite,18,18,0.5900485461111111,0.56699977,0.4602751,0.74258107,10,0.7222222222222222,10,8,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Bohemian Waxwing,18,18,0.5780441633333333,0.5677649499999999,0.4585801,0.7726548,11,0.0,10,7,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Gray Heron,18,18,0.5778477788888889,0.561074235,0.4508666,0.7860268,8,0.05555555555555555,10,6,2,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Common Snipe,17,17,0.5693309829411765,0.5252944,0.4663205,0.83264166,9,0.0,12,3,2,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Green Sandpiper,17,17,0.6063389658823529,0.56793946,0.4606293,0.9021706,8,0.0,11,3,2,1,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+European Storm-Petrel,16,16,0.56201978625,0.5588843,0.47388804,0.7229519,6,0.0625,12,4,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Ortolan Bunting,16,16,0.555489845625,0.5099865299999999,0.45669264,0.7375522,7,0.125,12,4,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Rock Bunting,16,16,0.60098372,0.55580158,0.45112985,0.86531985,7,0.125,10,4,2,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Collared Flycatcher,15,15,0.5825509666666666,0.5690306,0.45364228,0.79407984,9,0.2,9,5,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Siberian Accentor,15,15,0.6602550533333333,0.69589674,0.49737275,0.8371738,2,0.06666666666666667,6,5,4,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+European Golden-Plover,14,14,0.5771332842857142,0.56039465,0.46683273,0.7442728,7,0.0,9,5,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+European Turtle-Dove,14,14,0.63486725,0.5725484,0.50113934,0.9621485,5,0.0,8,4,0,2,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Lesser Whitethroat,14,14,0.5818175242857143,0.56163895,0.46192268,0.8295314,4,0.0,10,3,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Mandarin Duck,14,14,0.661854675,0.68459722,0.45110583,0.94385535,6,0.2857142857142857,5,5,3,1,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Red-throated Loon,14,14,0.54958503,0.48404306,0.4540036,0.77130604,3,0.0,11,1,2,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Stock Dove,14,14,0.6108418657142857,0.57086528,0.4535576,0.96726614,4,0.0,8,3,2,1,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+European Stonechat,13,13,0.5799364130769231,0.5892445,0.46253607,0.727531,6,0.23076923076923078,7,6,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Black-tailed Godwit,12,12,0.6032522133333333,0.6195846,0.45285612,0.74300104,7,0.0,5,7,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Pygmy-Owl,12,12,0.585981725,0.565437405,0.45238864,0.83903164,8,0.0,7,4,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Little Bittern,12,12,0.6252927366666666,0.5919353,0.4931586,0.88226736,10,0.0,6,5,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Penduline-Tit,11,11,0.5215321763636364,0.5249367,0.46081445,0.5942314,6,0.09090909090909091,11,0,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Little Ringed Plover,11,11,0.5813710654545454,0.53149945,0.46907043,0.7813279,7,0.09090909090909091,7,3,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Red-legged Partridge,11,11,0.62813822,0.531581,0.47751847,0.93370664,7,0.0,6,2,2,1,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Spectacled Warbler,11,11,0.5215413963636364,0.5180684,0.4580895,0.5969725,5,0.5454545454545454,11,0,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Barnacle Goose,10,10,0.5698438539999999,0.54902008,0.450925,0.77693087,7,0.0,6,3,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Fieldfare,10,10,0.58993649,0.5426899700000001,0.4819466,0.8694324,7,0.2,7,2,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Peregrine Falcon,10,10,0.694868521,0.665499265,0.454868,0.9912141,5,0.1,4,2,2,2,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Water Rail,10,10,0.543870494,0.528954505,0.46873704,0.6958819,6,0.0,9,1,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Razorbill,9,9,0.6231773288888889,0.61276287,0.47823462,0.7805908,6,0.1111111111111111,4,4,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Spotted Crake,9,9,0.6106519133333334,0.61603785,0.50871366,0.71686107,4,0.1111111111111111,4,5,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Corn Bunting,8,8,0.6158875475,0.574422735,0.50836205,0.89705837,4,0.0,6,1,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Crested Lark,8,8,0.56074287,0.527456555,0.45640486,0.73296916,4,0.0,6,2,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Coot,8,8,0.57677691625,0.52915933,0.45050865,0.84926534,5,0.0,5,2,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Hoopoe,8,8,0.61189263625,0.58398737,0.48410422,0.76691294,4,0.125,5,2,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Oystercatcher,8,8,0.53669498,0.500123205,0.45416543,0.6787676,7,0.125,6,2,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Reed Warbler,8,8,0.50016844625,0.488029335,0.45454568,0.5856449,6,0.0,8,0,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Greater Whitethroat,8,8,0.54397321,0.5269323,0.46172923,0.68297505,4,0.125,6,2,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Red-breasted Flycatcher,8,8,0.60448869125,0.6063268500000001,0.47582662,0.73134536,6,0.25,3,5,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Rock Partridge,8,8,0.5386960737500001,0.52871886,0.47435492,0.67128694,2,0.0,6,2,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Whinchat,8,8,0.6342810812499999,0.59896185,0.47291222,0.935205,2,0.0,4,2,1,1,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Yellow-headed Parrot,8,8,0.596086975,0.55124363,0.4877227,0.7689509,2,0.0,5,1,2,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Barn Owl,7,7,0.6488980042857142,0.60816604,0.4914498,0.84594065,3,0.0,3,2,2,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Corsican Finch,7,7,0.55679137,0.5429141,0.46685046,0.78294885,2,0.0,5,1,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+European Pied Flycatcher,7,7,0.5354849071428571,0.5426491,0.46656525,0.6310165,3,0.0,6,1,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Green-winged Teal,7,7,0.5612557114285714,0.54854435,0.452474,0.6395393,4,0.5714285714285714,4,3,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Western Yellow Wagtail,7,7,0.5406039957142857,0.5067644,0.46994802,0.75177276,6,0.0,6,0,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Yellow-billed Chough,7,7,0.5723596314285714,0.5589148,0.46609583,0.79800713,4,0.42857142857142855,6,0,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Aquatic Warbler,6,6,0.6184929016666666,0.57647705,0.47739455,0.7879544,5,0.0,4,0,2,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Hazel Grouse,6,6,0.5792427716666667,0.5588367399999999,0.4639603,0.7190323,3,0.16666666666666666,3,3,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Iberian Green Woodpecker,6,6,0.607197745,0.631832135,0.46662453,0.72640294,3,0.5,3,3,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Lesser Black-backed Gull,6,6,0.49091276500000003,0.47869469,0.46535823,0.567498,2,0.0,6,0,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Sedge Warbler,6,6,0.5153495583333333,0.5256463499999999,0.4599878,0.5729143,3,0.0,6,0,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Common Chaffinch,5,5,0.532069514,0.5076576,0.45656562,0.7051435,3,0.0,4,1,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Common Waxbill,5,5,0.50977205,0.5127268,0.474183,0.53957665,4,0.0,5,0,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Common Cuckoo,4,4,0.551074425,0.5294035100000001,0.46553132,0.67995936,3,0.0,3,1,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Common House-Martin,4,4,0.6017225749999999,0.55317408,0.4810982,0.81944394,2,0.0,3,0,1,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Corsican Nuthatch,4,4,0.56034228,0.54156078,0.52140296,0.6368446,1,0.0,3,1,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Linnet,4,4,0.564504135,0.55676042,0.49634996,0.64814574,4,0.0,3,1,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Eurasian Nutcracker,4,4,0.51318279,0.49345598,0.4692543,0.5965649,2,0.0,4,0,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Northern Gannet,4,4,0.488220195,0.465477315,0.4623621,0.55956405,4,0.0,4,0,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Pin-tailed Whydah,4,4,0.513136155,0.504686445,0.4767209,0.56645083,2,0.0,4,0,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Pink-footed Goose,4,4,0.5617471549999999,0.57864763,0.46897572,0.62071764,4,0.0,2,2,0,0,0,0,0,,0,False,4,4,unvalidated_screening_n4,not_assessed_or_no_signal
+Black Grouse,3,3,0.64599558,0.6469265,0.53402424,0.757036,3,0.0,1,1,1,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Black-bellied Plover,3,3,0.59383008,0.5964364,0.5867141,0.59833974,2,0.3333333333333333,3,0,0,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Common Nightingale,3,3,0.54513689,0.49120763,0.48521027,0.65899277,3,0.0,2,1,0,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Common Quail,3,3,0.6877671166666667,0.6339523,0.6300448,0.79930425,3,0.0,0,2,1,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Eurasian Wigeon,3,3,0.4907471266666667,0.47062498,0.4667895,0.5348269,3,0.0,3,0,0,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Great Black-backed Gull,3,3,0.5465683833333334,0.57328343,0.49271402,0.5737077,3,0.0,3,0,0,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Greater White-fronted Goose,3,3,0.48480396666666664,0.4821283,0.4646905,0.5075931,3,0.0,3,0,0,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Marmora's Warbler,3,3,0.49964808000000005,0.49224946,0.47967488,0.5270199,1,0.3333333333333333,3,0,0,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Parrot Crossbill,3,3,0.50192201,0.50042856,0.45207307,0.5532644,2,0.0,3,0,0,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Pied Avocet,3,3,0.6925071666666667,0.6871222,0.6694182,0.7209811,1,0.0,0,3,0,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+White Wagtail,3,3,0.58298395,0.57757163,0.50373846,0.66764176,3,0.0,2,1,0,0,0,0,0,,0,False,3,3,unvalidated_complete_census,not_assessed_or_no_signal
+Common Rosefinch,2,2,0.49814716,0.49814716,0.48944336,0.50685096,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Common Swift,2,2,0.696019615,0.696019615,0.553375,0.83866423,2,0.0,1,0,1,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Dartford Warbler,2,2,0.617030835,0.617030835,0.6076001,0.62646157,2,0.5,0,2,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Eurasian Crag-Martin,2,2,0.52153339,0.52153339,0.47906828,0.5639985,1,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Eurasian Dotterel,2,2,0.501974935,0.501974935,0.46718857,0.5367613,1,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Eurasian Nightjar,2,2,0.47900132500000003,0.47900132500000003,0.455336,0.50266665,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+European Roller,2,2,0.60709513,0.60709513,0.5675431,0.64664716,2,0.0,1,1,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Great Crested Grebe,2,2,0.46879912999999995,0.46879912999999995,0.45130348,0.48629478,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Great Reed Warbler,2,2,0.5162529650000001,0.5162529650000001,0.50065213,0.5318538,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Great Skua,2,2,0.484987735,0.484987735,0.4664486,0.50352687,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Horned Lark,2,2,0.575490295,0.575490295,0.55832505,0.59265554,1,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Lady Amherst's Pheasant,2,2,0.525548385,0.525548385,0.4845635,0.56653327,1,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Lesser Kestrel,2,2,0.496857135,0.496857135,0.47397572,0.51973855,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Little Crake,2,2,0.681298325,0.681298325,0.5377573,0.82483935,2,0.0,1,0,1,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Little Grebe,2,2,0.48014058000000004,0.48014058000000004,0.45730296,0.5029782,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Mew Gull,2,2,0.65511924,0.65511924,0.47817048,0.832068,2,0.0,1,0,1,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Northern Fulmar,2,2,0.5054335,0.5054335,0.48369163,0.52717537,1,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Osprey,2,2,0.48757005,0.48757005,0.4543949,0.5207452,2,1.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Red Crossbill,2,2,0.646401405,0.646401405,0.55251896,0.74028385,2,0.0,1,1,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Rough-legged Hawk,2,2,0.51275162,0.51275162,0.46624634,0.5592569,1,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Ruddy Shelduck,2,2,0.598178065,0.598178065,0.56911683,0.6272393,2,0.5,1,1,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Sardinian Warbler,2,2,0.582375815,0.582375815,0.53551763,0.629234,2,0.0,1,1,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Small Buttonquail,2,2,0.532885185,0.532885185,0.47554177,0.5902286,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Tawny Pipit,2,2,0.5489779800000001,0.5489779800000001,0.5251763,0.57277966,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Western Bonelli's Warbler,2,2,0.50122137,0.50122137,0.4860405,0.51640224,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+White-winged Crossbill,2,2,0.501636875,0.501636875,0.495774,0.50749975,2,0.5,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+White-winged Snowfinch,2,2,0.51312344,0.51312344,0.49074313,0.53550375,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+White-winged Tern,2,2,0.74221888,0.74221888,0.7042973,0.78014046,2,0.0,0,1,1,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Wood Sandpiper,2,2,0.46751725,0.46751725,0.4597222,0.4753123,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Yellowhammer,2,2,0.5358439349999999,0.5358439349999999,0.52122074,0.55046713,2,0.0,2,0,0,0,0,0,0,,0,False,2,2,unvalidated_complete_census,not_assessed_or_no_signal
+Black Tern,1,1,0.49915445,0.49915445,0.49915445,0.49915445,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Black-crowned Night-Heron,1,1,0.6443322,0.6443322,0.6443322,0.6443322,1,0.0,0,1,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Bluethroat,1,1,0.62343526,0.62343526,0.62343526,0.62343526,1,0.0,0,1,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Cetti's Warbler,1,1,0.738174,0.738174,0.738174,0.738174,1,0.0,0,1,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Common Pochard,1,1,0.5284641,0.5284641,0.5284641,0.5284641,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Common Redshank,1,1,0.5139923,0.5139923,0.5139923,0.5139923,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Common Ringed Plover,1,1,0.692852,0.692852,0.692852,0.692852,1,0.0,0,1,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Common Scoter,1,1,0.5650934,0.5650934,0.5650934,0.5650934,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Common Tern,1,1,0.4552941,0.4552941,0.4552941,0.4552941,1,1.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Eurasian Thick-knee,1,1,0.78177744,0.78177744,0.78177744,0.78177744,1,1.0,0,0,1,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+European Bee-eater,1,1,0.81063586,0.81063586,0.81063586,0.81063586,1,0.0,0,0,1,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+European Starling,1,1,0.68616617,0.68616617,0.68616617,0.68616617,1,0.0,0,1,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Garden Warbler,1,1,0.54411656,0.54411656,0.54411656,0.54411656,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Golden Eagle,1,1,0.63454306,0.63454306,0.63454306,0.63454306,1,0.0,0,1,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Greater Short-toed Lark,1,1,0.48060077,0.48060077,0.48060077,0.48060077,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Mallard,1,1,0.46616498,0.46616498,0.46616498,0.46616498,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Mediterranean Flycatcher,1,1,0.67246586,0.67246586,0.67246586,0.67246586,1,1.0,0,1,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Mediterranean Gull,1,1,0.49727008,0.49727008,0.49727008,0.49727008,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Pin-tailed Sandgrouse,1,1,0.4881342,0.4881342,0.4881342,0.4881342,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Red-flanked Bluetail,1,1,0.75621206,0.75621206,0.75621206,0.75621206,1,0.0,0,0,1,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+River Warbler,1,1,0.49184805,0.49184805,0.49184805,0.49184805,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Rock Sparrow,1,1,0.5211301,0.5211301,0.5211301,0.5211301,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Ruff,1,1,0.6797722,0.6797722,0.6797722,0.6797722,1,0.0,0,1,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Savi's Warbler,1,1,0.48778033,0.48778033,0.48778033,0.48778033,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Subalpine Warbler,1,1,0.7538783,0.7538783,0.7538783,0.7538783,1,0.0,0,0,1,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Twite,1,1,0.5022717,0.5022717,0.5022717,0.5022717,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Water Pipit,1,1,0.5331843,0.5331843,0.5331843,0.5331843,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Western Orphean Warbler,1,1,0.5145341,0.5145341,0.5145341,0.5145341,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+White Stork,1,1,0.56373286,0.56373286,0.56373286,0.56373286,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+White-tailed Eagle,1,1,0.48502633,0.48502633,0.48502633,0.48502633,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Yellow-legged Gull,1,1,0.46356636,0.46356636,0.46356636,0.46356636,1,0.0,1,0,0,0,0,0,0,,0,False,1,1,unvalidated_complete_census,not_assessed_or_no_signal
+Rose-ringed Parakeet,12718,12718,0.7634715994959899,0.78276877,0.4500514,0.9998671,23,0.018556376788803272,3089,2635,2996,3998,38,38,38,1.0,0,True,38,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Jackdaw,10811,10811,0.7429725975709925,0.75027883,0.45007607,0.99887854,23,0.033299417260197944,2869,2534,2709,2699,42,42,40,0.9523809523809523,0,True,42,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Wren,9435,9435,0.6493281244621092,0.61746573,0.450053,0.99895847,22,0.005193428722840488,4321,2668,1646,800,34,34,31,0.9117647058823529,0,True,34,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Blue Tit,4529,4529,0.6230988471892249,0.59199095,0.45007947,0.9921159,22,0.010156767498344006,2359,1274,721,175,32,32,31,0.96875,0,True,32,0,already_validated_round1,not_assessed_or_no_signal
+Ring-necked Pheasant,4271,4271,0.8677613110793725,0.94355565,0.45010868,0.99997556,20,0.014048232264106767,441,481,768,2581,36,36,35,0.9722222222222222,0,True,36,0,already_validated_round1,not_assessed_or_no_signal
+European Robin,2685,2685,0.6518868306331471,0.6201826,0.4500332,0.9972589,22,0.00484171322160149,1237,711,517,220,32,32,29,0.90625,0,True,32,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Green Woodpecker,1685,1685,0.7255667177744808,0.72277814,0.45025766,0.99818134,22,0.03086053412462908,490,430,404,361,36,36,35,0.9722222222222222,0,True,36,0,already_validated_round1,not_assessed_or_no_signal
+Tawny Owl,1505,1505,0.7035269571627907,0.6860503,0.45002905,0.99963486,23,0.06245847176079734,532,345,354,274,36,36,27,0.75,0,True,36,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Wryneck,1426,1426,0.6355896567110799,0.606887365,0.45017582,0.9908071,19,0.1640953716690042,687,413,260,66,37,36,1,0.027777777777777776,7,True,37,0,already_validated_round1,yes_round1_signal
+Red-billed Chough,1239,1239,0.6200216240516545,0.58982366,0.45040512,0.9893111,19,0.19854721549636803,654,356,191,38,40,40,0,0.0,8,True,40,0,already_validated_round1,yes_round1_signal
+Dunnock,1045,1045,0.6835422459808613,0.65672755,0.45061833,0.997757,17,0.023923444976076555,418,271,190,166,5,5,4,0.8,0,True,5,0,already_validated_round1,not_assessed_or_no_signal
+Great Bittern,844,844,0.6426966704383887,0.6230406850000001,0.450024,0.975183,23,0.001184834123222749,373,269,174,28,2,2,0,0.0,1,True,2,0,already_validated_round1,yes_round1_signal
+Long-tailed Tit,615,615,0.6599891941951219,0.6405944,0.45105118,0.9816051,23,0.02113821138211382,263,178,132,42,4,4,4,1.0,0,True,4,0,already_validated_round1,not_assessed_or_no_signal
+Mistle Thrush,580,580,0.6256544357068965,0.5858577650000001,0.45026562,0.99215454,19,0.05344827586206897,306,150,91,33,4,4,3,0.75,0,True,4,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Treecreeper,567,567,0.5902283946031746,0.5514346,0.45017785,0.9614026,18,0.02292768959435626,366,131,53,17,1,1,0,0.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Common Buzzard,563,563,0.6795543195737123,0.649445,0.45069855,0.99856645,23,0.06216696269982238,232,140,100,91,5,5,4,0.8,0,True,5,0,already_validated_round1,not_assessed_or_no_signal
+Carrion Crow,553,553,0.5731808960578662,0.5527805,0.4500144,0.8881405,21,0.2423146473779385,360,160,33,0,4,4,4,1.0,0,True,4,0,already_validated_round1,not_assessed_or_no_signal
+Little Owl,509,509,0.5826320107072691,0.5545706,0.4501198,0.95494276,23,0.18664047151277013,328,127,51,3,3,2,2,1.0,0,True,3,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Magpie,486,486,0.6597113547736626,0.61153892,0.45001635,0.9988832,22,0.1419753086419753,231,119,69,67,4,4,3,0.75,0,True,4,0,already_validated_round1,not_assessed_or_no_signal
+Great Tit,478,478,0.5857431427196653,0.56118955,0.45004034,0.9704169,16,0.03556485355648536,308,118,43,9,3,3,3,1.0,0,True,3,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Blackbird,465,465,0.5788403797849463,0.5465442,0.45005637,0.9316248,13,0.02795698924731183,304,118,37,6,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Great Spotted Woodpecker,465,465,0.6585981661935484,0.632895,0.45150563,0.98703396,19,0.010752688172043012,206,119,107,33,5,5,5,1.0,0,True,5,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Jay,428,428,0.6892883478271028,0.68329855,0.45014495,0.99571145,23,0.002336448598130841,162,102,109,55,2,2,2,1.0,0,True,2,0,already_validated_round1,not_assessed_or_no_signal
+Wood Lark,424,424,0.5743791156603774,0.549168965,0.4506501,0.95230263,14,0.02830188679245283,281,109,31,3,2,2,2,1.0,0,True,2,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Eagle-Owl,335,335,0.6110857105970149,0.5874742,0.4506251,0.9298404,23,0.25671641791044775,180,103,49,3,4,3,0,0.0,0,True,4,0,already_validated_round1,yes_round1_signal
+Hooded Crow,212,212,0.5774665185849057,0.551138015,0.450265,0.87010336,20,0.6179245283018868,139,53,20,0,3,3,2,0.6666666666666666,0,True,3,0,already_validated_round1,yes_round1_signal
+Common Sandpiper,195,195,0.6173427296410257,0.5753833,0.45004436,0.986912,17,0.03076923076923077,108,51,30,6,3,3,1,0.3333333333333333,0,True,3,0,already_validated_round1,yes_round1_signal
+Boreal Owl,191,191,0.6257408806282723,0.60091823,0.45026925,0.9799785,20,0.10471204188481675,94,60,27,10,2,2,2,1.0,0,True,2,0,already_validated_round1,not_assessed_or_no_signal
+Red Kite,168,168,0.7004654526785714,0.6667024,0.45795286,0.9972038,18,0.2261904761904762,51,58,30,29,3,3,2,0.6666666666666666,0,True,3,0,already_validated_round1,yes_round1_signal
+Long-eared Owl,155,155,0.5676659035483871,0.53630936,0.4504156,0.9148451,21,0.4967741935483871,111,31,11,2,1,1,0,0.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Common Grasshopper-Warbler,121,121,0.5886175977685951,0.5575008,0.45043856,0.90176046,14,0.04132231404958678,75,32,13,1,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+European Goldfinch,91,91,0.6065874071428572,0.579136,0.4530639,0.9704804,14,0.01098901098901099,48,31,9,3,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Atlantic Puffin,87,87,0.5888422544827586,0.56654066,0.45007792,0.8732408,20,0.011494252873563218,56,20,11,0,1,1,0,0.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Egyptian Goose,72,72,0.7312181870833334,0.71982362,0.45726347,0.99771225,12,0.2222222222222222,22,15,21,14,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+European Greenfinch,68,68,0.6201735325,0.5801081299999999,0.45037928,0.97255313,9,0.0,39,17,9,3,1,1,0,0.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Marsh Tit,64,64,0.55107853703125,0.52234432,0.45413542,0.8652908,12,0.0,49,13,2,0,1,1,0,0.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Canada Goose,61,61,0.6360965801639344,0.5781292,0.4546372,0.93650657,18,0.01639344262295082,31,12,15,3,1,1,0,0.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Common Kingfisher,46,46,0.5760186508695652,0.53868497,0.45999718,0.85599107,11,0.1956521739130435,29,14,3,0,1,1,0,0.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Barn Swallow,38,38,0.6250568576315789,0.5831772,0.45170197,0.95483744,9,0.05263157894736842,20,10,7,1,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Northern Goshawk,38,38,0.5639965523684211,0.540566425,0.4523908,0.76860744,12,0.18421052631578946,26,10,2,0,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Bearded Reedling,27,27,0.6151505188888889,0.63349634,0.46067744,0.9230265,8,0.037037037037037035,12,13,1,1,1,1,0,0.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Eurasian Kestrel,25,25,0.8124229508,0.9460226,0.4731443,0.99266714,8,0.0,5,4,3,13,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Song Thrush,20,20,0.5958872445,0.5765668799999999,0.450677,0.92081106,5,0.0,15,2,2,1,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Common Greenshank,16,16,0.5273837125,0.543283965,0.4525593,0.6098879,4,0.0625,15,1,0,0,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal
+Middle Spotted Woodpecker,12,12,0.5700871666666667,0.5507544550000001,0.45215923,0.7370661,4,0.08333333333333333,7,5,0,0,1,1,1,1.0,0,True,1,0,already_validated_round1,not_assessed_or_no_signal

@@ -1,0 +1,6 @@
+method,method_label,comparisons,direction_stable_n,direction_stable_proportion,mean_absolute_bias_change_points,maximum_absolute_bias_change_points
+Hard_top1,Hard top-1,9,9,1,2.4192646479756994,5.424811241339491
+Naive,Naive: all candidates,9,9,1,2.7158196965592603,5.97955462015738
+Threshold_0.50,Threshold >= 0.50,9,9,1,1.6150482224286167,3.85451384466673
+Threshold_0.70,Threshold >= 0.70,9,9,1,1.2263391367030076,2.3608333069460423
+Threshold_0.90,Threshold >= 0.90,9,9,1,4.626330634609433,13.318606512154041

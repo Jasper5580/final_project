@@ -1,0 +1,6 @@
+Workflow,Comparisons,Stable_direction_n,Stable_direction_proportion,Mean_absolute_bias_change_points,Maximum_absolute_bias_change_points
+Hard top-1,9,9,1,2.42,5.42
+Naive: all candidates,9,9,1,2.72,5.98
+Threshold >= 0.50,9,9,1,1.62,3.85
+Threshold >= 0.70,9,9,1,1.23,2.36
+Threshold >= 0.90,9,9,1,4.63,13.32

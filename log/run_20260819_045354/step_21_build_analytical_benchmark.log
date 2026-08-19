@@ -1,0 +1,16 @@
+G3;Running fixed-probability Monte Carlo: 1000 simulations.
+gG3;  fixed-probability simulation 1/1000
+gG3;  fixed-probability simulation 100/1000
+gG3;  fixed-probability simulation 200/1000
+gG3;  fixed-probability simulation 300/1000
+gG3;  fixed-probability simulation 400/1000
+gG3;  fixed-probability simulation 500/1000
+gG3;  fixed-probability simulation 600/1000
+gG3;  fixed-probability simulation 700/1000
+gG3;  fixed-probability simulation 800/1000
+gG3;  fixed-probability simulation 900/1000
+gG3;  fixed-probability simulation 1000/1000
+gG3;Analytical benchmark completed.
+gG3;Tables: /home/jasper/CMEECourseWork/final_project/results/09_analytical_benchmark/tables
+gG3;Figures: /home/jasper/CMEECourseWork/final_project/results/09_analytical_benchmark/figures
+g

@@ -1,0 +1,9 @@
+check,value,expected
+Species-month expectation rows,5267,5267
+Monthly analytical rows,69,69
+Analytical partition rows,18,18
+Fixed-probability simulations,1000,1000
+Missing fixed monthly values,0,0
+Missing fixed partition values,0,0
+Monthly comparison rows,69,69
+Partition comparison rows,18,18

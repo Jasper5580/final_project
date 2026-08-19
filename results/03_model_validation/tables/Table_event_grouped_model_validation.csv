@@ -1,0 +1,5 @@
+Model,Mean_Brier,SE_Brier,Mean_log_loss,SE_log_loss,Calibration_intercept,Calibration_slope,Singular_folds,Maximum_gradient,Selected_for_propagation
+M3: Species-aware,0.1245,6e-4,0.3954,0.0021,0.098,0.84,0,5.94e-4,TRUE
+M4: Random score slope,0.1258,8e-4,0.4005,0.0028,0.093,0.802,0,114,FALSE
+M2: Score + event,0.1999,2e-4,0.5821,4e-4,0,0.983,0,,FALSE
+M1: Score,0.201,1e-4,0.5845,2e-4,0,0.988,0,,FALSE

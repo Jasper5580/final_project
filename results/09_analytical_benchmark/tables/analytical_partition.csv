@@ -1,0 +1,19 @@
+weighting,q,component,analytical_estimate,analytical_type,n_months_used,q_label,component_label
+equal_month,0,alpha,48.909566851335924,Expected-richness alpha component,,q = 0: Richness,Alpha
+equal_month,0,gamma,154.81672252573625,Expected-richness gamma component,,q = 0: Richness,Gamma
+equal_month,0,beta,3.1653668697642035,Ratio of expected-richness components,,q = 0: Richness,Beta
+equal_month,1,alpha,8.901269563277385,Plug-in Hill partition,23,q = 1: Exponential Shannon,Alpha
+equal_month,1,gamma,14.758227995719231,Plug-in Hill partition,23,q = 1: Exponential Shannon,Gamma
+equal_month,1,beta,1.6579913562673139,Plug-in Hill partition,23,q = 1: Exponential Shannon,Beta
+equal_month,2,alpha,4.707232180588226,Plug-in Hill partition,23,q = 2: Inverse Simpson,Alpha
+equal_month,2,gamma,8.150574374877221,Plug-in Hill partition,23,q = 2: Inverse Simpson,Gamma
+equal_month,2,beta,1.7315003939021143,Plug-in Hill partition,23,q = 2: Inverse Simpson,Beta
+abundance_weighted,0,alpha,64.49708534747639,Expected-richness alpha component,,q = 0: Richness,Alpha
+abundance_weighted,0,gamma,154.81672252573625,Expected-richness gamma component,,q = 0: Richness,Gamma
+abundance_weighted,0,beta,2.4003677327690878,Ratio of expected-richness components,,q = 0: Richness,Beta
+abundance_weighted,1,alpha,8.373646709250245,Plug-in Hill partition,23,q = 1: Exponential Shannon,Alpha
+abundance_weighted,1,gamma,12.521179345748209,Plug-in Hill partition,23,q = 1: Exponential Shannon,Gamma
+abundance_weighted,1,beta,1.4953078127736443,Plug-in Hill partition,23,q = 1: Exponential Shannon,Beta
+abundance_weighted,2,alpha,4.5216672438564025,Plug-in Hill partition,23,q = 2: Inverse Simpson,Alpha
+abundance_weighted,2,gamma,7.285035207472173,Plug-in Hill partition,23,q = 2: Inverse Simpson,Gamma
+abundance_weighted,2,beta,1.6111391693783668,Plug-in Hill partition,23,q = 2: Inverse Simpson,Beta

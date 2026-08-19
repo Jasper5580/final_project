@@ -1,0 +1,4 @@
+scenario,probability_column,n_records,n_species,expected_correct_candidates,mean_probability,median_probability,m2_fallback_records,m2_fallback_species
+Primary M3 hybrid,p_primary,65255,229,51597.14732814877,0.7907002885318944,0.9213406218767664,0,0
+Primary M2 pooled,p_primary_m2,65255,229,37080.3010556035,0.568236932887955,0.5088823204014726,65255,229
+Audio-only hybrid,p_audio_only,65255,229,52237.98524166215,0.800520806706952,0.9118152688661932,1919,19

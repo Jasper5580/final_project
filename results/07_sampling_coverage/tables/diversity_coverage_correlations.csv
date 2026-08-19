@@ -1,0 +1,10 @@
+q,q_label,proxy,proxy_label,n_months,spearman_rho,p_value
+0,q = 0: Richness,represented_audio_hours,Represented audio hours,23,0.9623781244565589,2.3289803519020464e-13
+0,q = 0: Richness,active_detection_days,Active detection days,23,0.8558037663255161,1.928520672476003e-7
+0,q = 0: Richness,active_detection_hours,Active detection hours,23,0.9326409503198055,9.24500242092688e-11
+1,q = 1: Exponential Shannon,represented_audio_hours,Represented audio hours,23,-0.274703557312253,0.20460597944666872
+1,q = 1: Exponential Shannon,active_detection_days,Active detection days,23,-0.21913046249871637,0.3150966118049981
+1,q = 1: Exponential Shannon,active_detection_hours,Active detection hours,23,-0.29115179039071054,0.17770191123930754
+2,q = 2: Inverse Simpson,represented_audio_hours,Represented audio hours,23,-0.31719367588932806,0.1402745330202232
+2,q = 2: Inverse Simpson,active_detection_days,Active detection days,23,-0.3222213846287943,0.13375213110739925
+2,q = 2: Inverse Simpson,active_detection_hours,Active detection hours,23,-0.36628773629799066,0.08561072481957847

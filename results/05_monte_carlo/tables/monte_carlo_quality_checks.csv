@@ -1,0 +1,9 @@
+check,value,expected
+Simulations per scenario,1000,1000
+Monthly draw rows,207000,207000
+Partition draw rows,54000,54000
+Primary count-array simulations,1000,1000
+Primary count-array months,23,23
+Primary count-array species,229,229
+Missing monthly diversity values,0,0
+Missing partition diversity values,0,0

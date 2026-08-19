@@ -1,0 +1,40 @@
+\clearpage
+\begin{landscape}
+\scriptsize
+\setlength{\tabcolsep}{2.4pt}
+\renewcommand{\arraystretch}{1.02}
+\begin{longtable}{L{1.5cm}L{1.0cm}L{2.6cm}L{2.4cm}*{9}{C{1.05cm}}}
+\caption{Fixed-effect estimates from the fitted calibration models. Estimates are reported on the log-odds scale for Primary M1--M4 and for the Audio-only M2--M3 sensitivity models. The table gives model-based standard errors, test statistics, $p$-values, 95\% intervals and corresponding odds ratios. The multi-candidate event coefficient compares event-species candidates from acoustic events containing more than one BirdNET candidate label with those from single-candidate events. Random-effect standard deviations are reported separately.}\label{tab:supp-fixed-effects}\\
+\toprule
+Analysis & Model & Model label & Term & Est. & SE & Stat. & $p$ & CI low & CI high & OR & OR low & OR high \\
+\midrule
+\endfirsthead
+\multicolumn{13}{l}{\textit{Table S2 continued from previous page}}\\
+\toprule
+Analysis & Model & Model label & Term & Est. & SE & Stat. & $p$ & CI low & CI high & OR & OR low & OR high \\
+\midrule
+\endhead
+\midrule
+\multicolumn{13}{r}{\textit{Continued on next page}}\\
+\endfoot
+\bottomrule
+\endlastfoot
+Primary & M1 & M1: Score & Intercept & -0.831 & 0.085 & -9.78 & $1.37\times 10^{-22}$ & -0.997 & -0.664 & 0.436 & 0.369 & 0.515 \\
+Primary & M1 & M1: Score & logit score & 1.192 & 0.095 & 12.57 & $2.91\times 10^{-36}$ & 1.007 & 1.378 & 3.295 & 2.736 & 3.968 \\
+Primary & M2 & M2: Score + event & Intercept & -0.781 & 0.087 & -9.02 & $1.93\times 10^{-19}$ & -0.951 & -0.612 & 0.458 & 0.386 & 0.542 \\
+Primary & M2 & M2: Score + event & logit score & 1.217 & 0.096 & 12.65 & $1.15\times 10^{-36}$ & 1.028 & 1.406 & 3.377 & 2.797 & 4.078 \\
+Primary & M2 & M2: Score + event & multi-candidate event & -0.584 & 0.217 & -2.69 & 0.007 & -1.009 & -0.158 & 0.558 & 0.364 & 0.854 \\
+Primary & M3 & M3: Species-aware & Intercept & -2.062 & 0.263 & -7.84 & $4.65\times 10^{-15}$ & -2.578 & -1.546 & 0.127 & 0.076 & 0.213 \\
+Primary & M3 & M3: Species-aware & logit score & 1.840 & 0.183 & 10.04 & $1.02\times 10^{-23}$ & 1.480 & 2.199 & 6.294 & 4.395 & 9.014 \\
+Primary & M3 & M3: Species-aware & multi-candidate event & -0.596 & 0.370 & -1.61 & 0.107 & -1.320 & 0.128 & 0.551 & 0.267 & 1.137 \\
+Primary & M4 & M4: Random score slope & Intercept & -2.077 & 0.268 & -7.75 & $9.03\times 10^{-15}$ & -2.602 & -1.552 & 0.125 & 0.074 & 0.212 \\
+Primary & M4 & M4: Random score slope & logit score & 2.001 & 0.245 & 8.16 & $3.48\times 10^{-16}$ & 1.520 & 2.482 & 7.396 & 4.572 & 11.963 \\
+Primary & M4 & M4: Random score slope & multi-candidate event & -0.580 & 0.383 & -1.51 & 0.130 & -1.330 & 0.170 & 0.560 & 0.265 & 1.186 \\
+Audio-only & M2 & M2: Score + event & Intercept & -0.677 & 0.094 & -7.21 & $5.64\times 10^{-13}$ & -0.861 & -0.493 & 0.508 & 0.423 & 0.611 \\
+Audio-only & M2 & M2: Score + event & logit score & 1.580 & 0.128 & 12.38 & $3.15\times 10^{-35}$ & 1.330 & 1.830 & 4.853 & 3.780 & 6.231 \\
+Audio-only & M2 & M2: Score + event & multi-candidate event & -0.319 & 0.248 & -1.29 & 0.197 & -0.805 & 0.166 & 0.727 & 0.447 & 1.180 \\
+Audio-only & M3 & M3: Species-aware & Intercept & -1.579 & 0.222 & -7.10 & $1.26\times 10^{-12}$ & -2.015 & -1.143 & 0.206 & 0.133 & 0.319 \\
+Audio-only & M3 & M3: Species-aware & logit score & 1.915 & 0.189 & 10.11 & $4.78\times 10^{-24}$ & 1.544 & 2.286 & 6.789 & 4.684 & 9.840 \\
+Audio-only & M3 & M3: Species-aware & multi-candidate event & -0.533 & 0.364 & -1.47 & 0.143 & -1.246 & 0.180 & 0.587 & 0.288 & 1.197 \\
+\end{longtable}
+\end{landscape}

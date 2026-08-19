@@ -1,0 +1,17 @@
+Symbol,Definition
+r,Event-species candidate record.
+j,Sampled month.
+s,Predicted species.
+b,Monte Carlo simulation.
+q,Hill diversity order.
+Y_r,Manually validated correctness outcome for candidate r.
+x_r,Original BirdNET confidence score.
+x_r*,Logit-transformed BirdNET confidence score.
+m_r,Indicator that candidate r came from a multi-candidate acoustic event.
+p_r,Candidate-level correctness probability for candidate r.
+Z_r^(b),Simulated correctness state of candidate r in simulation b.
+R_js,Set of records predicted as species s in month j.
+n_js^(b),Retained candidate count for species s in month j.
+pi_js^(b),Relative candidate-record frequency.
+w_j,Weight assigned to month j.
+J,Number of sampled months included in a partition.

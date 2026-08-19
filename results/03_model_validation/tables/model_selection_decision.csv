@@ -1,0 +1,2 @@
+selected_primary_model,m4_stable,m4_improved_brier_and_log_loss,decision_rule,interpretation
+M3,FALSE,FALSE,"M4 replaces M3 only if all folds fit without singularity, maximum gradient <= 0.01, and both mean Brier score and mean log loss improve.",M3 retained for downstream propagation; M4 remains a structural sensitivity model.

@@ -1,0 +1,4 @@
+id,event_id,audio_id,analysis,predicted_species,birdnet_score,year_month,start_secs,end_secs,duration_secs,candidate_labels_in_event,example_order,raw_analysis,raw_species_tag,raw_confidence,raw_detected_time
+704a5ab20379b40f9db9854cf5,704a5ab20379b40f9db9_105_108,704a5ab20379b40f9db9,birdnet-lite,European Robin,0.75000495,2022-10,105,108,3,1,1,birdnet-lite,European Robin,0.75000495,2022-10-20T09:57:53Z
+b39955b8c643803f33ea7d71f5,b39955b8c643803f33ea_99_102,b39955b8c643803f33ea,birdnet-lite,Red-billed Chough,0.9102298,2023-06,99,102,3,2,2,birdnet-lite,Red-billed Chough,0.9102298,2023-06-10T17:12:27Z
+b39955b8c643803f33eaa60aef,b39955b8c643803f33ea_99_102,b39955b8c643803f33ea,birdnet-lite,Eurasian Jackdaw,0.4906428,2023-06,99,102,3,2,3,birdnet-lite,Eurasian Jackdaw,0.4906428,2023-06-10T17:12:27Z

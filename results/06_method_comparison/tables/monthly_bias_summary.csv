@@ -1,0 +1,22 @@
+method,method_label,method_class,q,q_label,median_percentage_difference,lower_quartile_percentage_difference,upper_quartile_percentage_difference
+Audio_only,Audio-only sensitivity,Probability sensitivity,0,q = 0: Richness,11.111111111111116,9.918032786885256,11.83333333333334
+Audio_only,Audio-only sensitivity,Probability sensitivity,1,q = 1: Exponential Shannon,6.172173046964113,5.1114111866551575,8.942500331346015
+Audio_only,Audio-only sensitivity,Probability sensitivity,2,q = 2: Inverse Simpson,2.45851968757711,2.2403979298636245,5.699899090600269
+Hard_top1,Hard top-1,Deterministic,0,q = 0: Richness,57.8125,55.314009661835755,62.019230769230774
+Hard_top1,Hard top-1,Deterministic,1,q = 1: Exponential Shannon,56.17314359031567,51.439422939563094,61.20775738649525
+Hard_top1,Hard top-1,Deterministic,2,q = 2: Inverse Simpson,33.92285899189977,30.63577591108986,42.404859275000874
+Naive,Naive: all candidates,Deterministic,0,q = 0: Richness,60.86956521739131,58.4349593495935,64.99999999999999
+Naive,Naive: all candidates,Deterministic,1,q = 1: Exponential Shannon,61.566669561967814,58.27556227537993,65.8207232747632
+Naive,Naive: all candidates,Deterministic,2,q = 2: Inverse Simpson,36.96079518488693,34.03805330430184,47.95319171965381
+Primary_M2,Primary M2: pooled,Probability sensitivity,0,q = 0: Richness,19.999999999999996,16.025641025641026,21.384493670886073
+Primary_M2,Primary M2: pooled,Probability sensitivity,1,q = 1: Exponential Shannon,26.52430527228853,23.439779778722002,28.31151659206533
+Primary_M2,Primary M2: pooled,Probability sensitivity,2,q = 2: Inverse Simpson,13.752637016933189,11.62665915765919,23.814724091382253
+Threshold_0.50,Threshold >= 0.50,Deterministic,0,q = 0: Richness,41.46341463414633,38.873626373626365,45.08064516129032
+Threshold_0.50,Threshold >= 0.50,Deterministic,1,q = 1: Exponential Shannon,42.53361315673372,39.81353007433391,49.99061789829167
+Threshold_0.50,Threshold >= 0.50,Deterministic,2,q = 2: Inverse Simpson,26.10671349510727,23.9543706586546,34.35046113554956
+Threshold_0.70,Threshold >= 0.70,Deterministic,0,q = 0: Richness,-18.75,-21.58385093167702,-14.53125
+Threshold_0.70,Threshold >= 0.70,Deterministic,1,q = 1: Exponential Shannon,-7.9934601369851865,-14.370647921540623,-2.996291450013977
+Threshold_0.70,Threshold >= 0.70,Deterministic,2,q = 2: Inverse Simpson,-5.722635695149492,-14.14235141165276,-3.093645735530809
+Threshold_0.90,Threshold >= 0.90,Deterministic,0,q = 0: Richness,-67.74193548387098,-71.71428571428572,-62.67857142857143
+Threshold_0.90,Threshold >= 0.90,Deterministic,1,q = 1: Exponential Shannon,-46.56833288909823,-59.67143304687886,-41.83351698298402
+Threshold_0.90,Threshold >= 0.90,Deterministic,2,q = 2: Inverse Simpson,-36.93410272943298,-47.04204968196929,-29.46258290509074

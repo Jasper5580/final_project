@@ -1,0 +1,12 @@
+check,value,expected
+Total validation records,1147,1147
+Primary analysis records,1147,1147
+Audio-only sensitivity records,1016,1016
+Ecological-prior records,131,131
+Predicted species labels,229,229
+Unique acoustic events,1138,1138
+Round 1 records,439,439
+Round 2 records,708,708
+Duplicate detection IDs,0,0
+Duplicate validation IDs,0,0
+Event-field mismatches,0,0

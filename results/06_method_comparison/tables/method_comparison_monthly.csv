@@ -1,0 +1,553 @@
+method,year_month,q,q_label,estimate,lower_95,upper_95,accepted_event_species,diversity,method_label,method_class,result_type
+Primary_M3,2021-12,0,q = 0: Richness,25,20,29,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2021-12,1,q = 1: Exponential Shannon,7.059398557668816,6.1112848949521075,8.008467746700806,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2021-12,2,q = 2: Inverse Simpson,3.9988338334177023,3.589079604145683,4.452290089087324,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-01,0,q = 0: Richness,40,34,47,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-01,1,q = 1: Exponential Shannon,7.9851185714953115,7.1268346772231315,8.858579823699339,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-01,2,q = 2: Inverse Simpson,4.1992537211900185,3.7890986559532047,4.593153740280675,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-02,0,q = 0: Richness,41,35,47,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-02,1,q = 1: Exponential Shannon,11.083201796856123,9.868634869486943,12.291281807536818,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-02,2,q = 2: Inverse Simpson,6.488619238578735,5.798002602297476,7.096395184509092,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-08,0,q = 0: Richness,26,21,30,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-08,1,q = 1: Exponential Shannon,11.871536686130174,10.304196939721136,13.279713036761105,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-08,2,q = 2: Inverse Simpson,8.019888287769383,7.035507579120789,8.822128431693862,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-09,0,q = 0: Richness,62,54,71,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-09,1,q = 1: Exponential Shannon,7.420327200632588,6.824397582421539,8.002684170585503,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-09,2,q = 2: Inverse Simpson,4.385360455360969,4.10561447536096,4.6598989731539815,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-10,0,q = 0: Richness,64,56,72,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-10,1,q = 1: Exponential Shannon,6.840491985935147,6.233752740727834,7.414779057904594,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-10,2,q = 2: Inverse Simpson,3.935468088596486,3.665698591569257,4.185194107399265,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-11,0,q = 0: Richness,50,43,57,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-11,1,q = 1: Exponential Shannon,6.589443304234722,5.947933610993967,7.247743575247615,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-11,2,q = 2: Inverse Simpson,3.2906193420765995,3.0038611049247246,3.5951673060268883,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-12,0,q = 0: Richness,40,33,46,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-12,1,q = 1: Exponential Shannon,6.190843304014422,5.458773333729292,6.97667753532507,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2022-12,2,q = 2: Inverse Simpson,3.076504008460872,2.752127777344277,3.3978380658486596,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-01,0,q = 0: Richness,40,35,47,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-01,1,q = 1: Exponential Shannon,6.391358954513024,5.698989665788652,7.089788255871321,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-01,2,q = 2: Inverse Simpson,3.378237352675357,3.0761041702784224,3.67752918704849,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-02,0,q = 0: Richness,60,53,67,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-02,1,q = 1: Exponential Shannon,6.133644619722686,5.556564041137566,6.708239055138694,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-02,2,q = 2: Inverse Simpson,3.2060250172482414,2.986637739638037,3.4468604429140886,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-03,0,q = 0: Richness,69,61,77,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-03,1,q = 1: Exponential Shannon,7.783458113816978,7.141753483026523,8.4031548883706,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-03,2,q = 2: Inverse Simpson,4.440713222313189,4.169815626952865,4.691355722404761,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-04,0,q = 0: Richness,82,74,92,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-04,1,q = 1: Exponential Shannon,11.893700018688644,10.896013423415283,12.825653040748108,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-04,2,q = 2: Inverse Simpson,6.9242353692752605,6.358121845965052,7.455292373796893,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-05,0,q = 0: Richness,80,70,89,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-05,1,q = 1: Exponential Shannon,10.109917411936156,9.346019697381646,10.88651280112465,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-05,2,q = 2: Inverse Simpson,5.9096174227906495,5.575000624972628,6.2165527517711645,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-06,0,q = 0: Richness,79,70,88,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-06,1,q = 1: Exponential Shannon,7.249416257343754,6.541442909004715,8.132310727466265,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-06,2,q = 2: Inverse Simpson,3.776591238540175,3.5025735687939346,4.188110750478752,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-07,0,q = 0: Richness,61,54,70,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-07,1,q = 1: Exponential Shannon,11.095320592102578,9.737985992804411,12.939832126197096,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-07,2,q = 2: Inverse Simpson,5.510201738584267,4.805326765966733,6.800983932955736,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-08,0,q = 0: Richness,20,16,25,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-08,1,q = 1: Exponential Shannon,10.619145384701902,8.94719195235206,12.273443615964595,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-08,2,q = 2: Inverse Simpson,7.35486751442681,6.210137482055555,8.393395826660338,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-10,0,q = 0: Richness,35,30,40,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-10,1,q = 1: Exponential Shannon,11.285193646725972,9.656628666269594,12.767977009954244,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-10,2,q = 2: Inverse Simpson,6.2230845439930595,5.393570135790187,7.0189798889442585,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-11,0,q = 0: Richness,36,30,41,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-11,1,q = 1: Exponential Shannon,14.484418761965905,12.502070753981988,16.862418724895214,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-11,2,q = 2: Inverse Simpson,8.618874485612,7.4005453427892185,10.10461945493617,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-12,0,q = 0: Richness,26,22,31,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-12,1,q = 1: Exponential Shannon,9.697121696143242,7.882320830542966,11.761324019136186,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2023-12,2,q = 2: Inverse Simpson,4.591992206256946,3.811218546454862,5.718723016357551,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-01,0,q = 0: Richness,26,22,30,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-01,1,q = 1: Exponential Shannon,10.417251165997529,9.13255783802883,11.843549774861081,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-01,2,q = 2: Inverse Simpson,6.465290449586066,5.6899736851790506,7.4126930385093655,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-02,0,q = 0: Richness,47,40,54,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-02,1,q = 1: Exponential Shannon,8.58332950123917,7.654537845934463,9.831797539377344,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-02,2,q = 2: Inverse Simpson,4.087542633437041,3.6927997604232186,4.734422379805179,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-03,0,q = 0: Richness,66,58,74,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-03,1,q = 1: Exponential Shannon,9.97935271460506,9.218538511638544,10.878451053335775,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-03,2,q = 2: Inverse Simpson,6.122666221593212,5.679676419189503,6.712458876980535,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-04,0,q = 0: Richness,56,49,63,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-04,1,q = 1: Exponential Shannon,7.600025081616561,6.9434506817279935,8.371633002109517,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M3,2024-04,2,q = 2: Inverse Simpson,4.631815206277359,4.350144228510964,4.975176481450267,,,Primary M3: species-aware,Reference,Monte Carlo
+Primary_M2,2021-12,0,q = 0: Richness,28,24,32,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2021-12,1,q = 1: Exponential Shannon,8.84512170263201,7.531582200487383,10.181666772316131,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2021-12,2,q = 2: Inverse Simpson,4.511001561899946,3.973234816627307,5.13966091754029,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-01,0,q = 0: Richness,48,42,54,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-01,1,q = 1: Exponential Shannon,9.344826706145158,8.563721902916196,10.284929541933339,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-01,2,q = 2: Inverse Simpson,4.281522043684257,3.957110316501681,4.65159759672283,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-02,0,q = 0: Richness,51,45,56,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-02,1,q = 1: Exponential Shannon,14.184760723811909,12.906151961395615,15.675212992518915,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-02,2,q = 2: Inverse Simpson,7.222409766728314,6.596645349979569,7.913839138992927,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-08,0,q = 0: Richness,29,24,34,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-08,1,q = 1: Exponential Shannon,14.447366745746882,12.467528186208218,16.38991828539502,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-08,2,q = 2: Inverse Simpson,9.313669411548382,8.156927865485816,10.534402159317125,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-09,0,q = 0: Richness,76,68.34166666666667,84,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-09,1,q = 1: Exponential Shannon,9.513678102470763,9.077286488984837,9.956464608725415,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-09,2,q = 2: Inverse Simpson,5.018937547141495,4.858817676607414,5.192603813345482,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-10,0,q = 0: Richness,78,71,84,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-10,1,q = 1: Exponential Shannon,8.742264028180482,8.351112113995274,9.163374632568775,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-10,2,q = 2: Inverse Simpson,4.439959368981151,4.294354065477459,4.589078132127686,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-11,0,q = 0: Richness,60,54.34166666666667,66,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-11,1,q = 1: Exponential Shannon,8.183297514578943,7.736633547460631,8.590455139679282,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-11,2,q = 2: Inverse Simpson,3.7431662758013893,3.5891570966739623,3.90695720734054,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-12,0,q = 0: Richness,48,42,54,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-12,1,q = 1: Exponential Shannon,7.949785759535913,7.335750205525724,8.634737806586404,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2022-12,2,q = 2: Inverse Simpson,3.5946967104480496,3.3640301840953617,3.8501666529414376,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-01,0,q = 0: Richness,48,41,53,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-01,1,q = 1: Exponential Shannon,7.842529771929563,7.231017043716789,8.449816839330245,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-01,2,q = 2: Inverse Simpson,3.7254616715229467,3.4861718375444295,3.956366755433102,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-02,0,q = 0: Richness,72,66,78,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-02,1,q = 1: Exponential Shannon,7.7955601120225175,7.4049821865771435,8.221222247675826,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-02,2,q = 2: Inverse Simpson,3.634407651061018,3.508426496578207,3.777148770021877,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-03,0,q = 0: Richness,82,75,90,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-03,1,q = 1: Exponential Shannon,9.47605566035725,9.087228367777037,9.837004152294783,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-03,2,q = 2: Inverse Simpson,4.971131224247724,4.833382678225872,5.105393457179322,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-04,0,q = 0: Richness,101,94,109,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-04,1,q = 1: Exponential Shannon,14.95308750228337,14.34198655509135,15.508237331318682,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-04,2,q = 2: Inverse Simpson,7.7873847866245605,7.502285013173299,8.048833060158826,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-05,0,q = 0: Richness,97,89,105,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-05,1,q = 1: Exponential Shannon,10.821824051521741,10.386875430149015,11.280824069036287,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-05,2,q = 2: Inverse Simpson,5.4944022831380845,5.296669361117986,5.700368048307888,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-06,0,q = 0: Richness,96,88,104,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-06,1,q = 1: Exponential Shannon,10.514462284285537,10.11871269176151,10.94438622022042,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-06,2,q = 2: Inverse Simpson,4.993611193978995,4.852045447759774,5.144695569419503,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-07,0,q = 0: Richness,73,67,79,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-07,1,q = 1: Exponential Shannon,17.755466218477387,16.595817269456035,19.112513766691947,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-07,2,q = 2: Inverse Simpson,8.278730935707028,7.675265245103131,8.963966406947135,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-08,0,q = 0: Richness,25,21,29,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-08,1,q = 1: Exponential Shannon,14.186076136370524,11.984451295579095,16.559465811954766,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-08,2,q = 2: Inverse Simpson,9.370297334078138,7.830182653586766,11.193824325404371,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-10,0,q = 0: Richness,40,35,45,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-10,1,q = 1: Exponential Shannon,14.278512860152478,12.892396067860297,15.70466732327339,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-10,2,q = 2: Inverse Simpson,7.732213827266106,7.040137473838115,8.54443186310954,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-11,0,q = 0: Richness,42,37,47,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-11,1,q = 1: Exponential Shannon,20.18974733161297,17.90146127500065,22.470462530235686,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-11,2,q = 2: Inverse Simpson,11.984148379238874,10.456551306538147,13.824095778485908,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-12,0,q = 0: Richness,30,25,35,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-12,1,q = 1: Exponential Shannon,13.192593799632354,11.070987860381347,15.520828954542601,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2023-12,2,q = 2: Inverse Simpson,6.158948148578,5.050627761671867,7.487659516446364,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-01,0,q = 0: Richness,30,25,34.6583333333333,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-01,1,q = 1: Exponential Shannon,13.212383682835217,11.512132969164849,14.960490016193837,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-01,2,q = 2: Inverse Simpson,7.976807181269839,6.86200621093516,9.17531777040756,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-02,0,q = 0: Richness,56,50,63,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-02,1,q = 1: Exponential Shannon,10.693216918727463,9.929564185266715,11.681746503243744,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-02,2,q = 2: Inverse Simpson,4.417337382179543,4.145683659069754,4.760463131962543,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-03,0,q = 0: Richness,80,73,87,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-03,1,q = 1: Exponential Shannon,12.391797346201983,11.849136727282982,12.920775404206495,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-03,2,q = 2: Inverse Simpson,7.140927121740161,6.921036957711328,7.362633551885841,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-04,0,q = 0: Richness,63,56,69,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-04,1,q = 1: Exponential Shannon,8.786733980767576,8.329833468576817,9.224039593269147,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Primary_M2,2024-04,2,q = 2: Inverse Simpson,4.879595034014596,4.702214785580608,5.042734786165416,,,Primary M2: pooled,Probability sensitivity,Monte Carlo
+Audio_only,2021-12,0,q = 0: Richness,28,24,32,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2021-12,1,q = 1: Exponential Shannon,8.14268052889269,7.104898370972819,9.19402550167955,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2021-12,2,q = 2: Inverse Simpson,4.350102760749049,3.93585179035004,4.841953562525748,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-01,0,q = 0: Richness,44,38,51,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-01,1,q = 1: Exponential Shannon,8.325961638502616,7.462480264301291,9.149597067263052,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-01,2,q = 2: Inverse Simpson,4.245411342121954,3.8838022761975073,4.708678245630338,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-02,0,q = 0: Richness,45.5,39.34166666666667,51,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-02,1,q = 1: Exponential Shannon,11.618110683980568,10.410184742762123,12.849702960853339,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-02,2,q = 2: Inverse Simpson,6.603764413915028,6.000875119329677,7.186967957371484,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-08,0,q = 0: Richness,29,25,33,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-08,1,q = 1: Exponential Shannon,12.899896914169382,11.478102254675987,14.548001844397785,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-08,2,q = 2: Inverse Simpson,8.471386252342665,7.608770306905626,9.379907042494859,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-09,0,q = 0: Richness,69,60,77,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-09,1,q = 1: Exponential Shannon,7.8528584494768054,7.277006190261647,8.482061612686072,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-09,2,q = 2: Inverse Simpson,4.493175405527239,4.230093558901487,4.7743738881168065,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-10,0,q = 0: Richness,71,63,79,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-10,1,q = 1: Exponential Shannon,7.298456060331484,6.748053228724139,7.8965152951314215,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-10,2,q = 2: Inverse Simpson,4.051169926806952,3.7990836987466885,4.315130533631946,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-11,0,q = 0: Richness,57,50,63,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-11,1,q = 1: Exponential Shannon,7.005253430610956,6.4449487187920855,7.63965892375453,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-11,2,q = 2: Inverse Simpson,3.3688144175289887,3.1199223066274833,3.696582316667246,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-12,0,q = 0: Richness,45,39,51,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-12,1,q = 1: Exponential Shannon,6.572952865804583,5.86634351943811,7.360066646504163,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2022-12,2,q = 2: Inverse Simpson,3.150051801807773,2.8572520454099966,3.507864002060212,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-01,0,q = 0: Richness,45,39,51,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-01,1,q = 1: Exponential Shannon,6.6953974775382505,6.040700926535907,7.35884961220394,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-01,2,q = 2: Inverse Simpson,3.4321343742313406,3.176675750102314,3.7158630032330766,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-02,0,q = 0: Richness,67,60,73,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-02,1,q = 1: Exponential Shannon,6.507812934168191,5.933677282104514,7.085349635508556,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-02,2,q = 2: Inverse Simpson,3.2787325600248556,3.0822931967390437,3.52217033469498,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-03,0,q = 0: Richness,75,68,83,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-03,1,q = 1: Exponential Shannon,8.240075735366982,7.60968367416948,8.87770322323382,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-03,2,q = 2: Inverse Simpson,4.556338506254908,4.297485511389844,4.8204321399262975,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-04,0,q = 0: Richness,91,83,100,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-04,1,q = 1: Exponential Shannon,12.524321172165894,11.6652459216909,13.455016294085183,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-04,2,q = 2: Inverse Simpson,7.077465587572046,6.5561539271253615,7.694575665532642,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-05,0,q = 0: Richness,87,77.34166666666667,96,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-05,1,q = 1: Exponential Shannon,10.644213176887435,9.884806135121014,11.39193378062836,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-05,2,q = 2: Inverse Simpson,6.033867570404883,5.706604194655906,6.340355121292195,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-06,0,q = 0: Richness,87,79,95,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-06,1,q = 1: Exponential Shannon,8.437059829680168,7.667057266350954,9.438580869889297,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-06,2,q = 2: Inverse Simpson,4.27984064417149,3.9627751227956693,4.755740837816969,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-07,0,q = 0: Richness,67,60,75,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-07,1,q = 1: Exponential Shannon,12.61766060487501,11.061218271318769,14.444206101291076,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-07,2,q = 2: Inverse Simpson,5.937645659269718,5.151409258665655,7.198947467403633,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-08,0,q = 0: Richness,23,18,27,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-08,1,q = 1: Exponential Shannon,11.598506547884437,9.744804526299218,13.526008037350557,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-08,2,q = 2: Inverse Simpson,7.779248469319846,6.526031579047061,8.978626744599248,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-10,0,q = 0: Richness,39,34,44,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-10,1,q = 1: Exponential Shannon,12.173968674501864,10.685200698913537,13.63452930795124,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-10,2,q = 2: Inverse Simpson,6.464629234133969,5.695987562025977,7.29273312129429,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-11,0,q = 0: Richness,40,35,46,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-11,1,q = 1: Exponential Shannon,16.670610734644846,14.516972543054818,18.726379628365354,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-11,2,q = 2: Inverse Simpson,9.546149226351865,8.16372403023674,11.054495028868152,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-12,0,q = 0: Richness,29,24,33,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-12,1,q = 1: Exponential Shannon,10.696950164096592,8.71323556246573,12.717895150996917,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2023-12,2,q = 2: Inverse Simpson,4.921823564960819,4.059043441491799,6.03736875527478,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-01,0,q = 0: Richness,28,23,32,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-01,1,q = 1: Exponential Shannon,10.838544606090764,9.520206499465623,12.389478189496131,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-01,2,q = 2: Inverse Simpson,6.619748705067215,5.825448585116414,7.564935172187051,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-02,0,q = 0: Richness,53,45.34166666666667,60,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-02,1,q = 1: Exponential Shannon,9.23887075448593,8.183885720439974,10.418548112055152,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-02,2,q = 2: Inverse Simpson,4.236322375733461,3.7927694079967553,4.8407915288824,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-03,0,q = 0: Richness,72,65,79,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-03,1,q = 1: Exponential Shannon,10.472128623257355,9.6461492677275,11.325905220769297,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-03,2,q = 2: Inverse Simpson,6.263432727149076,5.803526099369918,6.827829245704014,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-04,0,q = 0: Richness,59,52,66,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-04,1,q = 1: Exponential Shannon,7.7916379451460145,7.117786566493471,8.528225285908958,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Audio_only,2024-04,2,q = 2: Inverse Simpson,4.673290141008515,4.401081196882228,5.004840207353665,,,Audio-only sensitivity,Probability sensitivity,Monte Carlo
+Naive,2021-12,0,q = 0: Richness,39,39,39,355,39,Naive: all candidates,Deterministic,Point estimate
+Naive,2021-12,1,q = 1: Exponential Shannon,11.994974888280455,11.994974888280455,11.994974888280455,355,11.994974888280455,Naive: all candidates,Deterministic,Point estimate
+Naive,2021-12,2,q = 2: Inverse Simpson,5.903639855717431,5.903639855717431,5.903639855717431,355,5.903639855717431,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-01,0,q = 0: Richness,69,69,69,1306,69,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-01,1,q = 1: Exponential Shannon,12.707993179994684,12.707993179994684,12.707993179994684,1306,12.707993179994684,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-01,2,q = 2: Inverse Simpson,5.669427750890816,5.669427750890816,5.669427750890816,1306,5.669427750890816,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-02,0,q = 0: Richness,65,65,65,973,65,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-02,1,q = 1: Exponential Shannon,17.906760024012613,17.906760024012613,17.906760024012613,973,17.906760024012613,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-02,2,q = 2: Inverse Simpson,9.183608338426021,9.183608338426021,9.183608338426021,973,9.183608338426021,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-08,0,q = 0: Richness,43,43,43,291,43,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-08,1,q = 1: Exponential Shannon,19.476299716498836,19.476299716498836,19.476299716498836,291,19.476299716498836,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-08,2,q = 2: Inverse Simpson,12.023427516683233,12.023427516683233,12.023427516683233,291,12.023427516683233,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-09,0,q = 0: Richness,105,105,105,4634,105,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-09,1,q = 1: Exponential Shannon,11.977261303388325,11.977261303388325,11.977261303388325,4634,11.977261303388325,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-09,2,q = 2: Inverse Simpson,5.916123881254108,5.916123881254108,5.916123881254108,4634,5.916123881254108,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-10,0,q = 0: Richness,102,102,102,4374,102,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-10,1,q = 1: Exponential Shannon,10.996926366221622,10.996926366221622,10.996926366221622,4374,10.996926366221622,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-10,2,q = 2: Inverse Simpson,5.236751878941892,5.236751878941892,5.236751878941892,4374,5.236751878941892,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-11,0,q = 0: Richness,80,80,80,3401,80,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-11,1,q = 1: Exponential Shannon,10.41567459003267,10.41567459003267,10.41567459003267,3401,10.41567459003267,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-11,2,q = 2: Inverse Simpson,4.537326003087176,4.537326003087176,4.537326003087176,3401,4.537326003087176,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-12,0,q = 0: Richness,66,66,66,1338,66,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-12,1,q = 1: Exponential Shannon,10.4288483269954,10.4288483269954,10.4288483269954,1338,10.4288483269954,Naive: all candidates,Deterministic,Point estimate
+Naive,2022-12,2,q = 2: Inverse Simpson,4.475878552713162,4.475878552713162,4.475878552713162,1338,4.475878552713162,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-01,0,q = 0: Richness,66,66,66,1449,66,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-01,1,q = 1: Exponential Shannon,10.515582486768363,10.515582486768363,10.515582486768363,1449,10.515582486768363,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-01,2,q = 2: Inverse Simpson,4.737206547612333,4.737206547612333,4.737206547612333,1449,4.737206547612333,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-02,0,q = 0: Richness,92,92,92,3990,92,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-02,1,q = 1: Exponential Shannon,10.150490984612787,10.150490984612787,10.150490984612787,3990,10.150490984612787,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-02,2,q = 2: Inverse Simpson,4.354991987631025,4.354991987631025,4.354991987631025,3990,4.354991987631025,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-03,0,q = 0: Richness,111,111,111,6760,111,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-03,1,q = 1: Exponential Shannon,12.402828521623467,12.402828521623467,12.402828521623467,6760,12.402828521623467,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-03,2,q = 2: Inverse Simpson,5.9772647960115295,5.9772647960115295,5.9772647960115295,6760,5.9772647960115295,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-04,0,q = 0: Richness,130,130,130,6639,130,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-04,1,q = 1: Exponential Shannon,18.278569629930175,18.278569629930175,18.278569629930175,6639,18.278569629930175,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-04,2,q = 2: Inverse Simpson,9.483487822232588,9.483487822232588,9.483487822232588,6639,9.483487822232588,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-05,0,q = 0: Richness,131,131,131,8285,131,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-05,1,q = 1: Exponential Shannon,14.933083737296402,14.933083737296402,14.933083737296402,8285,14.933083737296402,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-05,2,q = 2: Inverse Simpson,7.462882228056784,7.462882228056784,7.462882228056784,8285,7.462882228056784,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-06,0,q = 0: Richness,122,122,122,7598,122,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-06,1,q = 1: Exponential Shannon,11.489240733415311,11.489240733415311,11.489240733415311,7598,11.489240733415311,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-06,2,q = 2: Inverse Simpson,5.0943600555662325,5.0943600555662325,5.0943600555662325,7598,5.0943600555662325,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-07,0,q = 0: Richness,94,94,94,2092,94,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-07,1,q = 1: Exponential Shannon,19.829141584129882,19.829141584129882,19.829141584129882,2092,19.829141584129882,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-07,2,q = 2: Inverse Simpson,8.170105363770098,8.170105363770098,8.170105363770098,2092,8.170105363770098,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-08,0,q = 0: Richness,33,33,33,230,33,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-08,1,q = 1: Exponential Shannon,17.643997837260855,17.643997837260855,17.643997837260855,230,17.643997837260855,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-08,2,q = 2: Inverse Simpson,11.520034843205577,11.520034843205577,11.520034843205577,230,11.520034843205577,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-10,0,q = 0: Richness,56,56,56,641,56,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-10,1,q = 1: Exponential Shannon,18.652365011194217,18.652365011194217,18.652365011194217,641,18.652365011194217,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-10,2,q = 2: Inverse Simpson,10.11150486034207,10.11150486034207,10.11150486034207,641,10.11150486034207,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-11,0,q = 0: Richness,57,57,57,475,57,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-11,1,q = 1: Exponential Shannon,25.30351620002977,25.30351620002977,25.30351620002977,475,25.30351620002977,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-11,2,q = 2: Inverse Simpson,15.125360327143529,15.125360327143529,15.125360327143529,475,15.125360327143529,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-12,0,q = 0: Richness,42,42,42,270,42,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-12,1,q = 1: Exponential Shannon,17.94518276097346,17.94518276097346,17.94518276097346,270,17.94518276097346,Naive: all candidates,Deterministic,Point estimate
+Naive,2023-12,2,q = 2: Inverse Simpson,8.470834301650012,8.470834301650012,8.470834301650012,270,8.470834301650012,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-01,0,q = 0: Richness,42,42,42,378,42,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-01,1,q = 1: Exponential Shannon,15.338531758234701,15.338531758234701,15.338531758234701,378,15.338531758234701,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-01,2,q = 2: Inverse Simpson,8.597111913357402,8.597111913357402,8.597111913357402,378,8.597111913357402,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-02,0,q = 0: Richness,82,82,82,1706,82,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-02,1,q = 1: Exponential Shannon,13.876706841238326,13.876706841238326,13.876706841238326,1706,13.876706841238326,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-02,2,q = 2: Inverse Simpson,5.455833117757108,5.455833117757108,5.455833117757108,1706,5.455833117757108,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-03,0,q = 0: Richness,107,107,107,4747,107,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-03,1,q = 1: Exponential Shannon,14.217588830315306,14.217588830315306,14.217588830315306,4747,14.217588830315306,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-03,2,q = 2: Inverse Simpson,7.455097562355445,7.455097562355445,7.455097562355445,4747,7.455097562355445,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-04,0,q = 0: Richness,85,85,85,3323,85,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-04,1,q = 1: Exponential Shannon,10.705265579999624,10.705265579999624,10.705265579999624,3323,10.705265579999624,Naive: all candidates,Deterministic,Point estimate
+Naive,2024-04,2,q = 2: Inverse Simpson,5.5805499219949075,5.5805499219949075,5.5805499219949075,3323,5.5805499219949075,Naive: all candidates,Deterministic,Point estimate
+Hard_top1,2021-12,0,q = 0: Richness,38,38,38,347,38,Hard top-1,Deterministic,Point estimate
+Hard_top1,2021-12,1,q = 1: Exponential Shannon,11.411644182917064,11.411644182917064,11.411644182917064,347,11.411644182917064,Hard top-1,Deterministic,Point estimate
+Hard_top1,2021-12,2,q = 2: Inverse Simpson,5.662308958382318,5.662308958382318,5.662308958382318,347,5.662308958382318,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-01,0,q = 0: Richness,64,64,64,1268,64,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-01,1,q = 1: Exponential Shannon,11.855715067346823,11.855715067346823,11.855715067346823,1268,11.855715067346823,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-01,2,q = 2: Inverse Simpson,5.378381090646346,5.378381090646346,5.378381090646346,1268,5.378381090646346,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-02,0,q = 0: Richness,65,65,65,956,65,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-02,1,q = 1: Exponential Shannon,17.30898465660856,17.30898465660856,17.30898465660856,956,17.30898465660856,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-02,2,q = 2: Inverse Simpson,8.924284737818573,8.924284737818573,8.924284737818573,956,8.924284737818573,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-08,0,q = 0: Richness,43,43,43,286,43,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-08,1,q = 1: Exponential Shannon,19.399850805820364,19.399850805820364,19.399850805820364,286,19.399850805820364,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-08,2,q = 2: Inverse Simpson,11.972482435597188,11.972482435597188,11.972482435597188,286,11.972482435597188,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-09,0,q = 0: Richness,104,104,104,4550,104,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-09,1,q = 1: Exponential Shannon,11.59203949875713,11.59203949875713,11.59203949875713,4550,11.59203949875713,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-09,2,q = 2: Inverse Simpson,5.770905437710738,5.770905437710738,5.770905437710738,4550,5.770905437710738,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-10,0,q = 0: Richness,101,101,101,4302,101,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-10,1,q = 1: Exponential Shannon,10.66039180783613,10.66039180783613,10.66039180783613,4302,10.66039180783613,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-10,2,q = 2: Inverse Simpson,5.120473534136392,5.120473534136392,5.120473534136392,4302,5.120473534136392,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-11,0,q = 0: Richness,78,78,78,3324,78,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-11,1,q = 1: Exponential Shannon,10.057110670668731,10.057110670668731,10.057110670668731,3324,10.057110670668731,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-11,2,q = 2: Inverse Simpson,4.406891501449424,4.406891501449424,4.406891501449424,3324,4.406891501449424,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-12,0,q = 0: Richness,65,65,65,1301,65,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-12,1,q = 1: Exponential Shannon,9.952630245482407,9.952630245482407,9.952630245482407,1301,9.952630245482407,Hard top-1,Deterministic,Point estimate
+Hard_top1,2022-12,2,q = 2: Inverse Simpson,4.311447515557219,4.311447515557219,4.311447515557219,1301,4.311447515557219,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-01,0,q = 0: Richness,66,66,66,1414,66,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-01,1,q = 1: Exponential Shannon,10.038098996191483,10.038098996191483,10.038098996191483,1414,10.038098996191483,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-01,2,q = 2: Inverse Simpson,4.569630205238378,4.569630205238378,4.569630205238378,1414,4.569630205238378,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-02,0,q = 0: Richness,91,91,91,3897,91,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-02,1,q = 1: Exponential Shannon,9.702633240386524,9.702633240386524,9.702633240386524,3897,9.702633240386524,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-02,2,q = 2: Inverse Simpson,4.211236946479282,4.211236946479282,4.211236946479282,3897,4.211236946479282,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-03,0,q = 0: Richness,107,107,107,6628,107,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-03,1,q = 1: Exponential Shannon,11.966005936272772,11.966005936272772,11.966005936272772,6628,11.966005936272772,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-03,2,q = 2: Inverse Simpson,5.824467748004412,5.824467748004412,5.824467748004412,6628,5.824467748004412,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-04,0,q = 0: Richness,129,129,129,6514,129,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-04,1,q = 1: Exponential Shannon,17.87079074061237,17.87079074061237,17.87079074061237,6514,17.87079074061237,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-04,2,q = 2: Inverse Simpson,9.29739112448569,9.29739112448569,9.29739112448569,6514,9.29739112448569,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-05,0,q = 0: Richness,129,129,129,8128,129,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-05,1,q = 1: Exponential Shannon,14.439874031400036,14.439874031400036,14.439874031400036,8128,14.439874031400036,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-05,2,q = 2: Inverse Simpson,7.25752074671703,7.25752074671703,7.25752074671703,8128,7.25752074671703,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-06,0,q = 0: Richness,120,120,120,7428,120,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-06,1,q = 1: Exponential Shannon,11.248125323840688,11.248125323840688,11.248125323840688,7428,11.248125323840688,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-06,2,q = 2: Inverse Simpson,4.981494633004786,4.981494633004786,4.981494633004786,7428,4.981494633004786,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-07,0,q = 0: Richness,93,93,93,2051,93,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-07,1,q = 1: Exponential Shannon,19.118267145515723,19.118267145515723,19.118267145515723,2051,19.118267145515723,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-07,2,q = 2: Inverse Simpson,7.891199174600198,7.891199174600198,7.891199174600198,2051,7.891199174600198,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-08,0,q = 0: Richness,33,33,33,217,33,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-08,1,q = 1: Exponential Shannon,17.21848047403554,17.21848047403554,17.21848047403554,217,17.21848047403554,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-08,2,q = 2: Inverse Simpson,10.867528271405492,10.867528271405492,10.867528271405492,217,10.867528271405492,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-10,0,q = 0: Richness,55,55,55,623,55,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-10,1,q = 1: Exponential Shannon,17.98582963086394,17.98582963086394,17.98582963086394,623,17.98582963086394,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-10,2,q = 2: Inverse Simpson,9.67637306474533,9.67637306474533,9.67637306474533,623,9.67637306474533,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-11,0,q = 0: Richness,56,56,56,457,56,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-11,1,q = 1: Exponential Shannon,24.04480752672912,24.04480752672912,24.04480752672912,457,24.04480752672912,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-11,2,q = 2: Inverse Simpson,14.25687760256673,14.25687760256673,14.25687760256673,457,14.25687760256673,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-12,0,q = 0: Richness,41,41,41,255,41,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-12,1,q = 1: Exponential Shannon,16.877370627109237,16.877370627109237,16.877370627109237,255,16.877370627109237,Hard top-1,Deterministic,Point estimate
+Hard_top1,2023-12,2,q = 2: Inverse Simpson,7.73830774723313,7.73830774723313,7.73830774723313,255,7.73830774723313,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-01,0,q = 0: Richness,42,42,42,373,42,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-01,1,q = 1: Exponential Shannon,15.295528365076258,15.295528365076258,15.295528365076258,373,15.295528365076258,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-01,2,q = 2: Inverse Simpson,8.590861376968201,8.590861376968201,8.590861376968201,373,8.590861376968201,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-02,0,q = 0: Richness,81,81,81,1674,81,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-02,1,q = 1: Exponential Shannon,13.367106261208312,13.367106261208312,13.367106261208312,1674,13.367106261208312,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-02,2,q = 2: Inverse Simpson,5.295206061865801,5.295206061865801,5.295206061865801,1674,5.295206061865801,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-03,0,q = 0: Richness,106,106,106,4701,106,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-03,1,q = 1: Exponential Shannon,13.903603179828718,13.903603179828718,13.903603179828718,4701,13.903603179828718,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-03,2,q = 2: Inverse Simpson,7.345998599236328,7.345998599236328,7.345998599236328,4701,7.345998599236328,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-04,0,q = 0: Richness,82,82,82,3291,82,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-04,1,q = 1: Exponential Shannon,10.410897774408863,10.410897774408863,10.410897774408863,3291,10.410897774408863,Hard top-1,Deterministic,Point estimate
+Hard_top1,2024-04,2,q = 2: Inverse Simpson,5.498000183762782,5.498000183762782,5.498000183762782,3291,5.498000183762782,Hard top-1,Deterministic,Point estimate
+Threshold_0.50,2021-12,0,q = 0: Richness,33,33,33,290,33,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2021-12,1,q = 1: Exponential Shannon,10.690183955603514,10.690183955603514,10.690183955603514,290,10.690183955603514,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2021-12,2,q = 2: Inverse Simpson,5.255593050868641,5.255593050868641,5.255593050868641,290,5.255593050868641,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-01,0,q = 0: Richness,58,58,58,1101,58,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-01,1,q = 1: Exponential Shannon,11.381917299466892,11.381917299466892,11.381917299466892,1101,11.381917299466892,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-01,2,q = 2: Inverse Simpson,5.143921037779485,5.143921037779485,5.143921037779485,1101,5.143921037779485,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-02,0,q = 0: Richness,62,62,62,799,62,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-02,1,q = 1: Exponential Shannon,15.797287974511068,15.797287974511068,15.797287974511068,799,15.797287974511068,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-02,2,q = 2: Inverse Simpson,8.02929228137695,8.02929228137695,8.02929228137695,799,8.02929228137695,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-08,0,q = 0: Richness,37,37,37,252,37,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-08,1,q = 1: Exponential Shannon,16.365305926868906,16.365305926868906,16.365305926868906,252,16.365305926868906,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-08,2,q = 2: Inverse Simpson,10.28904731043422,10.28904731043422,10.28904731043422,252,10.28904731043422,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-09,0,q = 0: Richness,90,90,90,4043,90,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-09,1,q = 1: Exponential Shannon,10.521751619529804,10.521751619529804,10.521751619529804,4043,10.521751619529804,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-09,2,q = 2: Inverse Simpson,5.451652904000862,5.451652904000862,5.451652904000862,4043,5.451652904000862,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-10,0,q = 0: Richness,88,88,88,3787,88,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-10,1,q = 1: Exponential Shannon,9.817330546374283,9.817330546374283,9.817330546374283,3787,9.817330546374283,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-10,2,q = 2: Inverse Simpson,4.901686477182504,4.901686477182504,4.901686477182504,3787,4.901686477182504,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-11,0,q = 0: Richness,70,70,70,2961,70,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-11,1,q = 1: Exponential Shannon,9.287254597930694,9.287254597930694,9.287254597930694,2961,9.287254597930694,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-11,2,q = 2: Inverse Simpson,4.180610026669057,4.180610026669057,4.180610026669057,2961,4.180610026669057,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-12,0,q = 0: Richness,63,63,63,1157,63,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-12,1,q = 1: Exponential Shannon,9.659052273880711,9.659052273880711,9.659052273880711,1157,9.659052273880711,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2022-12,2,q = 2: Inverse Simpson,4.177859962860665,4.177859962860665,4.177859962860665,1157,4.177859962860665,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-01,0,q = 0: Richness,59,59,59,1267,59,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-01,1,q = 1: Exponential Shannon,9.359135392123667,9.359135392123667,9.359135392123667,1267,9.359135392123667,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-01,2,q = 2: Inverse Simpson,4.37457318120008,4.37457318120008,4.37457318120008,1267,4.37457318120008,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-02,0,q = 0: Richness,84,84,84,3486,84,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-02,1,q = 1: Exponential Shannon,8.936318964505503,8.936318964505503,8.936318964505503,3486,8.936318964505503,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-02,2,q = 2: Inverse Simpson,4.0427865767811,4.0427865767811,4.0427865767811,3486,4.0427865767811,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-03,0,q = 0: Richness,97,97,97,5974,97,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-03,1,q = 1: Exponential Shannon,11.015351168424699,11.015351168424699,11.015351168424699,5974,11.015351168424699,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-03,2,q = 2: Inverse Simpson,5.513789620342421,5.513789620342421,5.513789620342421,5974,5.513789620342421,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-04,0,q = 0: Richness,116,116,116,5568,116,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-04,1,q = 1: Exponential Shannon,16.716422062518976,16.716422062518976,16.716422062518976,5568,16.716422062518976,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-04,2,q = 2: Inverse Simpson,8.727808328777428,8.727808328777428,8.727808328777428,5568,8.727808328777428,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-05,0,q = 0: Richness,118,118,118,7018,118,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-05,1,q = 1: Exponential Shannon,13.06299606330218,13.06299606330218,13.06299606330218,7018,13.06299606330218,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-05,2,q = 2: Inverse Simpson,6.615635858197547,6.615635858197547,6.615635858197547,7018,6.615635858197547,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-06,0,q = 0: Richness,114,114,114,6122,114,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-06,1,q = 1: Exponential Shannon,10.842253085156798,10.842253085156798,10.842253085156798,6122,10.842253085156798,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-06,2,q = 2: Inverse Simpson,5.019164458329248,5.019164458329248,5.019164458329248,6122,5.019164458329248,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-07,0,q = 0: Richness,86,86,86,1691,86,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-07,1,q = 1: Exponential Shannon,18.126802145087265,18.126802145087265,18.126802145087265,1691,18.126802145087265,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-07,2,q = 2: Inverse Simpson,7.985481100855942,7.985481100855942,7.985481100855942,1691,7.985481100855942,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-08,0,q = 0: Richness,30,30,30,193,30,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-08,1,q = 1: Exponential Shannon,15.983980533213781,15.983980533213781,15.983980533213781,193,15.983980533213781,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-08,2,q = 2: Inverse Simpson,10.489721205294284,10.489721205294284,10.489721205294284,193,10.489721205294284,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-10,0,q = 0: Richness,46,46,46,538,46,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-10,1,q = 1: Exponential Shannon,16.062322063917527,16.062322063917527,16.062322063917527,538,16.062322063917527,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-10,2,q = 2: Inverse Simpson,8.665469133584816,8.665469133584816,8.665469133584816,538,8.665469133584816,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-11,0,q = 0: Richness,52,52,52,396,52,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-11,1,q = 1: Exponential Shannon,23.268132224706534,23.268132224706534,23.268132224706534,396,23.268132224706534,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-11,2,q = 2: Inverse Simpson,13.595977111149645,13.595977111149645,13.595977111149645,396,13.595977111149645,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-12,0,q = 0: Richness,35,35,35,220,35,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-12,1,q = 1: Exponential Shannon,14.586495338558016,14.586495338558016,14.586495338558016,220,14.586495338558016,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2023-12,2,q = 2: Inverse Simpson,6.722222222222222,6.722222222222222,6.722222222222222,220,6.722222222222222,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-01,0,q = 0: Richness,36,36,36,311,36,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-01,1,q = 1: Exponential Shannon,14.12123480700291,14.12123480700291,14.12123480700291,311,14.12123480700291,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-01,2,q = 2: Inverse Simpson,8.153165303886032,8.153165303886032,8.153165303886032,311,8.153165303886032,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-02,0,q = 0: Richness,68,68,68,1409,68,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-02,1,q = 1: Exponential Shannon,11.93756740857305,11.93756740857305,11.93756740857305,1409,11.93756740857305,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-02,2,q = 2: Inverse Simpson,4.824978916489856,4.824978916489856,4.824978916489856,1409,4.824978916489856,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-03,0,q = 0: Richness,90,90,90,3944,90,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-03,1,q = 1: Exponential Shannon,13.260894868859994,13.260894868859994,13.260894868859994,3944,13.260894868859994,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-03,2,q = 2: Inverse Simpson,7.295886291170623,7.295886291170623,7.295886291170623,3944,7.295886291170623,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-04,0,q = 0: Richness,78,78,78,2758,78,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-04,1,q = 1: Exponential Shannon,9.958506357179084,9.958506357179084,9.958506357179084,2758,9.958506357179084,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.50,2024-04,2,q = 2: Inverse Simpson,5.302552090957889,5.302552090957889,5.302552090957889,2758,5.302552090957889,Threshold >= 0.50,Deterministic,Point estimate
+Threshold_0.70,2021-12,0,q = 0: Richness,23,23,23,157,23,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2021-12,1,q = 1: Exponential Shannon,6.084866973513515,6.084866973513515,6.084866973513515,157,6.084866973513515,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2021-12,2,q = 2: Inverse Simpson,3.4344433607356835,3.4344433607356835,3.4344433607356835,157,3.4344433607356835,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-01,0,q = 0: Richness,34,34,34,546,34,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-01,1,q = 1: Exponential Shannon,6.0884176697307035,6.0884176697307035,6.0884176697307035,546,6.0884176697307035,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-01,2,q = 2: Inverse Simpson,3.0521530806560597,3.0521530806560597,3.0521530806560597,546,3.0521530806560597,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-02,0,q = 0: Richness,34,34,34,331,34,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-02,1,q = 1: Exponential Shannon,8.83598789961825,8.83598789961825,8.83598789961825,331,8.83598789961825,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-02,2,q = 2: Inverse Simpson,4.639859399483335,4.639859399483335,4.639859399483335,331,4.639859399483335,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-08,0,q = 0: Richness,19,19,19,121,19,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-08,1,q = 1: Exponential Shannon,10.131009549765386,10.131009549765386,10.131009549765386,121,10.131009549765386,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-08,2,q = 2: Inverse Simpson,6.883403855195111,6.883403855195111,6.883403855195111,121,6.883403855195111,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-09,0,q = 0: Richness,59,59,59,2343,59,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-09,1,q = 1: Exponential Shannon,7.582121543291857,7.582121543291857,7.582121543291857,2343,7.582121543291857,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-09,2,q = 2: Inverse Simpson,4.363218655740702,4.363218655740702,4.363218655740702,2343,4.363218655740702,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-10,0,q = 0: Richness,55,55,55,2163,55,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-10,1,q = 1: Exponential Shannon,6.805958382958366,6.805958382958366,6.805958382958366,2163,6.805958382958366,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-10,2,q = 2: Inverse Simpson,3.7969203076446134,3.7969203076446134,3.7969203076446134,2163,3.7969203076446134,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-11,0,q = 0: Richness,43,43,43,1725,43,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-11,1,q = 1: Exponential Shannon,6.315591652164249,6.315591652164249,6.315591652164249,1725,6.315591652164249,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-11,2,q = 2: Inverse Simpson,3.2028650741455533,3.2028650741455533,3.2028650741455533,1725,3.2028650741455533,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-12,0,q = 0: Richness,34,34,34,643,34,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-12,1,q = 1: Exponential Shannon,5.8432659266969695,5.8432659266969695,5.8432659266969695,643,5.8432659266969695,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2022-12,2,q = 2: Inverse Simpson,2.932657592157809,2.932657592157809,2.932657592157809,643,2.932657592157809,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-01,0,q = 0: Richness,32,32,32,723,32,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-01,1,q = 1: Exponential Shannon,5.5306469753783105,5.5306469753783105,5.5306469753783105,723,5.5306469753783105,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-01,2,q = 2: Inverse Simpson,2.914103657618785,2.914103657618785,2.914103657618785,723,2.914103657618785,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-02,0,q = 0: Richness,54,54,54,2032,54,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-02,1,q = 1: Exponential Shannon,5.6811713527020125,5.6811713527020125,5.6811713527020125,2032,5.6811713527020125,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-02,2,q = 2: Inverse Simpson,3.0225832285305607,3.0225832285305607,3.0225832285305607,2032,3.0225832285305607,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-03,0,q = 0: Richness,54,54,54,3617,54,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-03,1,q = 1: Exponential Shannon,7.161290492210078,7.161290492210078,7.161290492210078,3617,7.161290492210078,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-03,2,q = 2: Inverse Simpson,4.231920104314152,4.231920104314152,4.231920104314152,3617,4.231920104314152,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-04,0,q = 0: Richness,77,77,77,2883,77,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-04,1,q = 1: Exponential Shannon,11.430538267602014,11.430538267602014,11.430538267602014,2883,11.430538267602014,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-04,2,q = 2: Inverse Simpson,6.1915665800818065,6.1915665800818065,6.1915665800818065,2883,6.1915665800818065,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-05,0,q = 0: Richness,65,65,65,4002,65,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-05,1,q = 1: Exponential Shannon,7.113619396358867,7.113619396358867,7.113619396358867,4002,7.113619396358867,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-05,2,q = 2: Inverse Simpson,3.909134132863665,3.909134132863665,3.909134132863665,4002,3.909134132863665,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-06,0,q = 0: Richness,64,64,64,2495,64,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-06,1,q = 1: Exponential Shannon,8.458548565783003,8.458548565783003,8.458548565783003,2495,8.458548565783003,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-06,2,q = 2: Inverse Simpson,4.395226344421968,4.395226344421968,4.395226344421968,2495,4.395226344421968,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-07,0,q = 0: Richness,50,50,50,668,50,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-07,1,q = 1: Exponential Shannon,13.88586905786359,13.88586905786359,13.88586905786359,668,13.88586905786359,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-07,2,q = 2: Inverse Simpson,7.942189947315962,7.942189947315962,7.942189947315962,668,7.942189947315962,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-08,0,q = 0: Richness,16,16,16,71,16,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-08,1,q = 1: Exponential Shannon,9.878412464124466,9.878412464124466,9.878412464124466,71,9.878412464124466,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-08,2,q = 2: Inverse Simpson,6.9339752407152675,6.9339752407152675,6.9339752407152675,71,6.9339752407152675,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-10,0,q = 0: Richness,28,28,28,252,28,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-10,1,q = 1: Exponential Shannon,9.64822781947186,9.64822781947186,9.64822781947186,252,9.64822781947186,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-10,2,q = 2: Inverse Simpson,5.644799999999999,5.644799999999999,5.644799999999999,252,5.644799999999999,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-11,0,q = 0: Richness,27,27,27,165,27,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-11,1,q = 1: Exponential Shannon,13.089687702844698,13.089687702844698,13.089687702844698,165,13.089687702844698,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-11,2,q = 2: Inverse Simpson,8.292720073103869,8.292720073103869,8.292720073103869,165,8.292720073103869,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-12,0,q = 0: Richness,20,20,20,94,20,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-12,1,q = 1: Exponential Shannon,8.316652428585948,8.316652428585948,8.316652428585948,94,8.316652428585948,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2023-12,2,q = 2: Inverse Simpson,4.215648854961833,4.215648854961833,4.215648854961833,94,4.215648854961833,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-01,0,q = 0: Richness,18,18,18,141,18,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-01,1,q = 1: Exponential Shannon,10.213979556516016,10.213979556516016,10.213979556516016,141,10.213979556516016,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-01,2,q = 2: Inverse Simpson,7.087700534759359,7.087700534759359,7.087700534759359,141,7.087700534759359,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-02,0,q = 0: Richness,34,34,34,632,34,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-02,1,q = 1: Exponential Shannon,7.010197351276345,7.010197351276345,7.010197351276345,632,7.010197351276345,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-02,2,q = 2: Inverse Simpson,3.3018434322559305,3.3018434322559305,3.3018434322559305,632,3.3018434322559305,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-03,0,q = 0: Richness,54,54,54,1907,54,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-03,1,q = 1: Exponential Shannon,9.76994540566589,9.76994540566589,9.76994540566589,1907,9.76994540566589,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-03,2,q = 2: Inverse Simpson,6.305668019704297,6.305668019704297,6.305668019704297,1907,6.305668019704297,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-04,0,q = 0: Richness,44,44,44,1431,44,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-04,1,q = 1: Exponential Shannon,6.531915452759524,6.531915452759524,6.531915452759524,1431,6.531915452759524,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.70,2024-04,2,q = 2: Inverse Simpson,3.8755240043680437,3.8755240043680437,3.8755240043680437,1431,3.8755240043680437,Threshold >= 0.70,Deterministic,Point estimate
+Threshold_0.90,2021-12,0,q = 0: Richness,7,7,7,63,7,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2021-12,1,q = 1: Exponential Shannon,2.793765807323269,2.793765807323269,2.793765807323269,63,2.793765807323269,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2021-12,2,q = 2: Inverse Simpson,2.141932002158662,2.141932002158662,2.141932002158662,63,2.141932002158662,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-01,0,q = 0: Richness,11,11,11,202,11,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-01,1,q = 1: Exponential Shannon,2.8011618915351324,2.8011618915351324,2.8011618915351324,202,2.8011618915351324,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-01,2,q = 2: Inverse Simpson,1.899981374557646,1.899981374557646,1.899981374557646,202,1.899981374557646,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-02,0,q = 0: Richness,11,11,11,103,11,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-02,1,q = 1: Exponential Shannon,3.9740612617114377,3.9740612617114377,3.9740612617114377,103,3.9740612617114377,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-02,2,q = 2: Inverse Simpson,2.639711370987808,2.639711370987808,2.639711370987808,103,2.639711370987808,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-08,0,q = 0: Richness,12,12,12,53,12,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-08,1,q = 1: Exponential Shannon,6.84171514223179,6.84171514223179,6.84171514223179,53,6.84171514223179,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-08,2,q = 2: Inverse Simpson,4.902268760907504,4.902268760907504,4.902268760907504,53,4.902268760907504,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-09,0,q = 0: Richness,20,20,20,965,20,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-09,1,q = 1: Exponential Shannon,4.71118386059762,4.71118386059762,4.71118386059762,965,4.71118386059762,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-09,2,q = 2: Inverse Simpson,3.1683048731112993,3.1683048731112993,3.1683048731112993,965,3.1683048731112993,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-10,0,q = 0: Richness,24,24,24,898,24,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-10,1,q = 1: Exponential Shannon,4.436607093100344,4.436607093100344,4.436607093100344,898,4.436607093100344,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-10,2,q = 2: Inverse Simpson,2.863203192682962,2.863203192682962,2.863203192682962,898,2.863203192682962,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-11,0,q = 0: Richness,20,20,20,709,20,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-11,1,q = 1: Exponential Shannon,3.799324994822535,3.799324994822535,3.799324994822535,709,3.799324994822535,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-11,2,q = 2: Inverse Simpson,2.2271988161328484,2.2271988161328484,2.2271988161328484,709,2.2271988161328484,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-12,0,q = 0: Richness,16,16,16,273,16,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-12,1,q = 1: Exponential Shannon,3.4802901467695286,3.4802901467695286,3.4802901467695286,273,3.4802901467695286,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2022-12,2,q = 2: Inverse Simpson,2.1174816035457567,2.1174816035457567,2.1174816035457567,273,2.1174816035457567,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-01,0,q = 0: Richness,14,14,14,324,14,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-01,1,q = 1: Exponential Shannon,3.633381896124799,3.633381896124799,3.633381896124799,324,3.633381896124799,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-01,2,q = 2: Inverse Simpson,2.201493163325224,2.201493163325224,2.201493163325224,324,2.201493163325224,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-02,0,q = 0: Richness,16,16,16,849,16,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-02,1,q = 1: Exponential Shannon,3.596049798184374,3.596049798184374,3.596049798184374,849,3.596049798184374,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-02,2,q = 2: Inverse Simpson,2.388822790557402,2.388822790557402,2.388822790557402,849,2.388822790557402,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-03,0,q = 0: Richness,24,24,24,1761,24,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-03,1,q = 1: Exponential Shannon,4.491420757075569,4.491420757075569,4.491420757075569,1761,4.491420757075569,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-03,2,q = 2: Inverse Simpson,3.260634500393763,3.260634500393763,3.260634500393763,1761,3.260634500393763,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-04,0,q = 0: Richness,28,28,28,1000,28,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-04,1,q = 1: Exponential Shannon,6.035140257094037,6.035140257094037,6.035140257094037,1000,6.035140257094037,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-04,2,q = 2: Inverse Simpson,3.624974625177624,3.624974625177624,3.624974625177624,1000,3.624974625177624,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-05,0,q = 0: Richness,31,31,31,2057,31,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-05,1,q = 1: Exponential Shannon,3.355352548288736,3.355352548288736,3.355352548288736,2057,3.355352548288736,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-05,2,q = 2: Inverse Simpson,2.274800234186875,2.274800234186875,2.274800234186875,2057,2.274800234186875,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-06,0,q = 0: Richness,25,25,25,659,25,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-06,1,q = 1: Exponential Shannon,5.774015910730092,5.774015910730092,5.774015910730092,659,5.774015910730092,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-06,2,q = 2: Inverse Simpson,2.900136899395639,2.900136899395639,2.900136899395639,659,2.900136899395639,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-07,0,q = 0: Richness,26,26,26,176,26,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-07,1,q = 1: Exponential Shannon,10.43607514085097,10.43607514085097,10.43607514085097,176,10.43607514085097,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-07,2,q = 2: Inverse Simpson,6.235104669887279,6.235104669887279,6.235104669887279,176,6.235104669887279,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-08,0,q = 0: Richness,6,6,6,19,6,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-08,1,q = 1: Exponential Shannon,3.926458138731904,3.926458138731904,3.926458138731904,19,3.926458138731904,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-08,2,q = 2: Inverse Simpson,2.934959349593496,2.934959349593496,2.934959349593496,19,2.934959349593496,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-10,0,q = 0: Richness,13,13,13,97,13,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-10,1,q = 1: Exponential Shannon,5.528143159484982,5.528143159484982,5.528143159484982,97,5.528143159484982,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-10,2,q = 2: Inverse Simpson,3.697053045186641,3.697053045186641,3.697053045186641,97,3.697053045186641,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-11,0,q = 0: Richness,7,7,7,45,7,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-11,1,q = 1: Exponential Shannon,5.022172876451575,5.022172876451575,5.022172876451575,45,5.022172876451575,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-11,2,q = 2: Inverse Simpson,3.9320388349514563,3.9320388349514563,3.9320388349514563,45,3.9320388349514563,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-12,0,q = 0: Richness,6,6,6,35,6,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-12,1,q = 1: Exponential Shannon,3.983772393532214,3.983772393532214,3.983772393532214,35,3.983772393532214,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2023-12,2,q = 2: Inverse Simpson,2.8959810874704495,2.8959810874704495,2.8959810874704495,35,2.8959810874704495,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-01,0,q = 0: Richness,8,8,8,33,8,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-01,1,q = 1: Exponential Shannon,5.566110965122333,5.566110965122333,5.566110965122333,33,5.566110965122333,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-01,2,q = 2: Inverse Simpson,4.338645418326694,4.338645418326694,4.338645418326694,33,4.338645418326694,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-02,0,q = 0: Richness,14,14,14,245,14,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-02,1,q = 1: Exponential Shannon,4.113625573691372,4.113625573691372,4.113625573691372,245,4.113625573691372,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-02,2,q = 2: Inverse Simpson,2.466409171220775,2.466409171220775,2.466409171220775,245,2.466409171220775,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-03,0,q = 0: Richness,23,23,23,740,23,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-03,1,q = 1: Exponential Shannon,6.263093132662942,6.263093132662942,6.263093132662942,740,6.263093132662942,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-03,2,q = 2: Inverse Simpson,4.05425415346344,4.05425415346344,4.05425415346344,740,4.05425415346344,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-04,0,q = 0: Richness,16,16,16,629,16,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-04,1,q = 1: Exponential Shannon,3.735614151207044,3.735614151207044,3.735614151207044,629,3.735614151207044,Threshold >= 0.90,Deterministic,Point estimate
+Threshold_0.90,2024-04,2,q = 2: Inverse Simpson,2.5732915336034705,2.5732915336034705,2.5732915336034705,629,2.5732915336034705,Threshold >= 0.90,Deterministic,Point estimate

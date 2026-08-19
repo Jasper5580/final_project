@@ -1,0 +1,4 @@
+Example,Detection_ID,Event_ID,Predicted_species,BirdNET_score,Year_month,Duration_s,Candidate_labels_in_event
+1,704a5ab203...54cf5,704a5ab20379b4..._105_108,European Robin,0.750005,2022-10,3,1
+2,b39955b8c6...d71f5,b39955b8c64380...a_99_102,Red-billed Chough,0.91023,2023-06,3,2
+3,b39955b8c6...60aef,b39955b8c64380...a_99_102,Eurasian Jackdaw,0.490643,2023-06,3,2

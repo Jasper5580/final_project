@@ -1,0 +1,7 @@
+analysis_set,model_id,model_label,role,fit_ok,n_records,n_events,n_species,n_parameters,aic,bic,log_likelihood,singular_fit,convergence_message,max_absolute_gradient,species_intercept_sd,species_score_slope_sd,warnings,error,delta_aic
+Primary,M1,M1: Score,Baseline,TRUE,1147,1138,229,2,1342.027660732102,1352.1174709663608,-669.013830366051,,not_applicable,,,,,,365.90979812750356
+Primary,M2,M2: Score + event,Pooled candidate,TRUE,1147,1138,229,3,1336.6030731377036,1351.7377884890918,-665.3015365688518,,not_applicable,,,,,,360.48521053310515
+Primary,M3,M3: Species-aware,Primary candidate,TRUE,1147,1138,229,4,976.4885494963121,996.6681699648295,-484.24427474815604,FALSE,none,2.3500547285948414e-4,2.327440082389556,,,,0.3706868917136035
+Primary,M4,M4: Random score slope,Structural sensitivity,TRUE,1147,1138,229,5,976.1178626045985,1001.3423881902454,-483.05893130229924,FALSE,none,2.2298138446785742e-4,2.277658957108634,0.8619144188413941,,,0
+Audio_only,M2,M2: Score + event,Sensitivity,TRUE,1016,1008,210,3,1111.257610667821,1126.0284965522362,-552.6288053339105,,not_applicable,,,,,,189.68158327928654
+Audio_only,M3,M3: Species-aware,Sensitivity,TRUE,1016,1008,210,4,921.5760273885344,941.2705419010881,-456.7880136942672,FALSE,none,4.907258244202239e-4,1.8658138004578504,,,,0

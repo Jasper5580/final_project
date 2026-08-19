@@ -1,0 +1,7 @@
+check,value
+All represented months,23
+Low-coverage months,9
+Higher-coverage months,14
+Primary simulations reused,1000
+High-coverage Primary partition rows,9
+Deterministic method comparisons,45

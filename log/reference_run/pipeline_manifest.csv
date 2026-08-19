@@ -1,0 +1,10 @@
+order,step,script,started,completed,elapsed_seconds,status,error
+1,12,scripts/manual_validation/12_prepare_final_validation_data.R,2026-08-07 05:47:57.436056,2026-08-07 05:48:01.052437,3.6163806915283203,completed,
+2,13,scripts/calibration_models/13_fit_final_calibration_models.R,2026-08-07 05:48:01.05464,2026-08-07 05:48:10.302988,9.248348236083984,completed,
+3,14,scripts/calibration_models/14_event_grouped_cross_validation.R,2026-08-07 05:48:10.306402,2026-08-07 05:48:33.509914,23.20351219177246,completed,
+4,16,scripts/calibration_models/16_apply_calibration_to_full_data.R,2026-08-07 05:48:33.513145,2026-08-07 05:48:43.369685,9.856540203094482,completed,
+5,17,scripts/probability_simulation/17_monte_carlo_diversity_simulation_corrected.R,2026-08-07 05:48:43.372999,2026-08-07 05:53:30.404469,287.0314702987671,completed,
+6,18,scripts/probability_simulation/18_compare_diversity_methods_final.R,2026-08-07 05:53:30.407588,2026-08-07 05:53:46.424324,16.016735792160034,completed,
+7,19,scripts/probability_simulation/19_sampling_effort_proxy_sensitivity_fixed5min.R,2026-08-07 05:53:46.427841,2026-08-07 05:54:02.856396,16.428555250167847,completed,
+8,20,scripts/probability_simulation/20_low_coverage_month_sensitivity.R,2026-08-07 05:54:02.859588,2026-08-07 05:54:22.10083,19.241242170333862,completed,
+9,21,scripts/analytical_framework/21_analytical_vs_monte_carlo.R,2026-08-07 05:54:22.104175,2026-08-07 05:55:56.378926,94.27475118637085,completed,

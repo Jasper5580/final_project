@@ -1,0 +1,176 @@
+G3;============================================================
+gG3;Silwood streamlined pipeline
+gG3;Mode: final
+gG3;Monte Carlo simulations: 1000
+gG3;Event-grouped CV: 5 folds x 5 repeats
+gG3;Run supplementary LOSO: FALSE
+gG3;Requested pipeline steps: 12 to 21
+gG3;Build manuscript outputs: TRUE
+gG3;Output root: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final
+gG3;Processed-data root: /home/jasper/CMEECourseWork/silwood_project/data/processed/refactored
+gG3;Started: 2026-08-07 05:47:57.433702
+gG3;============================================================
+gG3;
+gG3;------------------------------------------------------------
+gG3;Running step 12: scripts/manual_validation/12_prepare_final_validation_data.R
+gG3;------------------------------------------------------------
+gG3;cleaned BirdNET detections for Methods Table 1 loaded from RDS: /home/jasper/CMEECourseWork/silwood_project/data/processed/birdnet_detections_clean.rds
+gG3;Validation preparation completed.
+gG3;Analysis-ready RDS: /home/jasper/CMEECourseWork/silwood_project/data/processed/refactored/validation/validation_analysis_ready.rds
+gG3;Validation tables: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/tables/01_validation
+gG3;
+gG3;------------------------------------------------------------
+gG3;Running step 13: scripts/calibration_models/13_fit_final_calibration_models.R
+gG3;------------------------------------------------------------
+gG3;analysis-ready validation data loaded from RDS: /home/jasper/CMEECourseWork/silwood_project/data/processed/refactored/validation/validation_analysis_ready.rds
+gG3;Fitting Primary M1-M4...
+gG3;Fitting Audio-only M2-M3...
+gG3;Calibration model fitting completed.
+gG3;Model bundle: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/models/02_calibration/calibration_models.rds
+gG3;Tables: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/tables/02_calibration
+gG3;Figures: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/figures/02_calibration
+gG3;
+gG3;------------------------------------------------------------
+gG3;Running step 14: scripts/calibration_models/14_event_grouped_cross_validation.R
+gG3;------------------------------------------------------------
+gG3;analysis-ready validation data loaded from RDS: /home/jasper/CMEECourseWork/silwood_project/data/processed/refactored/validation/validation_analysis_ready.rds
+gG3;Running 5-fold event-grouped CV repeated 5 times.
+gG3;CV repeat 1/5; fold 1/5
+gG3;CV repeat 1/5; fold 2/5
+gG3;CV repeat 1/5; fold 3/5
+gG3;CV repeat 1/5; fold 4/5
+gG3;CV repeat 1/5; fold 5/5
+gG3;CV repeat 2/5; fold 1/5
+gG3;CV repeat 2/5; fold 2/5
+gG3;CV repeat 2/5; fold 3/5
+gG3;CV repeat 2/5; fold 4/5
+gG3;CV repeat 2/5; fold 5/5
+gG3;CV repeat 3/5; fold 1/5
+gG3;CV repeat 3/5; fold 2/5
+gG3;CV repeat 3/5; fold 3/5
+gG3;CV repeat 3/5; fold 4/5
+gG3;CV repeat 3/5; fold 5/5
+gG3;CV repeat 4/5; fold 1/5
+gG3;CV repeat 4/5; fold 2/5
+gG3;CV repeat 4/5; fold 3/5
+gG3;CV repeat 4/5; fold 4/5
+gG3;CV repeat 4/5; fold 5/5
+gG3;CV repeat 5/5; fold 1/5
+gG3;CV repeat 5/5; fold 2/5
+gG3;CV repeat 5/5; fold 3/5
+gG3;CV repeat 5/5; fold 4/5
+gG3;CV repeat 5/5; fold 5/5
+gG3;Event-grouped cross-validation completed.
+gG3;Selected downstream model: M3
+gG3;Tables: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/tables/03_model_validation
+gG3;Figures: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/figures/03_model_validation
+gG3;
+gG3;------------------------------------------------------------
+gG3;Running step 16: scripts/calibration_models/16_apply_calibration_to_full_data.R
+gG3;------------------------------------------------------------
+gG3;cleaned BirdNET detections loaded from RDS: /home/jasper/CMEECourseWork/silwood_project/data/processed/birdnet_detections_clean.rds
+gG3;analysis-ready validation data loaded from RDS: /home/jasper/CMEECourseWork/silwood_project/data/processed/refactored/validation/validation_analysis_ready.rds
+gG3;Probability assignment completed.
+gG3;Full calibrated RDS: /home/jasper/CMEECourseWork/silwood_project/data/processed/refactored/calibration/calibrated_candidates.rds
+gG3;Minimal calibrated CSV: /home/jasper/CMEECourseWork/silwood_project/data/processed/refactored/calibration/calibrated_candidates_minimal.csv
+gG3;
+gG3;------------------------------------------------------------
+gG3;Running step 17: scripts/probability_simulation/17_monte_carlo_diversity_simulation_corrected.R
+gG3;------------------------------------------------------------
+gG3;Running full Monte Carlo propagation: 1000 simulations x 3 probability scenarios.
+gG3;Scenario: Primary M3: species-aware
+gG3;  simulation 1/1000
+gG3;  simulation 100/1000
+gG3;  simulation 200/1000
+gG3;  simulation 300/1000
+gG3;  simulation 400/1000
+gG3;  simulation 500/1000
+gG3;  simulation 600/1000
+gG3;  simulation 700/1000
+gG3;  simulation 800/1000
+gG3;  simulation 900/1000
+gG3;  simulation 1000/1000
+gG3;Scenario: Primary M2: pooled
+gG3;  simulation 1/1000
+gG3;  simulation 100/1000
+gG3;  simulation 200/1000
+gG3;  simulation 300/1000
+gG3;  simulation 400/1000
+gG3;  simulation 500/1000
+gG3;  simulation 600/1000
+gG3;  simulation 700/1000
+gG3;  simulation 800/1000
+gG3;  simulation 900/1000
+gG3;  simulation 1000/1000
+gG3;Scenario: Audio-only sensitivity
+gG3;  simulation 1/1000
+gG3;  simulation 100/1000
+gG3;  simulation 200/1000
+gG3;  simulation 300/1000
+gG3;  simulation 400/1000
+gG3;  simulation 500/1000
+gG3;  simulation 600/1000
+gG3;  simulation 700/1000
+gG3;  simulation 800/1000
+gG3;  simulation 900/1000
+gG3;  simulation 1000/1000
+gG3;Full Monte Carlo propagation completed.
+gG3;Simulations per scenario: 1000
+gG3;Result object: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/models/05_monte_carlo/monte_carlo_results.rds
+gG3;
+gG3;------------------------------------------------------------
+gG3;Running step 18: scripts/probability_simulation/18_compare_diversity_methods_final.R
+gG3;------------------------------------------------------------
+gG3;Method comparison completed.
+gG3;Tables: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/tables/06_method_comparison
+gG3;Figures: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/figures/06_method_comparison
+gG3;
+gG3;------------------------------------------------------------
+gG3;Running step 19: scripts/probability_simulation/19_sampling_effort_proxy_sensitivity_fixed5min.R
+gG3;------------------------------------------------------------
+g`geom_smooth()` using formula = 'y ~ x'
+`geom_smooth()` using formula = 'y ~ x'
+G3;Sampling-coverage analysis completed.
+gG3;Low-coverage months: 9
+gG3;
+gG3;------------------------------------------------------------
+gG3;Running step 20: scripts/probability_simulation/20_low_coverage_month_sensitivity.R
+gG3;------------------------------------------------------------
+gG3;Low-coverage robustness analysis completed.
+gG3;Higher-coverage months: 14
+gG3;
+gG3;------------------------------------------------------------
+gG3;Running step 21: scripts/analytical_framework/21_analytical_vs_monte_carlo.R
+gG3;------------------------------------------------------------
+gG3;Running fixed-probability Monte Carlo: 1000 simulations.
+gG3;  fixed-probability simulation 1/1000
+gG3;  fixed-probability simulation 100/1000
+gG3;  fixed-probability simulation 200/1000
+gG3;  fixed-probability simulation 300/1000
+gG3;  fixed-probability simulation 400/1000
+gG3;  fixed-probability simulation 500/1000
+gG3;  fixed-probability simulation 600/1000
+gG3;  fixed-probability simulation 700/1000
+gG3;  fixed-probability simulation 800/1000
+gG3;  fixed-probability simulation 900/1000
+gG3;  fixed-probability simulation 1000/1000
+gG3;Analytical benchmark completed.
+gG3;Tables: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/tables/09_analytical_benchmark
+gG3;Figures: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/figures/09_analytical_benchmark
+gG3;
+gG3;------------------------------------------------------------
+gG3;Rebuilding manuscript-ready figures and tables
+gG3;------------------------------------------------------------
+gG3;Manuscript post-processing completed.
+gG3;Main figures: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/figures/manuscript
+gG3;Supplementary figures: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/figures/supplementary
+gG3;Main tables: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/tables/manuscript
+gG3;Supplementary tables: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/tables/supplementary
+gG3;
+gG3;============================================================
+gG3;Pipeline completed successfully: 2026-08-07 05:56:08.217983
+gG3;Manifest: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/pipeline_manifest.csv
+gG3;Session information: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/sessionInfo_refactored.txt
+gG3;Log: /home/jasper/CMEECourseWork/silwood_project/results_refactored/final/pipeline_log.txt
+gG3;============================================================
+g

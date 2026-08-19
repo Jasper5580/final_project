@@ -1,0 +1,55 @@
+method,method_label,weighting,q,q_label,component,component_label,estimate,lower_95,upper_95
+Primary_M3,Primary M3: species-aware,equal_month,0,q = 0: Richness,alpha,Alpha,59.92857142857142,55.07142857142857,65.5
+Primary_M3,Primary M3: species-aware,equal_month,0,q = 0: Richness,beta,Beta,2.538105049777618,2.3827351218008017,2.693396335535409
+Primary_M3,Primary M3: species-aware,equal_month,0,q = 0: Richness,gamma,Gamma,152,140,164.6583333333333
+Primary_M3,Primary M3: species-aware,equal_month,1,q = 1: Exponential Shannon,alpha,Alpha,7.983176472755789,7.356628367473946,8.570098375052298
+Primary_M3,Primary M3: species-aware,equal_month,1,q = 1: Exponential Shannon,beta,Beta,1.5161126495950117,1.504678249225814,1.5278508659822925
+Primary_M3,Primary M3: species-aware,equal_month,1,q = 1: Exponential Shannon,gamma,Gamma,12.100075890405058,11.15158123366408,12.989077411079851
+Primary_M3,Primary M3: species-aware,equal_month,2,q = 2: Inverse Simpson,alpha,Alpha,4.180177284055988,3.92193030765939,4.4335107291833316
+Primary_M3,Primary M3: species-aware,equal_month,2,q = 2: Inverse Simpson,beta,Beta,1.5839922953907202,1.5546389773927174,1.6060663786261813
+Primary_M3,Primary M3: species-aware,equal_month,2,q = 2: Inverse Simpson,gamma,Gamma,6.624578408637255,6.213216628936385,7.009089299268175
+Naive,Naive: all candidates,equal_month,0,q = 0: Richness,alpha,Alpha,96.92857142857142,96.92857142857142,96.92857142857142
+Naive,Naive: all candidates,equal_month,0,q = 0: Richness,gamma,Gamma,224,224,224
+Naive,Naive: all candidates,equal_month,0,q = 0: Richness,beta,Beta,2.3109801031687547,2.3109801031687547,2.3109801031687547
+Naive,Naive: all candidates,equal_month,1,q = 1: Exponential Shannon,alpha,Alpha,12.735596362612474,12.735596362612474,12.735596362612474
+Naive,Naive: all candidates,equal_month,1,q = 1: Exponential Shannon,gamma,Gamma,19.393418770378045,19.393418770378045,19.393418770378045
+Naive,Naive: all candidates,equal_month,1,q = 1: Exponential Shannon,beta,Beta,1.522772724433286,1.522772724433286,1.522772724433286
+Naive,Naive: all candidates,equal_month,2,q = 2: Inverse Simpson,alpha,Alpha,5.682358707716907,5.682358707716907,5.682358707716907
+Naive,Naive: all candidates,equal_month,2,q = 2: Inverse Simpson,gamma,Gamma,9.04468794956097,9.04468794956097,9.04468794956097
+Naive,Naive: all candidates,equal_month,2,q = 2: Inverse Simpson,beta,Beta,1.591713655330816,1.591713655330816,1.591713655330816
+Hard_top1,Hard top-1,equal_month,0,q = 0: Richness,alpha,Alpha,95.28571428571428,95.28571428571428,95.28571428571428
+Hard_top1,Hard top-1,equal_month,0,q = 0: Richness,gamma,Gamma,220,220,220
+Hard_top1,Hard top-1,equal_month,0,q = 0: Richness,beta,Beta,2.3088455772113945,2.3088455772113945,2.3088455772113945
+Hard_top1,Hard top-1,equal_month,1,q = 1: Exponential Shannon,alpha,Alpha,12.274720944176718,12.274720944176718,12.274720944176718
+Hard_top1,Hard top-1,equal_month,1,q = 1: Exponential Shannon,gamma,Gamma,18.726151268155657,18.726151268155657,18.726151268155657
+Hard_top1,Hard top-1,equal_month,1,q = 1: Exponential Shannon,beta,Beta,1.5255867203269968,1.5255867203269968,1.5255867203269968
+Hard_top1,Hard top-1,equal_month,2,q = 2: Inverse Simpson,alpha,Alpha,5.513676355568866,5.513676355568866,5.513676355568866
+Hard_top1,Hard top-1,equal_month,2,q = 2: Inverse Simpson,gamma,Gamma,8.781416662419874,8.781416662419874,8.781416662419874
+Hard_top1,Hard top-1,equal_month,2,q = 2: Inverse Simpson,beta,Beta,1.5926608847018302,1.5926608847018302,1.5926608847018302
+Threshold_0.50,Threshold >= 0.50,equal_month,0,q = 0: Richness,alpha,Alpha,85.78571428571428,85.78571428571428,85.78571428571428
+Threshold_0.50,Threshold >= 0.50,equal_month,0,q = 0: Richness,gamma,Gamma,209,209,209
+Threshold_0.50,Threshold >= 0.50,equal_month,0,q = 0: Richness,beta,Beta,2.4363030807660286,2.4363030807660286,2.4363030807660286
+Threshold_0.50,Threshold >= 0.50,equal_month,1,q = 1: Exponential Shannon,alpha,Alpha,11.443128822199643,11.443128822199643,11.443128822199643
+Threshold_0.50,Threshold >= 0.50,equal_month,1,q = 1: Exponential Shannon,gamma,Gamma,17.577824949594323,17.577824949594323,17.577824949594323
+Threshold_0.50,Threshold >= 0.50,equal_month,1,q = 1: Exponential Shannon,beta,Beta,1.536103038138781,1.536103038138781,1.536103038138781
+Threshold_0.50,Threshold >= 0.50,equal_month,2,q = 2: Inverse Simpson,alpha,Alpha,5.2785780399131514,5.2785780399131514,5.2785780399131514
+Threshold_0.50,Threshold >= 0.50,equal_month,2,q = 2: Inverse Simpson,gamma,Gamma,8.383216626651347,8.383216626651347,8.383216626651347
+Threshold_0.50,Threshold >= 0.50,equal_month,2,q = 2: Inverse Simpson,beta,Beta,1.5881581295687874,1.5881581295687874,1.5881581295687874
+Threshold_0.70,Threshold >= 0.70,equal_month,0,q = 0: Richness,alpha,Alpha,50.64285714285714,50.64285714285714,50.64285714285714
+Threshold_0.70,Threshold >= 0.70,equal_month,0,q = 0: Richness,gamma,Gamma,145,145,145
+Threshold_0.70,Threshold >= 0.70,equal_month,0,q = 0: Richness,beta,Beta,2.8631875881523277,2.8631875881523277,2.8631875881523277
+Threshold_0.70,Threshold >= 0.70,equal_month,1,q = 1: Exponential Shannon,alpha,Alpha,7.476907218698258,7.476907218698258,7.476907218698258
+Threshold_0.70,Threshold >= 0.70,equal_month,1,q = 1: Exponential Shannon,gamma,Gamma,11.775603237039466,11.775603237039466,11.775603237039466
+Threshold_0.70,Threshold >= 0.70,equal_month,1,q = 1: Exponential Shannon,beta,Beta,1.5749296992198891,1.5749296992198891,1.5749296992198891
+Threshold_0.70,Threshold >= 0.70,equal_month,2,q = 2: Inverse Simpson,alpha,Alpha,3.8717824300411636,3.8717824300411636,3.8717824300411636
+Threshold_0.70,Threshold >= 0.70,equal_month,2,q = 2: Inverse Simpson,gamma,Gamma,6.189771338328913,6.189771338328913,6.189771338328913
+Threshold_0.70,Threshold >= 0.70,equal_month,2,q = 2: Inverse Simpson,beta,Beta,1.5986878008181635,1.5986878008181635,1.5986878008181635
+Threshold_0.90,Threshold >= 0.90,equal_month,0,q = 0: Richness,alpha,Alpha,20.857142857142854,20.857142857142854,20.857142857142854
+Threshold_0.90,Threshold >= 0.90,equal_month,0,q = 0: Richness,gamma,Gamma,58,58,58
+Threshold_0.90,Threshold >= 0.90,equal_month,0,q = 0: Richness,beta,Beta,2.7808219178082196,2.7808219178082196,2.7808219178082196
+Threshold_0.90,Threshold >= 0.90,equal_month,1,q = 1: Exponential Shannon,alpha,Alpha,4.507289201136776,4.507289201136776,4.507289201136776
+Threshold_0.90,Threshold >= 0.90,equal_month,1,q = 1: Exponential Shannon,gamma,Gamma,7.527808761701567,7.527808761701567,7.527808761701567
+Threshold_0.90,Threshold >= 0.90,equal_month,1,q = 1: Exponential Shannon,beta,Beta,1.6701410594649642,1.6701410594649642,1.6701410594649642
+Threshold_0.90,Threshold >= 0.90,equal_month,2,q = 2: Inverse Simpson,alpha,Alpha,2.7106772727799346,2.7106772727799346,2.7106772727799346
+Threshold_0.90,Threshold >= 0.90,equal_month,2,q = 2: Inverse Simpson,gamma,Gamma,4.570387449172221,4.570387449172221,4.570387449172221
+Threshold_0.90,Threshold >= 0.90,equal_month,2,q = 2: Inverse Simpson,beta,Beta,1.6860684578968934,1.6860684578968934,1.6860684578968934

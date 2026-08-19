@@ -1,0 +1,64 @@
+Workflow,Workflow_class,Diversity_order,Component,Estimate,Primary_M3_reference,Absolute_difference,Percentage_difference
+Primary M2: pooled,Probability sensitivity,q = 0: Richness,Alpha,58.826,49.13,9.696,19.73
+Primary M2: pooled,Probability sensitivity,q = 0: Richness,Gamma,193,158,35,22.15
+Primary M2: pooled,Probability sensitivity,q = 0: Richness,Beta,3.285,3.219,0.066,2.05
+Primary M2: pooled,Probability sensitivity,q = 1: Exponential Shannon,Alpha,11.188,8.795,2.392,27.2
+Primary M2: pooled,Probability sensitivity,q = 1: Exponential Shannon,Gamma,19.84,14.805,5.035,34.01
+Primary M2: pooled,Probability sensitivity,q = 1: Exponential Shannon,Beta,1.773,1.683,0.089,5.29
+Primary M2: pooled,Probability sensitivity,q = 2: Inverse Simpson,Alpha,5.439,4.711,0.727,15.44
+Primary M2: pooled,Probability sensitivity,q = 2: Inverse Simpson,Gamma,9.653,8.174,1.479,18.1
+Primary M2: pooled,Probability sensitivity,q = 2: Inverse Simpson,Beta,1.775,1.733,0.042,2.4
+Audio-only sensitivity,Probability sensitivity,q = 0: Richness,Alpha,54.217,49.13,5.087,10.35
+Audio-only sensitivity,Probability sensitivity,q = 0: Richness,Gamma,172,158,14,8.86
+Audio-only sensitivity,Probability sensitivity,q = 0: Richness,Beta,3.157,3.219,-0.062,-1.92
+Audio-only sensitivity,Probability sensitivity,q = 1: Exponential Shannon,Alpha,9.457,8.795,0.661,7.52
+Audio-only sensitivity,Probability sensitivity,q = 1: Exponential Shannon,Gamma,16.074,14.805,1.27,8.58
+Audio-only sensitivity,Probability sensitivity,q = 1: Exponential Shannon,Beta,1.699,1.683,0.015,0.9
+Audio-only sensitivity,Probability sensitivity,q = 2: Inverse Simpson,Alpha,4.896,4.711,0.185,3.93
+Audio-only sensitivity,Probability sensitivity,q = 2: Inverse Simpson,Gamma,8.501,8.174,0.327,4
+Audio-only sensitivity,Probability sensitivity,q = 2: Inverse Simpson,Beta,1.734,1.733,0.001,0.07
+Naive: all candidates,Deterministic,q = 0: Richness,Alpha,79.087,49.13,29.957,60.97
+Naive: all candidates,Deterministic,q = 0: Richness,Gamma,229,158,71,44.94
+Naive: all candidates,Deterministic,q = 0: Richness,Beta,2.896,3.219,-0.323,-10.04
+Naive: all candidates,Deterministic,q = 1: Exponential Shannon,Alpha,14.17,8.795,5.375,61.11
+Naive: all candidates,Deterministic,q = 1: Exponential Shannon,Gamma,24.472,14.805,9.667,65.3
+Naive: all candidates,Deterministic,q = 1: Exponential Shannon,Beta,1.727,1.683,0.044,2.59
+Naive: all candidates,Deterministic,q = 2: Inverse Simpson,Alpha,6.589,4.711,1.878,39.86
+Naive: all candidates,Deterministic,q = 2: Inverse Simpson,Gamma,11.649,8.174,3.475,42.51
+Naive: all candidates,Deterministic,q = 2: Inverse Simpson,Beta,1.768,1.733,0.035,1.99
+Hard top-1,Deterministic,q = 0: Richness,Alpha,77.783,49.13,28.652,58.32
+Hard top-1,Deterministic,q = 0: Richness,Gamma,226,158,68,43.04
+Hard top-1,Deterministic,q = 0: Richness,Beta,2.906,3.219,-0.313,-9.73
+Hard top-1,Deterministic,q = 1: Exponential Shannon,Alpha,13.681,8.795,4.886,55.55
+Hard top-1,Deterministic,q = 1: Exponential Shannon,Gamma,23.602,14.805,8.798,59.43
+Hard top-1,Deterministic,q = 1: Exponential Shannon,Beta,1.725,1.683,0.042,2.48
+Hard top-1,Deterministic,q = 2: Inverse Simpson,Alpha,6.381,4.711,1.67,35.44
+Hard top-1,Deterministic,q = 2: Inverse Simpson,Gamma,11.279,8.174,3.105,37.98
+Hard top-1,Deterministic,q = 2: Inverse Simpson,Beta,1.767,1.733,0.034,1.97
+Threshold >= 0.50,Deterministic,q = 0: Richness,Alpha,70,49.13,20.87,42.48
+Threshold >= 0.50,Deterministic,q = 0: Richness,Gamma,217,158,59,37.34
+Threshold >= 0.50,Deterministic,q = 0: Richness,Beta,3.1,3.219,-0.119,-3.68
+Threshold >= 0.50,Deterministic,q = 1: Exponential Shannon,Alpha,12.652,8.795,3.856,43.84
+Threshold >= 0.50,Deterministic,q = 1: Exponential Shannon,Gamma,22.022,14.805,7.217,48.75
+Threshold >= 0.50,Deterministic,q = 1: Exponential Shannon,Beta,1.741,1.683,0.057,3.39
+Threshold >= 0.50,Deterministic,q = 2: Inverse Simpson,Alpha,6.039,4.711,1.328,28.18
+Threshold >= 0.50,Deterministic,q = 2: Inverse Simpson,Gamma,10.659,8.174,2.485,30.4
+Threshold >= 0.50,Deterministic,q = 2: Inverse Simpson,Beta,1.765,1.733,0.032,1.83
+Threshold >= 0.70,Deterministic,q = 0: Richness,Alpha,40.783,49.13,-8.348,-16.99
+Threshold >= 0.70,Deterministic,q = 0: Richness,Gamma,148,158,-10,-6.33
+Threshold >= 0.70,Deterministic,q = 0: Richness,Beta,3.629,3.219,0.41,12.75
+Threshold >= 0.70,Deterministic,q = 1: Exponential Shannon,Alpha,8.03,8.795,-0.765,-8.7
+Threshold >= 0.70,Deterministic,q = 1: Exponential Shannon,Gamma,14.284,14.805,-0.521,-3.52
+Threshold >= 0.70,Deterministic,q = 1: Exponential Shannon,Beta,1.779,1.683,0.095,5.66
+Threshold >= 0.70,Deterministic,q = 2: Inverse Simpson,Alpha,4.302,4.711,-0.409,-8.68
+Threshold >= 0.70,Deterministic,q = 2: Inverse Simpson,Gamma,7.62,8.174,-0.554,-6.78
+Threshold >= 0.70,Deterministic,q = 2: Inverse Simpson,Beta,1.771,1.733,0.038,2.19
+Threshold >= 0.90,Deterministic,q = 0: Richness,Alpha,16.435,49.13,-32.696,-66.55
+Threshold >= 0.90,Deterministic,q = 0: Richness,Gamma,65,158,-93,-58.86
+Threshold >= 0.90,Deterministic,q = 0: Richness,Beta,3.955,3.219,0.736,22.88
+Threshold >= 0.90,Deterministic,q = 1: Exponential Shannon,Alpha,4.485,8.795,-4.31,-49.01
+Threshold >= 0.90,Deterministic,q = 1: Exponential Shannon,Gamma,8.591,14.805,-6.213,-41.97
+Threshold >= 0.90,Deterministic,q = 1: Exponential Shannon,Beta,1.915,1.683,0.232,13.78
+Threshold >= 0.90,Deterministic,q = 2: Inverse Simpson,Alpha,2.859,4.711,-1.852,-39.31
+Threshold >= 0.90,Deterministic,q = 2: Inverse Simpson,Gamma,5.54,8.174,-2.634,-32.23
+Threshold >= 0.90,Deterministic,q = 2: Inverse Simpson,Beta,1.938,1.733,0.204,11.78

@@ -1,0 +1,10 @@
+Diversity_order,Component,Median,Lower_95_simulation_interval,Upper_95_simulation_interval
+q = 0: Richness,Alpha,49.13,45.174,53.565
+q = 0: Richness,Beta,3.219,3.008,3.421
+q = 0: Richness,Gamma,158,146,171
+q = 1: Exponential Shannon,Alpha,8.795,8.089,9.462
+q = 1: Exponential Shannon,Beta,1.683,1.666,1.703
+q = 1: Exponential Shannon,Gamma,14.805,13.551,15.991
+q = 2: Inverse Simpson,Alpha,4.711,4.415,5.005
+q = 2: Inverse Simpson,Beta,1.733,1.71,1.761
+q = 2: Inverse Simpson,Gamma,8.174,7.653,8.71

@@ -1,0 +1,6 @@
+G3;cleaned BirdNET detections loaded from RDS: /home/jasper/CMEECourseWork/final_project/data/01_cleaned/birdnet_detections_clean.rds
+gG3;analysis-ready validation data loaded from RDS: /home/jasper/CMEECourseWork/final_project/data/03_analysis_ready/validation/validation_analysis_ready.rds
+gG3;Probability assignment completed.
+gG3;Full calibrated RDS: /home/jasper/CMEECourseWork/final_project/data/03_analysis_ready/calibration/calibrated_candidates.rds
+gG3;Minimal calibrated CSV: /home/jasper/CMEECourseWork/final_project/data/03_analysis_ready/calibration/calibrated_candidates_minimal.csv
+g

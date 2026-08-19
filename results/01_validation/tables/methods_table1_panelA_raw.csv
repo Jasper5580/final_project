@@ -1,0 +1,4 @@
+Example,Detection_ID,Analysis,Raw_species_tag,Confidence,Audio_ID,Start_s,End_s,Detection_time
+1,704a5ab203...54cf5,birdnet-lite,European Robin,0.750005,704a5ab203...f9db9,105,108,2022-10-20 09:57:53.96
+2,b39955b8c6...d71f5,birdnet-lite,Red-billed Chough,0.91023,b39955b8c6...f33ea,99,102,2023-06-10 17:12:27.067
+3,b39955b8c6...60aef,birdnet-lite,Eurasian Jackdaw,0.490643,b39955b8c6...f33ea,99,102,2023-06-10 17:12:27.067

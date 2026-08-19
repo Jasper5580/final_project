@@ -1,0 +1,5 @@
+G3;cleaned BirdNET detections for Methods Table 1 loaded from RDS: /home/jasper/CMEECourseWork/final_project/data/01_cleaned/birdnet_detections_clean.rds
+gG3;Validation preparation completed.
+gG3;Analysis-ready RDS: /home/jasper/CMEECourseWork/final_project/data/03_analysis_ready/validation/validation_analysis_ready.rds
+gG3;Validation tables: /home/jasper/CMEECourseWork/final_project/results/01_validation/tables
+g

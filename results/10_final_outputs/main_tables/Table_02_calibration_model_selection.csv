@@ -1,0 +1,5 @@
+Model,Model_role,AIC,Delta_AIC,Species_intercept_SD,Species_score_slope_SD,Mean_Brier,SE_Brier,Mean_log_loss,SE_log_loss,Singular_CV_folds,Maximum_CV_gradient
+M1: Score,Score-only baseline,1342.03,365.91,,,0.201,1e-4,0.5845,2e-4,0,
+M2: Score + event,Pooled probability sensitivity / fallback,1336.6,360.49,,,0.1999,2e-4,0.5821,4e-4,0,
+M3: Species-aware,Selected for downstream propagation,976.49,0.37,2.327,,0.1245,6e-4,0.3954,0.0021,0,5.939557468082057e-4
+M4: Random score slope,Random-slope structural sensitivity,976.12,0,2.278,0.862,0.1258,8e-4,0.4005,0.0028,0,113.72944666277364

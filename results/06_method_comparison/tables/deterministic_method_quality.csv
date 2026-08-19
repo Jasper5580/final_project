@@ -1,0 +1,6 @@
+method,retained_candidate_records,retained_events,retained_species,retained_months
+Naive,65255,63985,229,23
+Hard_top1,63985,63985,226,23
+Threshold_0.50,55285,54416,217,23
+Threshold_0.70,29142,29022,148,23
+Threshold_0.90,11935,11934,65,23

@@ -1,0 +1,4 @@
+scenario,scenario_label,simulations,mean_of_mean_candidate_probability,mean_expected_correct_candidates,mean_accepted_candidates,sd_accepted_candidates,lower_accepted_candidates,upper_accepted_candidates
+Audio_only,Audio-only sensitivity,1000,0.7939812529108555,51811.24665869788,51809.793,1551.5526074370293,48489.46666666667,54635.975000000006
+Primary_M2,Primary M2: pooled,1000,0.5677661472113965,37049.579936279675,37052.47,808.75901122537,35475.683333333334,38683.33333333333
+Primary_M3,Primary M3: species-aware,1000,0.7837071193379705,51140.80807239927,51142.845,1690.1828401116868,47474.075,54177.28333333333

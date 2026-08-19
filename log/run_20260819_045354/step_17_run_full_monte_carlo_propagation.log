@@ -1,0 +1,41 @@
+G3;Running full Monte Carlo propagation: 1000 simulations x 3 probability scenarios.
+gG3;Scenario: Primary M3: species-aware
+gG3;  simulation 1/1000
+gG3;  simulation 100/1000
+gG3;  simulation 200/1000
+gG3;  simulation 300/1000
+gG3;  simulation 400/1000
+gG3;  simulation 500/1000
+gG3;  simulation 600/1000
+gG3;  simulation 700/1000
+gG3;  simulation 800/1000
+gG3;  simulation 900/1000
+gG3;  simulation 1000/1000
+gG3;Scenario: Primary M2: pooled
+gG3;  simulation 1/1000
+gG3;  simulation 100/1000
+gG3;  simulation 200/1000
+gG3;  simulation 300/1000
+gG3;  simulation 400/1000
+gG3;  simulation 500/1000
+gG3;  simulation 600/1000
+gG3;  simulation 700/1000
+gG3;  simulation 800/1000
+gG3;  simulation 900/1000
+gG3;  simulation 1000/1000
+gG3;Scenario: Audio-only sensitivity
+gG3;  simulation 1/1000
+gG3;  simulation 100/1000
+gG3;  simulation 200/1000
+gG3;  simulation 300/1000
+gG3;  simulation 400/1000
+gG3;  simulation 500/1000
+gG3;  simulation 600/1000
+gG3;  simulation 700/1000
+gG3;  simulation 800/1000
+gG3;  simulation 900/1000
+gG3;  simulation 1000/1000
+gG3;Full Monte Carlo propagation completed.
+gG3;Simulations per scenario: 1000
+gG3;Result object: /home/jasper/CMEECourseWork/final_project/results/05_monte_carlo/models/monte_carlo_results.rds
+g

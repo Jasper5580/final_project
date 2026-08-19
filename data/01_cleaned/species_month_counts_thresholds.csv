@@ -1,0 +1,2927 @@
+year_month,season,species,n_detections,threshold
+2021-12,Winter,Black Redstart,1,0.5
+2021-12,Winter,Carrion Crow,7,0.5
+2021-12,Winter,Common Buzzard,2,0.5
+2021-12,Winter,Common Firecrest,1,0.5
+2021-12,Winter,Common Sandpiper,2,0.5
+2021-12,Winter,Crested Tit,1,0.5
+2021-12,Winter,Eurasian Blue Tit,14,0.5
+2021-12,Winter,Eurasian Eagle-Owl,5,0.5
+2021-12,Winter,Eurasian Green Woodpecker,4,0.5
+2021-12,Winter,Eurasian Hobby,1,0.5
+2021-12,Winter,Eurasian Jackdaw,61,0.5
+2021-12,Winter,Eurasian Jay,7,0.5
+2021-12,Winter,Eurasian Magpie,5,0.5
+2021-12,Winter,Eurasian Three-toed Woodpecker,5,0.5
+2021-12,Winter,Eurasian Wren,6,0.5
+2021-12,Winter,Eurasian Wryneck,3,0.5
+2021-12,Winter,European Goldfinch,2,0.5
+2021-12,Winter,European Robin,13,0.5
+2021-12,Winter,Goldcrest,1,0.5
+2021-12,Winter,Great Bittern,3,0.5
+2021-12,Winter,Hawfinch,1,0.5
+2021-12,Winter,Hooded Crow,4,0.5
+2021-12,Winter,Long-eared Owl,1,0.5
+2021-12,Winter,Long-tailed Tit,1,0.5
+2021-12,Winter,Mistle Thrush,2,0.5
+2021-12,Winter,Red Kite,2,0.5
+2021-12,Winter,Red-billed Chough,5,0.5
+2021-12,Winter,Rook,8,0.5
+2021-12,Winter,Rose-ringed Parakeet,107,0.5
+2021-12,Winter,Tawny Owl,5,0.5
+2021-12,Winter,Ural Owl,1,0.5
+2021-12,Winter,Western Capercaillie,8,0.5
+2021-12,Winter,Whooper Swan,1,0.5
+2022-01,Winter,Aquatic Warbler,1,0.5
+2022-01,Winter,Atlantic Puffin,7,0.5
+2022-01,Winter,Bearded Reedling,2,0.5
+2022-01,Winter,Black Redstart,2,0.5
+2022-01,Winter,Boreal Owl,8,0.5
+2022-01,Winter,Canada Goose,1,0.5
+2022-01,Winter,Carrion Crow,38,0.5
+2022-01,Winter,Coal Tit,1,0.5
+2022-01,Winter,Common Buzzard,3,0.5
+2022-01,Winter,Common Cuckoo,1,0.5
+2022-01,Winter,Common Firecrest,6,0.5
+2022-01,Winter,Common Greenshank,1,0.5
+2022-01,Winter,Common Murre,1,0.5
+2022-01,Winter,Common Quail,1,0.5
+2022-01,Winter,Common Sandpiper,8,0.5
+2022-01,Winter,Eurasian Blue Tit,110,0.5
+2022-01,Winter,Eurasian Curlew,1,0.5
+2022-01,Winter,Eurasian Eagle-Owl,13,0.5
+2022-01,Winter,Eurasian Green Woodpecker,27,0.5
+2022-01,Winter,Eurasian Hobby,1,0.5
+2022-01,Winter,Eurasian Jackdaw,168,0.5
+2022-01,Winter,Eurasian Jay,5,0.5
+2022-01,Winter,Eurasian Magpie,3,0.5
+2022-01,Winter,Eurasian Pygmy-Owl,1,0.5
+2022-01,Winter,Eurasian Three-toed Woodpecker,5,0.5
+2022-01,Winter,Eurasian Wren,9,0.5
+2022-01,Winter,Eurasian Wryneck,11,0.5
+2022-01,Winter,European Goldfinch,2,0.5
+2022-01,Winter,European Greenfinch,4,0.5
+2022-01,Winter,European Robin,27,0.5
+2022-01,Winter,European Storm-Petrel,1,0.5
+2022-01,Winter,Goldcrest,2,0.5
+2022-01,Winter,Gray Partridge,1,0.5
+2022-01,Winter,Gray Wagtail,3,0.5
+2022-01,Winter,Great Bittern,4,0.5
+2022-01,Winter,Great Spotted Woodpecker,5,0.5
+2022-01,Winter,Great Tit,19,0.5
+2022-01,Winter,Herring Gull,1,0.5
+2022-01,Winter,Hooded Crow,16,0.5
+2022-01,Winter,Iberian Chiffchaff,1,0.5
+2022-01,Winter,Lesser Spotted Woodpecker,1,0.5
+2022-01,Winter,Little Owl,6,0.5
+2022-01,Winter,Long-eared Owl,4,0.5
+2022-01,Winter,Long-tailed Tit,21,0.5
+2022-01,Winter,Manx Shearwater,3,0.5
+2022-01,Winter,Osprey,1,0.5
+2022-01,Winter,Red-billed Chough,4,0.5
+2022-01,Winter,Redwing,2,0.5
+2022-01,Winter,Ring-necked Pheasant,5,0.5
+2022-01,Winter,Rock Sparrow,1,0.5
+2022-01,Winter,Rook,33,0.5
+2022-01,Winter,Rose-ringed Parakeet,433,0.5
+2022-01,Winter,Short-toed Treecreeper,1,0.5
+2022-01,Winter,Stock Dove,1,0.5
+2022-01,Winter,Tawny Owl,38,0.5
+2022-01,Winter,Ural Owl,2,0.5
+2022-01,Winter,Whooper Swan,2,0.5
+2022-01,Winter,Wood Lark,22,0.5
+2022-02,Winter,Atlantic Puffin,2,0.5
+2022-02,Winter,Black Woodpecker,3,0.5
+2022-02,Winter,Boreal Owl,1,0.5
+2022-02,Winter,Canada Goose,2,0.5
+2022-02,Winter,Carrion Crow,9,0.5
+2022-02,Winter,Coal Tit,5,0.5
+2022-02,Winter,Common Buzzard,3,0.5
+2022-02,Winter,Common Firecrest,4,0.5
+2022-02,Winter,Common Sandpiper,4,0.5
+2022-02,Winter,Eurasian Blue Tit,128,0.5
+2022-02,Winter,Eurasian Bullfinch,34,0.5
+2022-02,Winter,Eurasian Curlew,1,0.5
+2022-02,Winter,Eurasian Dotterel,1,0.5
+2022-02,Winter,Eurasian Eagle-Owl,7,0.5
+2022-02,Winter,Eurasian Golden Oriole,2,0.5
+2022-02,Winter,Eurasian Green Woodpecker,30,0.5
+2022-02,Winter,Eurasian Jackdaw,107,0.5
+2022-02,Winter,Eurasian Jay,3,0.5
+2022-02,Winter,Eurasian Kestrel,1,0.5
+2022-02,Winter,Eurasian Magpie,3,0.5
+2022-02,Winter,Eurasian Nuthatch,21,0.5
+2022-02,Winter,Eurasian Oystercatcher,1,0.5
+2022-02,Winter,Eurasian Penduline-Tit,1,0.5
+2022-02,Winter,Eurasian Three-toed Woodpecker,2,0.5
+2022-02,Winter,Eurasian Treecreeper,1,0.5
+2022-02,Winter,Eurasian Wren,5,0.5
+2022-02,Winter,Eurasian Wryneck,3,0.5
+2022-02,Winter,European Goldfinch,1,0.5
+2022-02,Winter,European Greenfinch,1,0.5
+2022-02,Winter,European Robin,15,0.5
+2022-02,Winter,Goldcrest,1,0.5
+2022-02,Winter,Gray Wagtail,4,0.5
+2022-02,Winter,Gray-headed Woodpecker,1,0.5
+2022-02,Winter,Great Bittern,10,0.5
+2022-02,Winter,Great Spotted Woodpecker,4,0.5
+2022-02,Winter,Great Tit,45,0.5
+2022-02,Winter,Green-winged Teal,1,0.5
+2022-02,Winter,Herring Gull,1,0.5
+2022-02,Winter,Hooded Crow,1,0.5
+2022-02,Winter,Lesser Spotted Woodpecker,1,0.5
+2022-02,Winter,Little Owl,3,0.5
+2022-02,Winter,Long-eared Owl,3,0.5
+2022-02,Winter,Long-tailed Tit,2,0.5
+2022-02,Winter,Manx Shearwater,1,0.5
+2022-02,Winter,Mistle Thrush,3,0.5
+2022-02,Winter,Northern Lapwing,1,0.5
+2022-02,Winter,Ortolan Bunting,5,0.5
+2022-02,Winter,Pied Avocet,3,0.5
+2022-02,Winter,Red-billed Chough,6,0.5
+2022-02,Winter,Redwing,1,0.5
+2022-02,Winter,Ring Ouzel,1,0.5
+2022-02,Winter,Rook,15,0.5
+2022-02,Winter,Rose-ringed Parakeet,212,0.5
+2022-02,Winter,Ruddy Shelduck,1,0.5
+2022-02,Winter,Short-toed Treecreeper,5,0.5
+2022-02,Winter,Song Thrush,7,0.5
+2022-02,Winter,Tawny Owl,16,0.5
+2022-02,Winter,Twite,1,0.5
+2022-02,Winter,Willow Tit,2,0.5
+2022-02,Winter,Wood Lark,27,0.5
+2022-02,Winter,Yellow-browed Warbler,13,0.5
+2022-02,Winter,Yellowhammer,1,0.5
+2022-08,Summer,Atlantic Puffin,1,0.5
+2022-08,Summer,Barn Owl,1,0.5
+2022-08,Summer,Common Buzzard,1,0.5
+2022-08,Summer,Common Firecrest,2,0.5
+2022-08,Summer,Common Raven,2,0.5
+2022-08,Summer,Common Wood-Pigeon,1,0.5
+2022-08,Summer,Crested Tit,1,0.5
+2022-08,Summer,Egyptian Goose,1,0.5
+2022-08,Summer,Eurasian Blue Tit,8,0.5
+2022-08,Summer,Eurasian Bullfinch,1,0.5
+2022-08,Summer,Eurasian Green Woodpecker,16,0.5
+2022-08,Summer,Eurasian Hoopoe,2,0.5
+2022-08,Summer,Eurasian Jackdaw,51,0.5
+2022-08,Summer,Eurasian Jay,13,0.5
+2022-08,Summer,Eurasian Magpie,5,0.5
+2022-08,Summer,Eurasian Moorhen,1,0.5
+2022-08,Summer,Eurasian Pygmy-Owl,1,0.5
+2022-08,Summer,Eurasian Treecreeper,1,0.5
+2022-08,Summer,Eurasian Wryneck,3,0.5
+2022-08,Summer,European Robin,36,0.5
+2022-08,Summer,Gray Partridge,1,0.5
+2022-08,Summer,Gray-headed Woodpecker,1,0.5
+2022-08,Summer,Graylag Goose,6,0.5
+2022-08,Summer,Great Bittern,6,0.5
+2022-08,Summer,Great Spotted Woodpecker,6,0.5
+2022-08,Summer,Great Tit,1,0.5
+2022-08,Summer,Hawfinch,11,0.5
+2022-08,Summer,Little Owl,1,0.5
+2022-08,Summer,Long-tailed Tit,5,0.5
+2022-08,Summer,Pink-footed Goose,1,0.5
+2022-08,Summer,Red-billed Chough,6,0.5
+2022-08,Summer,Ring-necked Pheasant,16,0.5
+2022-08,Summer,Rook,3,0.5
+2022-08,Summer,Rose-ringed Parakeet,34,0.5
+2022-08,Summer,Tawny Owl,3,0.5
+2022-08,Summer,Western Capercaillie,2,0.5
+2022-08,Summer,Whooper Swan,1,0.5
+2022-09,Autumn,Atlantic Puffin,6,0.5
+2022-09,Autumn,Barn Swallow,4,0.5
+2022-09,Autumn,Black Redstart,4,0.5
+2022-09,Autumn,Black Woodpecker,2,0.5
+2022-09,Autumn,Boreal Owl,17,0.5
+2022-09,Autumn,Carrion Crow,12,0.5
+2022-09,Autumn,Cetti's Warbler,1,0.5
+2022-09,Autumn,Cirl Bunting,3,0.5
+2022-09,Autumn,Coal Tit,8,0.5
+2022-09,Autumn,Collared Flycatcher,1,0.5
+2022-09,Autumn,Common Buzzard,5,0.5
+2022-09,Autumn,Common Chiffchaff,1,0.5
+2022-09,Autumn,Common Firecrest,13,0.5
+2022-09,Autumn,Common Grasshopper-Warbler,6,0.5
+2022-09,Autumn,Common Kingfisher,2,0.5
+2022-09,Autumn,Common Snipe,4,0.5
+2022-09,Autumn,Common Waxbill,2,0.5
+2022-09,Autumn,Crested Lark,1,0.5
+2022-09,Autumn,Crested Tit,3,0.5
+2022-09,Autumn,Dunnock,37,0.5
+2022-09,Autumn,Eurasian Blue Tit,76,0.5
+2022-09,Autumn,Eurasian Coot,1,0.5
+2022-09,Autumn,Eurasian Eagle-Owl,18,0.5
+2022-09,Autumn,Eurasian Green Woodpecker,128,0.5
+2022-09,Autumn,Eurasian Hobby,5,0.5
+2022-09,Autumn,Eurasian Jackdaw,913,0.5
+2022-09,Autumn,Eurasian Jay,59,0.5
+2022-09,Autumn,Eurasian Magpie,35,0.5
+2022-09,Autumn,Eurasian Moorhen,3,0.5
+2022-09,Autumn,Eurasian Nuthatch,1,0.5
+2022-09,Autumn,Eurasian Scops-Owl,1,0.5
+2022-09,Autumn,Eurasian Siskin,1,0.5
+2022-09,Autumn,Eurasian Treecreeper,9,0.5
+2022-09,Autumn,Eurasian Wren,38,0.5
+2022-09,Autumn,Eurasian Wryneck,127,0.5
+2022-09,Autumn,European Golden-Plover,1,0.5
+2022-09,Autumn,European Goldfinch,7,0.5
+2022-09,Autumn,European Greenfinch,13,0.5
+2022-09,Autumn,European Pied Flycatcher,2,0.5
+2022-09,Autumn,European Robin,612,0.5
+2022-09,Autumn,European Serin,5,0.5
+2022-09,Autumn,Fieldfare,1,0.5
+2022-09,Autumn,Goldcrest,3,0.5
+2022-09,Autumn,Gray Heron,1,0.5
+2022-09,Autumn,Gray Partridge,1,0.5
+2022-09,Autumn,Gray Wagtail,7,0.5
+2022-09,Autumn,Gray-headed Woodpecker,3,0.5
+2022-09,Autumn,Great Bittern,73,0.5
+2022-09,Autumn,Great Spotted Woodpecker,7,0.5
+2022-09,Autumn,Great Tit,17,0.5
+2022-09,Autumn,Green Sandpiper,1,0.5
+2022-09,Autumn,Hawfinch,24,0.5
+2022-09,Autumn,Hazel Grouse,1,0.5
+2022-09,Autumn,Hooded Crow,1,0.5
+2022-09,Autumn,Iberian Chiffchaff,1,0.5
+2022-09,Autumn,Lesser Kestrel,1,0.5
+2022-09,Autumn,Lesser Whitethroat,5,0.5
+2022-09,Autumn,Little Bittern,2,0.5
+2022-09,Autumn,Little Owl,18,0.5
+2022-09,Autumn,Long-eared Owl,8,0.5
+2022-09,Autumn,Long-tailed Tit,85,0.5
+2022-09,Autumn,Manx Shearwater,7,0.5
+2022-09,Autumn,Marmora's Warbler,1,0.5
+2022-09,Autumn,Marsh Tit,2,0.5
+2022-09,Autumn,Mew Gull,1,0.5
+2022-09,Autumn,Mistle Thrush,3,0.5
+2022-09,Autumn,Northern Goshawk,1,0.5
+2022-09,Autumn,Northern Lapwing,7,0.5
+2022-09,Autumn,Parrot Crossbill,1,0.5
+2022-09,Autumn,Peregrine Falcon,1,0.5
+2022-09,Autumn,Red Crossbill,1,0.5
+2022-09,Autumn,Red Kite,1,0.5
+2022-09,Autumn,Red-billed Chough,52,0.5
+2022-09,Autumn,Red-flanked Bluetail,1,0.5
+2022-09,Autumn,Ring-necked Pheasant,43,0.5
+2022-09,Autumn,Rock Pigeon,1,0.5
+2022-09,Autumn,Rook,11,0.5
+2022-09,Autumn,Rose-ringed Parakeet,1307,0.5
+2022-09,Autumn,Short-toed Treecreeper,1,0.5
+2022-09,Autumn,Song Thrush,1,0.5
+2022-09,Autumn,Spotted Flycatcher,6,0.5
+2022-09,Autumn,Tawny Owl,125,0.5
+2022-09,Autumn,Western Capercaillie,1,0.5
+2022-09,Autumn,Western Yellow Wagtail,1,0.5
+2022-09,Autumn,White Stork,1,0.5
+2022-09,Autumn,White Wagtail,1,0.5
+2022-09,Autumn,White-winged Tern,1,0.5
+2022-09,Autumn,Willow Warbler,1,0.5
+2022-09,Autumn,Wood Lark,14,0.5
+2022-09,Autumn,Yellow-browed Warbler,2,0.5
+2022-10,Autumn,Atlantic Puffin,8,0.5
+2022-10,Autumn,Barn Swallow,11,0.5
+2022-10,Autumn,Black Woodpecker,3,0.5
+2022-10,Autumn,Black-tailed Godwit,1,0.5
+2022-10,Autumn,Bohemian Waxwing,1,0.5
+2022-10,Autumn,Boreal Owl,10,0.5
+2022-10,Autumn,Canada Goose,3,0.5
+2022-10,Autumn,Carrion Crow,18,0.5
+2022-10,Autumn,Cirl Bunting,5,0.5
+2022-10,Autumn,Coal Tit,14,0.5
+2022-10,Autumn,Collared Flycatcher,1,0.5
+2022-10,Autumn,Common Buzzard,4,0.5
+2022-10,Autumn,Common Firecrest,9,0.5
+2022-10,Autumn,Common Grasshopper-Warbler,1,0.5
+2022-10,Autumn,Common Kingfisher,2,0.5
+2022-10,Autumn,Common Quail,1,0.5
+2022-10,Autumn,Common Sandpiper,3,0.5
+2022-10,Autumn,Common Snipe,1,0.5
+2022-10,Autumn,Crested Lark,1,0.5
+2022-10,Autumn,Crested Tit,1,0.5
+2022-10,Autumn,Dunnock,12,0.5
+2022-10,Autumn,Egyptian Goose,1,0.5
+2022-10,Autumn,Eurasian Blackbird,15,0.5
+2022-10,Autumn,Eurasian Blue Tit,26,0.5
+2022-10,Autumn,Eurasian Bullfinch,2,0.5
+2022-10,Autumn,Eurasian Eagle-Owl,18,0.5
+2022-10,Autumn,Eurasian Green Woodpecker,90,0.5
+2022-10,Autumn,Eurasian Hobby,1,0.5
+2022-10,Autumn,Eurasian Jackdaw,898,0.5
+2022-10,Autumn,Eurasian Jay,48,0.5
+2022-10,Autumn,Eurasian Linnet,1,0.5
+2022-10,Autumn,Eurasian Magpie,47,0.5
+2022-10,Autumn,Eurasian Moorhen,1,0.5
+2022-10,Autumn,Eurasian Reed Warbler,1,0.5
+2022-10,Autumn,Eurasian Three-toed Woodpecker,5,0.5
+2022-10,Autumn,Eurasian Treecreeper,3,0.5
+2022-10,Autumn,Eurasian Wren,100,0.5
+2022-10,Autumn,Eurasian Wryneck,115,0.5
+2022-10,Autumn,European Goldfinch,1,0.5
+2022-10,Autumn,European Greenfinch,14,0.5
+2022-10,Autumn,European Pied Flycatcher,1,0.5
+2022-10,Autumn,European Robin,462,0.5
+2022-10,Autumn,European Roller,1,0.5
+2022-10,Autumn,European Serin,9,0.5
+2022-10,Autumn,Goldcrest,1,0.5
+2022-10,Autumn,Gray Partridge,5,0.5
+2022-10,Autumn,Gray Wagtail,2,0.5
+2022-10,Autumn,Gray-headed Woodpecker,6,0.5
+2022-10,Autumn,Great Bittern,42,0.5
+2022-10,Autumn,Great Spotted Woodpecker,4,0.5
+2022-10,Autumn,Great Tit,5,0.5
+2022-10,Autumn,Greater Whitethroat,1,0.5
+2022-10,Autumn,Hawfinch,6,0.5
+2022-10,Autumn,Herring Gull,2,0.5
+2022-10,Autumn,Hooded Crow,6,0.5
+2022-10,Autumn,Lesser Whitethroat,3,0.5
+2022-10,Autumn,Little Crake,1,0.5
+2022-10,Autumn,Little Owl,6,0.5
+2022-10,Autumn,Long-eared Owl,8,0.5
+2022-10,Autumn,Long-tailed Tit,90,0.5
+2022-10,Autumn,Mandarin Duck,1,0.5
+2022-10,Autumn,Manx Shearwater,4,0.5
+2022-10,Autumn,Marsh Tit,8,0.5
+2022-10,Autumn,Middle Spotted Woodpecker,2,0.5
+2022-10,Autumn,Mistle Thrush,3,0.5
+2022-10,Autumn,Northern Goshawk,5,0.5
+2022-10,Autumn,Northern Lapwing,1,0.5
+2022-10,Autumn,Red Kite,9,0.5
+2022-10,Autumn,Red-billed Chough,56,0.5
+2022-10,Autumn,Red-breasted Flycatcher,2,0.5
+2022-10,Autumn,Red-legged Partridge,2,0.5
+2022-10,Autumn,Redwing,5,0.5
+2022-10,Autumn,Ring-necked Pheasant,33,0.5
+2022-10,Autumn,Rock Bunting,1,0.5
+2022-10,Autumn,Rock Pigeon,2,0.5
+2022-10,Autumn,Rook,20,0.5
+2022-10,Autumn,Rose-ringed Parakeet,1358,0.5
+2022-10,Autumn,Short-toed Treecreeper,2,0.5
+2022-10,Autumn,Song Thrush,1,0.5
+2022-10,Autumn,Spotted Crake,1,0.5
+2022-10,Autumn,Tawny Owl,90,0.5
+2022-10,Autumn,Western Capercaillie,3,0.5
+2022-10,Autumn,White-winged Tern,1,0.5
+2022-10,Autumn,Willow Warbler,2,0.5
+2022-10,Autumn,Wood Lark,12,0.5
+2022-10,Autumn,Wood Warbler,2,0.5
+2022-10,Autumn,Yellow-billed Chough,2,0.5
+2022-10,Autumn,Yellow-browed Warbler,1,0.5
+2022-11,Autumn,Atlantic Puffin,5,0.5
+2022-11,Autumn,Bearded Reedling,1,0.5
+2022-11,Autumn,Black Kite,1,0.5
+2022-11,Autumn,Black Redstart,3,0.5
+2022-11,Autumn,Black Woodpecker,1,0.5
+2022-11,Autumn,Black-tailed Godwit,1,0.5
+2022-11,Autumn,Bohemian Waxwing,1,0.5
+2022-11,Autumn,Boreal Owl,16,0.5
+2022-11,Autumn,Canada Goose,1,0.5
+2022-11,Autumn,Carrion Crow,11,0.5
+2022-11,Autumn,Cirl Bunting,1,0.5
+2022-11,Autumn,Coal Tit,5,0.5
+2022-11,Autumn,Collared Flycatcher,1,0.5
+2022-11,Autumn,Common Buzzard,16,0.5
+2022-11,Autumn,Common Firecrest,25,0.5
+2022-11,Autumn,Common Grasshopper-Warbler,1,0.5
+2022-11,Autumn,Common Sandpiper,2,0.5
+2022-11,Autumn,Common Wood-Pigeon,1,0.5
+2022-11,Autumn,Dunnock,10,0.5
+2022-11,Autumn,Egyptian Goose,2,0.5
+2022-11,Autumn,Eurasian Blackbird,8,0.5
+2022-11,Autumn,Eurasian Blue Tit,29,0.5
+2022-11,Autumn,Eurasian Curlew,1,0.5
+2022-11,Autumn,Eurasian Eagle-Owl,26,0.5
+2022-11,Autumn,Eurasian Green Woodpecker,34,0.5
+2022-11,Autumn,Eurasian Hobby,1,0.5
+2022-11,Autumn,Eurasian Jackdaw,372,0.5
+2022-11,Autumn,Eurasian Jay,31,0.5
+2022-11,Autumn,Eurasian Kestrel,1,0.5
+2022-11,Autumn,Eurasian Magpie,12,0.5
+2022-11,Autumn,Eurasian Three-toed Woodpecker,14,0.5
+2022-11,Autumn,Eurasian Treecreeper,3,0.5
+2022-11,Autumn,Eurasian Wren,90,0.5
+2022-11,Autumn,Eurasian Wryneck,194,0.5
+2022-11,Autumn,European Goldfinch,2,0.5
+2022-11,Autumn,European Robin,183,0.5
+2022-11,Autumn,European Serin,2,0.5
+2022-11,Autumn,Goldcrest,13,0.5
+2022-11,Autumn,Gray Partridge,1,0.5
+2022-11,Autumn,Gray Wagtail,2,0.5
+2022-11,Autumn,Gray-headed Woodpecker,5,0.5
+2022-11,Autumn,Graylag Goose,2,0.5
+2022-11,Autumn,Great Bittern,34,0.5
+2022-11,Autumn,Great Spotted Woodpecker,2,0.5
+2022-11,Autumn,Great Tit,1,0.5
+2022-11,Autumn,Green Sandpiper,1,0.5
+2022-11,Autumn,Hawfinch,1,0.5
+2022-11,Autumn,Hazel Grouse,2,0.5
+2022-11,Autumn,Hooded Crow,4,0.5
+2022-11,Autumn,Little Owl,7,0.5
+2022-11,Autumn,Long-eared Owl,8,0.5
+2022-11,Autumn,Long-tailed Tit,112,0.5
+2022-11,Autumn,Manx Shearwater,1,0.5
+2022-11,Autumn,Marsh Tit,3,0.5
+2022-11,Autumn,Middle Spotted Woodpecker,1,0.5
+2022-11,Autumn,Mistle Thrush,1,0.5
+2022-11,Autumn,Northern Lapwing,4,0.5
+2022-11,Autumn,Ortolan Bunting,3,0.5
+2022-11,Autumn,Red Kite,9,0.5
+2022-11,Autumn,Red-billed Chough,19,0.5
+2022-11,Autumn,Red-legged Partridge,1,0.5
+2022-11,Autumn,Redwing,2,0.5
+2022-11,Autumn,Ring-necked Pheasant,91,0.5
+2022-11,Autumn,Rook,12,0.5
+2022-11,Autumn,Rose-ringed Parakeet,1353,0.5
+2022-11,Autumn,Tawny Owl,143,0.5
+2022-11,Autumn,Ural Owl,3,0.5
+2022-11,Autumn,Western Capercaillie,4,0.5
+2022-11,Autumn,Whooper Swan,1,0.5
+2022-11,Autumn,Wood Lark,7,0.5
+2022-12,Winter,Atlantic Puffin,3,0.5
+2022-12,Winter,Barn Swallow,7,0.5
+2022-12,Winter,Black-tailed Godwit,1,0.5
+2022-12,Winter,Bohemian Waxwing,1,0.5
+2022-12,Winter,Boreal Owl,8,0.5
+2022-12,Winter,Canada Goose,1,0.5
+2022-12,Winter,Carrion Crow,8,0.5
+2022-12,Winter,Common Buzzard,3,0.5
+2022-12,Winter,Common Crane,3,0.5
+2022-12,Winter,Common Firecrest,6,0.5
+2022-12,Winter,Common Murre,5,0.5
+2022-12,Winter,Common Raven,2,0.5
+2022-12,Winter,Common Snipe,1,0.5
+2022-12,Winter,Common Wood-Pigeon,1,0.5
+2022-12,Winter,Crested Tit,1,0.5
+2022-12,Winter,Egyptian Goose,1,0.5
+2022-12,Winter,Eurasian Blackbird,20,0.5
+2022-12,Winter,Eurasian Blue Tit,28,0.5
+2022-12,Winter,Eurasian Bullfinch,1,0.5
+2022-12,Winter,Eurasian Curlew,2,0.5
+2022-12,Winter,Eurasian Eagle-Owl,3,0.5
+2022-12,Winter,Eurasian Green Woodpecker,15,0.5
+2022-12,Winter,Eurasian Hobby,1,0.5
+2022-12,Winter,Eurasian Jackdaw,155,0.5
+2022-12,Winter,Eurasian Jay,10,0.5
+2022-12,Winter,Eurasian Kestrel,2,0.5
+2022-12,Winter,Eurasian Magpie,8,0.5
+2022-12,Winter,Eurasian Nuthatch,1,0.5
+2022-12,Winter,Eurasian Scops-Owl,1,0.5
+2022-12,Winter,Eurasian Three-toed Woodpecker,2,0.5
+2022-12,Winter,Eurasian Treecreeper,2,0.5
+2022-12,Winter,Eurasian Wren,12,0.5
+2022-12,Winter,Eurasian Wryneck,73,0.5
+2022-12,Winter,European Robin,4,0.5
+2022-12,Winter,European Turtle-Dove,1,0.5
+2022-12,Winter,Gray Partridge,2,0.5
+2022-12,Winter,Gray Wagtail,2,0.5
+2022-12,Winter,Gray-headed Woodpecker,2,0.5
+2022-12,Winter,Graylag Goose,2,0.5
+2022-12,Winter,Great Bittern,31,0.5
+2022-12,Winter,Great Spotted Woodpecker,3,0.5
+2022-12,Winter,Hooded Crow,6,0.5
+2022-12,Winter,Little Owl,4,0.5
+2022-12,Winter,Long-tailed Tit,72,0.5
+2022-12,Winter,Marsh Tit,1,0.5
+2022-12,Winter,Northern Lapwing,1,0.5
+2022-12,Winter,Pin-tailed Whydah,2,0.5
+2022-12,Winter,Razorbill,1,0.5
+2022-12,Winter,Red Kite,1,0.5
+2022-12,Winter,Red-billed Chough,10,0.5
+2022-12,Winter,Red-breasted Flycatcher,1,0.5
+2022-12,Winter,Red-legged Partridge,3,0.5
+2022-12,Winter,Redwing,1,0.5
+2022-12,Winter,Ring-necked Pheasant,19,0.5
+2022-12,Winter,Rock Bunting,1,0.5
+2022-12,Winter,Rock Pigeon,1,0.5
+2022-12,Winter,Rook,7,0.5
+2022-12,Winter,Rose-ringed Parakeet,528,0.5
+2022-12,Winter,Spotted Crake,1,0.5
+2022-12,Winter,Spotted Flycatcher,1,0.5
+2022-12,Winter,Tawny Owl,59,0.5
+2022-12,Winter,Ural Owl,1,0.5
+2022-12,Winter,Wood Warbler,1,0.5
+2023-01,Winter,Atlantic Puffin,2,0.5
+2023-01,Winter,Black Redstart,1,0.5
+2023-01,Winter,Black Woodpecker,2,0.5
+2023-01,Winter,Bohemian Waxwing,1,0.5
+2023-01,Winter,Boreal Owl,17,0.5
+2023-01,Winter,Carrion Crow,2,0.5
+2023-01,Winter,Coal Tit,2,0.5
+2023-01,Winter,Common Buzzard,6,0.5
+2023-01,Winter,Common Crane,1,0.5
+2023-01,Winter,Common Firecrest,5,0.5
+2023-01,Winter,Common House-Martin,2,0.5
+2023-01,Winter,Common Sandpiper,4,0.5
+2023-01,Winter,Egyptian Goose,9,0.5
+2023-01,Winter,Eurasian Blackbird,4,0.5
+2023-01,Winter,Eurasian Blue Tit,139,0.5
+2023-01,Winter,Eurasian Bullfinch,2,0.5
+2023-01,Winter,Eurasian Curlew,2,0.5
+2023-01,Winter,Eurasian Eagle-Owl,18,0.5
+2023-01,Winter,Eurasian Green Woodpecker,12,0.5
+2023-01,Winter,Eurasian Hobby,1,0.5
+2023-01,Winter,Eurasian Jackdaw,163,0.5
+2023-01,Winter,Eurasian Jay,3,0.5
+2023-01,Winter,Eurasian Magpie,2,0.5
+2023-01,Winter,Eurasian Nuthatch,3,0.5
+2023-01,Winter,Eurasian Pygmy-Owl,1,0.5
+2023-01,Winter,Eurasian Three-toed Woodpecker,1,0.5
+2023-01,Winter,Eurasian Treecreeper,1,0.5
+2023-01,Winter,Eurasian Wren,1,0.5
+2023-01,Winter,Eurasian Wryneck,56,0.5
+2023-01,Winter,European Robin,9,0.5
+2023-01,Winter,European Serin,2,0.5
+2023-01,Winter,Fieldfare,1,0.5
+2023-01,Winter,Goldcrest,1,0.5
+2023-01,Winter,Gray Wagtail,3,0.5
+2023-01,Winter,Gray-headed Woodpecker,1,0.5
+2023-01,Winter,Graylag Goose,2,0.5
+2023-01,Winter,Great Bittern,27,0.5
+2023-01,Winter,Great Skua,1,0.5
+2023-01,Winter,Great Spotted Woodpecker,5,0.5
+2023-01,Winter,Great Tit,6,0.5
+2023-01,Winter,Hooded Crow,1,0.5
+2023-01,Winter,Little Bittern,1,0.5
+2023-01,Winter,Little Owl,13,0.5
+2023-01,Winter,Long-eared Owl,8,0.5
+2023-01,Winter,Long-tailed Tit,26,0.5
+2023-01,Winter,Mandarin Duck,1,0.5
+2023-01,Winter,Mistle Thrush,1,0.5
+2023-01,Winter,Northern Lapwing,1,0.5
+2023-01,Winter,Red Kite,4,0.5
+2023-01,Winter,Red-billed Chough,5,0.5
+2023-01,Winter,Ring-necked Pheasant,30,0.5
+2023-01,Winter,Rock Bunting,2,0.5
+2023-01,Winter,Rock Pigeon,1,0.5
+2023-01,Winter,Rook,5,0.5
+2023-01,Winter,Rose-ringed Parakeet,554,0.5
+2023-01,Winter,Tawny Owl,85,0.5
+2023-01,Winter,Water Rail,1,0.5
+2023-01,Winter,Western Capercaillie,4,0.5
+2023-01,Winter,Wood Lark,3,0.5
+2023-02,Winter,Atlantic Puffin,2,0.5
+2023-02,Winter,Barn Swallow,1,0.5
+2023-02,Winter,Black Kite,1,0.5
+2023-02,Winter,Black Woodpecker,3,0.5
+2023-02,Winter,Black-bellied Plover,1,0.5
+2023-02,Winter,Bohemian Waxwing,4,0.5
+2023-02,Winter,Boreal Owl,21,0.5
+2023-02,Winter,Canada Goose,6,0.5
+2023-02,Winter,Carrion Crow,14,0.5
+2023-02,Winter,Cirl Bunting,1,0.5
+2023-02,Winter,Coal Tit,4,0.5
+2023-02,Winter,Common Buzzard,34,0.5
+2023-02,Winter,Common Firecrest,6,0.5
+2023-02,Winter,Common Greenshank,1,0.5
+2023-02,Winter,Common Murre,2,0.5
+2023-02,Winter,Common Raven,1,0.5
+2023-02,Winter,Common Ringed Plover,1,0.5
+2023-02,Winter,Common Rosefinch,1,0.5
+2023-02,Winter,Common Sandpiper,7,0.5
+2023-02,Winter,Common Snipe,2,0.5
+2023-02,Winter,Common Wood-Pigeon,1,0.5
+2023-02,Winter,Dunnock,3,0.5
+2023-02,Winter,Egyptian Goose,30,0.5
+2023-02,Winter,Eurasian Blackbird,39,0.5
+2023-02,Winter,Eurasian Blue Tit,197,0.5
+2023-02,Winter,Eurasian Bullfinch,2,0.5
+2023-02,Winter,Eurasian Coot,1,0.5
+2023-02,Winter,Eurasian Curlew,11,0.5
+2023-02,Winter,Eurasian Eagle-Owl,23,0.5
+2023-02,Winter,Eurasian Golden Oriole,4,0.5
+2023-02,Winter,Eurasian Green Woodpecker,79,0.5
+2023-02,Winter,Eurasian Hobby,7,0.5
+2023-02,Winter,Eurasian Jackdaw,744,0.5
+2023-02,Winter,Eurasian Jay,11,0.5
+2023-02,Winter,Eurasian Kestrel,2,0.5
+2023-02,Winter,Eurasian Magpie,26,0.5
+2023-02,Winter,Eurasian Nuthatch,10,0.5
+2023-02,Winter,Eurasian Penduline-Tit,1,0.5
+2023-02,Winter,Eurasian Reed Warbler,1,0.5
+2023-02,Winter,Eurasian Three-toed Woodpecker,1,0.5
+2023-02,Winter,Eurasian Treecreeper,6,0.5
+2023-02,Winter,Eurasian Wigeon,1,0.5
+2023-02,Winter,Eurasian Wren,20,0.5
+2023-02,Winter,Eurasian Wryneck,185,0.5
+2023-02,Winter,European Golden-Plover,1,0.5
+2023-02,Winter,European Goldfinch,1,0.5
+2023-02,Winter,European Robin,16,0.5
+2023-02,Winter,European Stonechat,1,0.5
+2023-02,Winter,Gray Partridge,3,0.5
+2023-02,Winter,Gray-headed Woodpecker,9,0.5
+2023-02,Winter,Graylag Goose,7,0.5
+2023-02,Winter,Great Bittern,38,0.5
+2023-02,Winter,Great Spotted Woodpecker,7,0.5
+2023-02,Winter,Great Tit,7,0.5
+2023-02,Winter,Herring Gull,5,0.5
+2023-02,Winter,Hooded Crow,6,0.5
+2023-02,Winter,Iberian Chiffchaff,2,0.5
+2023-02,Winter,Lesser Spotted Woodpecker,1,0.5
+2023-02,Winter,Little Owl,7,0.5
+2023-02,Winter,Little Ringed Plover,1,0.5
+2023-02,Winter,Long-eared Owl,8,0.5
+2023-02,Winter,Long-tailed Tit,25,0.5
+2023-02,Winter,Mandarin Duck,1,0.5
+2023-02,Winter,Manx Shearwater,4,0.5
+2023-02,Winter,Marsh Tit,5,0.5
+2023-02,Winter,Mistle Thrush,27,0.5
+2023-02,Winter,Northern Lapwing,6,0.5
+2023-02,Winter,Red Kite,2,0.5
+2023-02,Winter,Red-billed Chough,35,0.5
+2023-02,Winter,Redwing,1,0.5
+2023-02,Winter,Ring Ouzel,1,0.5
+2023-02,Winter,Ring-necked Pheasant,89,0.5
+2023-02,Winter,Rock Pigeon,1,0.5
+2023-02,Winter,Rook,14,0.5
+2023-02,Winter,Rose-ringed Parakeet,1532,0.5
+2023-02,Winter,Spotted Crake,6,0.5
+2023-02,Winter,Tawny Owl,81,0.5
+2023-02,Winter,Ural Owl,2,0.5
+2023-02,Winter,Water Pipit,1,0.5
+2023-02,Winter,Water Rail,2,0.5
+2023-02,Winter,Western Capercaillie,2,0.5
+2023-02,Winter,Western Yellow Wagtail,1,0.5
+2023-02,Winter,Wood Lark,9,0.5
+2023-02,Winter,Yellow-billed Chough,1,0.5
+2023-03,Spring,Aquatic Warbler,1,0.5
+2023-03,Spring,Atlantic Puffin,1,0.5
+2023-03,Spring,Bearded Reedling,10,0.5
+2023-03,Spring,Black Woodpecker,5,0.5
+2023-03,Spring,Boreal Owl,13,0.5
+2023-03,Spring,Canada Goose,6,0.5
+2023-03,Spring,Carrion Crow,27,0.5
+2023-03,Spring,Cirl Bunting,3,0.5
+2023-03,Spring,Coal Tit,6,0.5
+2023-03,Spring,Common Buzzard,48,0.5
+2023-03,Spring,Common Chiffchaff,2,0.5
+2023-03,Spring,Common Crane,2,0.5
+2023-03,Spring,Common Firecrest,3,0.5
+2023-03,Spring,Common Grasshopper-Warbler,1,0.5
+2023-03,Spring,Common Greenshank,7,0.5
+2023-03,Spring,Common Raven,2,0.5
+2023-03,Spring,Common Redshank,1,0.5
+2023-03,Spring,Common Sandpiper,6,0.5
+2023-03,Spring,Common Snipe,2,0.5
+2023-03,Spring,Common Wood-Pigeon,2,0.5
+2023-03,Spring,Crested Lark,1,0.5
+2023-03,Spring,Dunnock,20,0.5
+2023-03,Spring,Egyptian Goose,13,0.5
+2023-03,Spring,Eurasian Blackbird,63,0.5
+2023-03,Spring,Eurasian Blackcap,1,0.5
+2023-03,Spring,Eurasian Blue Tit,236,0.5
+2023-03,Spring,Eurasian Bullfinch,7,0.5
+2023-03,Spring,Eurasian Curlew,9,0.5
+2023-03,Spring,Eurasian Eagle-Owl,16,0.5
+2023-03,Spring,Eurasian Golden Oriole,1,0.5
+2023-03,Spring,Eurasian Green Woodpecker,134,0.5
+2023-03,Spring,Eurasian Hobby,13,0.5
+2023-03,Spring,Eurasian Jackdaw,1459,0.5
+2023-03,Spring,Eurasian Jay,13,0.5
+2023-03,Spring,Eurasian Magpie,47,0.5
+2023-03,Spring,Eurasian Moorhen,3,0.5
+2023-03,Spring,Eurasian Nightjar,1,0.5
+2023-03,Spring,Eurasian Nuthatch,8,0.5
+2023-03,Spring,Eurasian Oystercatcher,1,0.5
+2023-03,Spring,Eurasian Penduline-Tit,1,0.5
+2023-03,Spring,Eurasian Pygmy-Owl,1,0.5
+2023-03,Spring,Eurasian Reed Warbler,1,0.5
+2023-03,Spring,Eurasian Siskin,6,0.5
+2023-03,Spring,Eurasian Treecreeper,39,0.5
+2023-03,Spring,Eurasian Woodcock,2,0.5
+2023-03,Spring,Eurasian Wren,220,0.5
+2023-03,Spring,Eurasian Wryneck,204,0.5
+2023-03,Spring,European Goldfinch,5,0.5
+2023-03,Spring,European Greenfinch,2,0.5
+2023-03,Spring,European Robin,135,0.5
+2023-03,Spring,European Serin,3,0.5
+2023-03,Spring,Goldcrest,2,0.5
+2023-03,Spring,Gray Partridge,3,0.5
+2023-03,Spring,Gray Wagtail,2,0.5
+2023-03,Spring,Gray-headed Woodpecker,11,0.5
+2023-03,Spring,Graylag Goose,2,0.5
+2023-03,Spring,Great Bittern,106,0.5
+2023-03,Spring,Great Black-backed Gull,1,0.5
+2023-03,Spring,Great Spotted Woodpecker,24,0.5
+2023-03,Spring,Great Tit,29,0.5
+2023-03,Spring,Green Sandpiper,7,0.5
+2023-03,Spring,Green-winged Teal,2,0.5
+2023-03,Spring,Herring Gull,1,0.5
+2023-03,Spring,Hooded Crow,6,0.5
+2023-03,Spring,Iberian Chiffchaff,1,0.5
+2023-03,Spring,Lesser Spotted Woodpecker,4,0.5
+2023-03,Spring,Little Owl,10,0.5
+2023-03,Spring,Long-eared Owl,7,0.5
+2023-03,Spring,Long-tailed Tit,12,0.5
+2023-03,Spring,Mandarin Duck,4,0.5
+2023-03,Spring,Manx Shearwater,3,0.5
+2023-03,Spring,Marsh Tit,10,0.5
+2023-03,Spring,Mistle Thrush,168,0.5
+2023-03,Spring,Northern Goshawk,3,0.5
+2023-03,Spring,Ortolan Bunting,1,0.5
+2023-03,Spring,Razorbill,1,0.5
+2023-03,Spring,Red Kite,20,0.5
+2023-03,Spring,Red-billed Chough,84,0.5
+2023-03,Spring,Redwing,9,0.5
+2023-03,Spring,Ring Ouzel,2,0.5
+2023-03,Spring,Ring-necked Pheasant,581,0.5
+2023-03,Spring,Rock Bunting,1,0.5
+2023-03,Spring,Rock Pigeon,1,0.5
+2023-03,Spring,Rook,18,0.5
+2023-03,Spring,Rose-ringed Parakeet,1939,0.5
+2023-03,Spring,Ruddy Shelduck,1,0.5
+2023-03,Spring,Short-toed Treecreeper,1,0.5
+2023-03,Spring,Tawny Owl,47,0.5
+2023-03,Spring,Water Rail,2,0.5
+2023-03,Spring,Western Capercaillie,9,0.5
+2023-03,Spring,Western Orphean Warbler,1,0.5
+2023-03,Spring,White Wagtail,1,0.5
+2023-03,Spring,Whooper Swan,1,0.5
+2023-03,Spring,Willow Warbler,1,0.5
+2023-03,Spring,Wood Lark,19,0.5
+2023-03,Spring,Wood Warbler,1,0.5
+2023-03,Spring,Yellow-billed Chough,2,0.5
+2023-04,Spring,Aquatic Warbler,1,0.5
+2023-04,Spring,Atlantic Puffin,6,0.5
+2023-04,Spring,Barn Owl,3,0.5
+2023-04,Spring,Black Grouse,1,0.5
+2023-04,Spring,Black Kite,1,0.5
+2023-04,Spring,Black Redstart,1,0.5
+2023-04,Spring,Black Woodpecker,9,0.5
+2023-04,Spring,Black-legged Kittiwake,2,0.5
+2023-04,Spring,Black-tailed Godwit,1,0.5
+2023-04,Spring,Bluethroat,1,0.5
+2023-04,Spring,Bohemian Waxwing,3,0.5
+2023-04,Spring,Boreal Owl,10,0.5
+2023-04,Spring,Canada Goose,7,0.5
+2023-04,Spring,Carrion Crow,13,0.5
+2023-04,Spring,Cirl Bunting,13,0.5
+2023-04,Spring,Coal Tit,25,0.5
+2023-04,Spring,Collared Flycatcher,1,0.5
+2023-04,Spring,Common Buzzard,12,0.5
+2023-04,Spring,Common Chaffinch,2,0.5
+2023-04,Spring,Common Chiffchaff,67,0.5
+2023-04,Spring,Common Crane,6,0.5
+2023-04,Spring,Common Firecrest,17,0.5
+2023-04,Spring,Common Grasshopper-Warbler,9,0.5
+2023-04,Spring,Common Kingfisher,6,0.5
+2023-04,Spring,Common Pochard,1,0.5
+2023-04,Spring,Common Sandpiper,2,0.5
+2023-04,Spring,Common Swift,1,0.5
+2023-04,Spring,Common Waxbill,1,0.5
+2023-04,Spring,Common Wood-Pigeon,2,0.5
+2023-04,Spring,Corsican Finch,3,0.5
+2023-04,Spring,Corsican Nuthatch,4,0.5
+2023-04,Spring,Crested Lark,4,0.5
+2023-04,Spring,Crested Tit,4,0.5
+2023-04,Spring,Dunnock,289,0.5
+2023-04,Spring,Egyptian Goose,4,0.5
+2023-04,Spring,Eurasian Blackbird,77,0.5
+2023-04,Spring,Eurasian Blackcap,36,0.5
+2023-04,Spring,Eurasian Blue Tit,503,0.5
+2023-04,Spring,Eurasian Bullfinch,5,0.5
+2023-04,Spring,Eurasian Collared-Dove,1,0.5
+2023-04,Spring,Eurasian Coot,1,0.5
+2023-04,Spring,Eurasian Curlew,6,0.5
+2023-04,Spring,Eurasian Eagle-Owl,9,0.5
+2023-04,Spring,Eurasian Golden Oriole,3,0.5
+2023-04,Spring,Eurasian Green Woodpecker,173,0.5
+2023-04,Spring,Eurasian Hobby,5,0.5
+2023-04,Spring,Eurasian Hoopoe,1,0.5
+2023-04,Spring,Eurasian Jackdaw,601,0.5
+2023-04,Spring,Eurasian Jay,8,0.5
+2023-04,Spring,Eurasian Kestrel,1,0.5
+2023-04,Spring,Eurasian Magpie,26,0.5
+2023-04,Spring,Eurasian Moorhen,2,0.5
+2023-04,Spring,Eurasian Nuthatch,66,0.5
+2023-04,Spring,Eurasian Penduline-Tit,2,0.5
+2023-04,Spring,Eurasian Siskin,7,0.5
+2023-04,Spring,Eurasian Three-toed Woodpecker,2,0.5
+2023-04,Spring,Eurasian Treecreeper,65,0.5
+2023-04,Spring,Eurasian Woodcock,6,0.5
+2023-04,Spring,Eurasian Wren,702,0.5
+2023-04,Spring,Eurasian Wryneck,150,0.5
+2023-04,Spring,European Bee-eater,1,0.5
+2023-04,Spring,European Goldfinch,22,0.5
+2023-04,Spring,European Greenfinch,14,0.5
+2023-04,Spring,European Honey-buzzard,2,0.5
+2023-04,Spring,European Robin,397,0.5
+2023-04,Spring,European Roller,1,0.5
+2023-04,Spring,European Serin,9,0.5
+2023-04,Spring,European Starling,1,0.5
+2023-04,Spring,European Stonechat,1,0.5
+2023-04,Spring,European Turtle-Dove,2,0.5
+2023-04,Spring,Fieldfare,1,0.5
+2023-04,Spring,Goldcrest,4,0.5
+2023-04,Spring,Gray Partridge,2,0.5
+2023-04,Spring,Gray Wagtail,9,0.5
+2023-04,Spring,Gray-headed Woodpecker,5,0.5
+2023-04,Spring,Graylag Goose,2,0.5
+2023-04,Spring,Great Bittern,49,0.5
+2023-04,Spring,Great Spotted Woodpecker,24,0.5
+2023-04,Spring,Great Tit,65,0.5
+2023-04,Spring,Green Sandpiper,1,0.5
+2023-04,Spring,Green-winged Teal,2,0.5
+2023-04,Spring,Hawfinch,5,0.5
+2023-04,Spring,Hooded Crow,7,0.5
+2023-04,Spring,Iberian Chiffchaff,4,0.5
+2023-04,Spring,Lesser Spotted Woodpecker,2,0.5
+2023-04,Spring,Lesser Whitethroat,3,0.5
+2023-04,Spring,Little Bittern,1,0.5
+2023-04,Spring,Little Owl,3,0.5
+2023-04,Spring,Little Ringed Plover,4,0.5
+2023-04,Spring,Long-eared Owl,7,0.5
+2023-04,Spring,Long-tailed Tit,8,0.5
+2023-04,Spring,Mandarin Duck,2,0.5
+2023-04,Spring,Manx Shearwater,4,0.5
+2023-04,Spring,Marsh Tit,4,0.5
+2023-04,Spring,Mistle Thrush,137,0.5
+2023-04,Spring,Parrot Crossbill,1,0.5
+2023-04,Spring,Red Crossbill,1,0.5
+2023-04,Spring,Red Kite,13,0.5
+2023-04,Spring,Red-billed Chough,52,0.5
+2023-04,Spring,Ring Ouzel,2,0.5
+2023-04,Spring,Ring-necked Pheasant,170,0.5
+2023-04,Spring,Rock Bunting,5,0.5
+2023-04,Spring,Rock Pigeon,5,0.5
+2023-04,Spring,Rook,16,0.5
+2023-04,Spring,Rose-ringed Parakeet,1438,0.5
+2023-04,Spring,Short-toed Treecreeper,4,0.5
+2023-04,Spring,Song Thrush,2,0.5
+2023-04,Spring,Spotted Flycatcher,1,0.5
+2023-04,Spring,Tawny Owl,14,0.5
+2023-04,Spring,Western Bonelli's Warbler,1,0.5
+2023-04,Spring,Western Capercaillie,6,0.5
+2023-04,Spring,Whinchat,1,0.5
+2023-04,Spring,White-winged Crossbill,1,0.5
+2023-04,Spring,Willow Tit,3,0.5
+2023-04,Spring,Willow Warbler,6,0.5
+2023-04,Spring,Wood Lark,31,0.5
+2023-05,Spring,Aquatic Warbler,1,0.5
+2023-05,Spring,Atlantic Puffin,8,0.5
+2023-05,Spring,Barn Owl,2,0.5
+2023-05,Spring,Barn Swallow,1,0.5
+2023-05,Spring,Barnacle Goose,2,0.5
+2023-05,Spring,Bearded Reedling,1,0.5
+2023-05,Spring,Black Kite,1,0.5
+2023-05,Spring,Black Woodpecker,19,0.5
+2023-05,Spring,Black-crowned Night-Heron,1,0.5
+2023-05,Spring,Black-legged Kittiwake,3,0.5
+2023-05,Spring,Black-tailed Godwit,1,0.5
+2023-05,Spring,Boreal Owl,4,0.5
+2023-05,Spring,Canada Goose,2,0.5
+2023-05,Spring,Carrion Crow,126,0.5
+2023-05,Spring,Cirl Bunting,5,0.5
+2023-05,Spring,Coal Tit,11,0.5
+2023-05,Spring,Collared Flycatcher,1,0.5
+2023-05,Spring,Common Buzzard,28,0.5
+2023-05,Spring,Common Chiffchaff,22,0.5
+2023-05,Spring,Common Crane,3,0.5
+2023-05,Spring,Common Firecrest,10,0.5
+2023-05,Spring,Common Grasshopper-Warbler,3,0.5
+2023-05,Spring,Common Nightingale,1,0.5
+2023-05,Spring,Common Quail,1,0.5
+2023-05,Spring,Common Raven,1,0.5
+2023-05,Spring,Common Sandpiper,22,0.5
+2023-05,Spring,Common Wood-Pigeon,7,0.5
+2023-05,Spring,Corsican Finch,1,0.5
+2023-05,Spring,Crested Tit,1,0.5
+2023-05,Spring,Dartford Warbler,1,0.5
+2023-05,Spring,Dunnock,49,0.5
+2023-05,Spring,Egyptian Goose,1,0.5
+2023-05,Spring,Eurasian Blackbird,57,0.5
+2023-05,Spring,Eurasian Blackcap,168,0.5
+2023-05,Spring,Eurasian Blue Tit,305,0.5
+2023-05,Spring,Eurasian Bullfinch,12,0.5
+2023-05,Spring,Eurasian Crag-Martin,1,0.5
+2023-05,Spring,Eurasian Curlew,20,0.5
+2023-05,Spring,Eurasian Eagle-Owl,6,0.5
+2023-05,Spring,Eurasian Golden Oriole,14,0.5
+2023-05,Spring,Eurasian Green Woodpecker,136,0.5
+2023-05,Spring,Eurasian Hoopoe,2,0.5
+2023-05,Spring,Eurasian Jackdaw,1567,0.5
+2023-05,Spring,Eurasian Jay,6,0.5
+2023-05,Spring,Eurasian Linnet,1,0.5
+2023-05,Spring,Eurasian Magpie,59,0.5
+2023-05,Spring,Eurasian Moorhen,1,0.5
+2023-05,Spring,Eurasian Nutcracker,1,0.5
+2023-05,Spring,Eurasian Nuthatch,28,0.5
+2023-05,Spring,Eurasian Penduline-Tit,2,0.5
+2023-05,Spring,Eurasian Scops-Owl,1,0.5
+2023-05,Spring,Eurasian Siskin,1,0.5
+2023-05,Spring,Eurasian Three-toed Woodpecker,1,0.5
+2023-05,Spring,Eurasian Treecreeper,26,0.5
+2023-05,Spring,Eurasian Woodcock,6,0.5
+2023-05,Spring,Eurasian Wren,1217,0.5
+2023-05,Spring,Eurasian Wryneck,14,0.5
+2023-05,Spring,European Golden-Plover,2,0.5
+2023-05,Spring,European Goldfinch,7,0.5
+2023-05,Spring,European Greenfinch,7,0.5
+2023-05,Spring,European Honey-buzzard,1,0.5
+2023-05,Spring,European Pied Flycatcher,2,0.5
+2023-05,Spring,European Robin,121,0.5
+2023-05,Spring,European Serin,2,0.5
+2023-05,Spring,European Storm-Petrel,3,0.5
+2023-05,Spring,European Turtle-Dove,1,0.5
+2023-05,Spring,Fieldfare,2,0.5
+2023-05,Spring,Garden Warbler,1,0.5
+2023-05,Spring,Goldcrest,5,0.5
+2023-05,Spring,Gray Heron,2,0.5
+2023-05,Spring,Gray Wagtail,48,0.5
+2023-05,Spring,Gray-headed Woodpecker,3,0.5
+2023-05,Spring,Graylag Goose,10,0.5
+2023-05,Spring,Great Bittern,42,0.5
+2023-05,Spring,Great Black-backed Gull,1,0.5
+2023-05,Spring,Great Spotted Woodpecker,69,0.5
+2023-05,Spring,Great Tit,65,0.5
+2023-05,Spring,Greater Whitethroat,5,0.5
+2023-05,Spring,Green Sandpiper,1,0.5
+2023-05,Spring,Hawfinch,1,0.5
+2023-05,Spring,Hooded Crow,53,0.5
+2023-05,Spring,Iberian Chiffchaff,2,0.5
+2023-05,Spring,Lesser Spotted Woodpecker,1,0.5
+2023-05,Spring,Little Bittern,1,0.5
+2023-05,Spring,Little Owl,65,0.5
+2023-05,Spring,Little Ringed Plover,1,0.5
+2023-05,Spring,Long-eared Owl,1,0.5
+2023-05,Spring,Long-tailed Tit,17,0.5
+2023-05,Spring,Manx Shearwater,3,0.5
+2023-05,Spring,Marsh Tit,1,0.5
+2023-05,Spring,Mistle Thrush,29,0.5
+2023-05,Spring,Northern Goshawk,6,0.5
+2023-05,Spring,Northern Lapwing,2,0.5
+2023-05,Spring,Pink-footed Goose,1,0.5
+2023-05,Spring,Red Kite,24,0.5
+2023-05,Spring,Red-billed Chough,95,0.5
+2023-05,Spring,Red-legged Partridge,1,0.5
+2023-05,Spring,Red-throated Loon,2,0.5
+2023-05,Spring,Ring Ouzel,9,0.5
+2023-05,Spring,Ring-necked Pheasant,1790,0.5
+2023-05,Spring,Rock Bunting,1,0.5
+2023-05,Spring,Rock Pigeon,1,0.5
+2023-05,Spring,Rook,45,0.5
+2023-05,Spring,Rose-ringed Parakeet,265,0.5
+2023-05,Spring,Spotted Flycatcher,3,0.5
+2023-05,Spring,Stock Dove,2,0.5
+2023-05,Spring,Subalpine Warbler,1,0.5
+2023-05,Spring,Tawny Owl,74,0.5
+2023-05,Spring,Ural Owl,3,0.5
+2023-05,Spring,Western Capercaillie,5,0.5
+2023-05,Spring,Western Yellow Wagtail,1,0.5
+2023-05,Spring,Whinchat,4,0.5
+2023-05,Spring,Whooper Swan,1,0.5
+2023-05,Spring,Willow Tit,2,0.5
+2023-05,Spring,Willow Warbler,5,0.5
+2023-05,Spring,Wood Lark,103,0.5
+2023-05,Spring,Wood Warbler,4,0.5
+2023-05,Spring,Yellowhammer,1,0.5
+2023-06,Summer,Aquatic Warbler,1,0.5
+2023-06,Summer,Atlantic Puffin,4,0.5
+2023-06,Summer,Barn Swallow,3,0.5
+2023-06,Summer,Barnacle Goose,1,0.5
+2023-06,Summer,Bearded Reedling,6,0.5
+2023-06,Summer,Black Grouse,1,0.5
+2023-06,Summer,Black Kite,3,0.5
+2023-06,Summer,Black Woodpecker,52,0.5
+2023-06,Summer,Black-legged Kittiwake,4,0.5
+2023-06,Summer,Black-tailed Godwit,3,0.5
+2023-06,Summer,Boreal Owl,7,0.5
+2023-06,Summer,Canada Goose,2,0.5
+2023-06,Summer,Carrion Crow,12,0.5
+2023-06,Summer,Cirl Bunting,5,0.5
+2023-06,Summer,Coal Tit,118,0.5
+2023-06,Summer,Collared Flycatcher,1,0.5
+2023-06,Summer,Common Buzzard,96,0.5
+2023-06,Summer,Common Chaffinch,1,0.5
+2023-06,Summer,Common Chiffchaff,2,0.5
+2023-06,Summer,Common Crane,14,0.5
+2023-06,Summer,Common Firecrest,16,0.5
+2023-06,Summer,Common Grasshopper-Warbler,5,0.5
+2023-06,Summer,Common Raven,5,0.5
+2023-06,Summer,Common Sandpiper,12,0.5
+2023-06,Summer,Common Waxbill,1,0.5
+2023-06,Summer,Common Wood-Pigeon,5,0.5
+2023-06,Summer,Corn Bunting,1,0.5
+2023-06,Summer,Dartford Warbler,1,0.5
+2023-06,Summer,Dunnock,15,0.5
+2023-06,Summer,Eurasian Blackbird,31,0.5
+2023-06,Summer,Eurasian Blackcap,18,0.5
+2023-06,Summer,Eurasian Blue Tit,162,0.5
+2023-06,Summer,Eurasian Bullfinch,19,0.5
+2023-06,Summer,Eurasian Collared-Dove,2,0.5
+2023-06,Summer,Eurasian Curlew,5,0.5
+2023-06,Summer,Eurasian Eagle-Owl,15,0.5
+2023-06,Summer,Eurasian Golden Oriole,4,0.5
+2023-06,Summer,Eurasian Green Woodpecker,222,0.5
+2023-06,Summer,Eurasian Jackdaw,1657,0.5
+2023-06,Summer,Eurasian Jay,47,0.5
+2023-06,Summer,Eurasian Kestrel,2,0.5
+2023-06,Summer,Eurasian Magpie,51,0.5
+2023-06,Summer,Eurasian Nutcracker,1,0.5
+2023-06,Summer,Eurasian Nuthatch,36,0.5
+2023-06,Summer,Eurasian Pygmy-Owl,2,0.5
+2023-06,Summer,Eurasian Scops-Owl,10,0.5
+2023-06,Summer,Eurasian Siskin,2,0.5
+2023-06,Summer,Eurasian Three-toed Woodpecker,17,0.5
+2023-06,Summer,Eurasian Treecreeper,75,0.5
+2023-06,Summer,Eurasian Woodcock,1,0.5
+2023-06,Summer,Eurasian Wren,2073,0.5
+2023-06,Summer,Eurasian Wryneck,2,0.5
+2023-06,Summer,European Golden-Plover,1,0.5
+2023-06,Summer,European Goldfinch,7,0.5
+2023-06,Summer,European Honey-buzzard,1,0.5
+2023-06,Summer,European Robin,40,0.5
+2023-06,Summer,European Storm-Petrel,3,0.5
+2023-06,Summer,European Turtle-Dove,9,0.5
+2023-06,Summer,Fieldfare,2,0.5
+2023-06,Summer,Goldcrest,1,0.5
+2023-06,Summer,Gray Heron,3,0.5
+2023-06,Summer,Gray Partridge,1,0.5
+2023-06,Summer,Gray Wagtail,1,0.5
+2023-06,Summer,Gray-headed Woodpecker,4,0.5
+2023-06,Summer,Graylag Goose,17,0.5
+2023-06,Summer,Great Bittern,30,0.5
+2023-06,Summer,Great Reed Warbler,1,0.5
+2023-06,Summer,Great Spotted Woodpecker,149,0.5
+2023-06,Summer,Greater White-fronted Goose,1,0.5
+2023-06,Summer,Hawfinch,4,0.5
+2023-06,Summer,Hooded Crow,2,0.5
+2023-06,Summer,Iberian Green Woodpecker,3,0.5
+2023-06,Summer,Lesser Black-backed Gull,1,0.5
+2023-06,Summer,Lesser Spotted Woodpecker,1,0.5
+2023-06,Summer,Little Bittern,2,0.5
+2023-06,Summer,Little Owl,57,0.5
+2023-06,Summer,Little Ringed Plover,1,0.5
+2023-06,Summer,Long-tailed Tit,16,0.5
+2023-06,Summer,Manx Shearwater,4,0.5
+2023-06,Summer,Marsh Tit,4,0.5
+2023-06,Summer,Mediterranean Flycatcher,1,0.5
+2023-06,Summer,Middle Spotted Woodpecker,5,0.5
+2023-06,Summer,Mistle Thrush,16,0.5
+2023-06,Summer,Northern Gannet,1,0.5
+2023-06,Summer,Northern Goshawk,2,0.5
+2023-06,Summer,Northern Lapwing,4,0.5
+2023-06,Summer,Peregrine Falcon,1,0.5
+2023-06,Summer,Pink-footed Goose,1,0.5
+2023-06,Summer,Razorbill,3,0.5
+2023-06,Summer,Red Kite,31,0.5
+2023-06,Summer,Red-billed Chough,501,0.5
+2023-06,Summer,Red-legged Partridge,1,0.5
+2023-06,Summer,Red-throated Loon,3,0.5
+2023-06,Summer,Ring-necked Pheasant,59,0.5
+2023-06,Summer,Rock Pigeon,1,0.5
+2023-06,Summer,Rook,21,0.5
+2023-06,Summer,Rose-ringed Parakeet,127,0.5
+2023-06,Summer,Ruff,1,0.5
+2023-06,Summer,Sardinian Warbler,1,0.5
+2023-06,Summer,Short-toed Treecreeper,4,0.5
+2023-06,Summer,Song Thrush,4,0.5
+2023-06,Summer,Spectacled Warbler,1,0.5
+2023-06,Summer,Spotted Crake,1,0.5
+2023-06,Summer,Spotted Flycatcher,2,0.5
+2023-06,Summer,Stock Dove,5,0.5
+2023-06,Summer,Tawny Owl,79,0.5
+2023-06,Summer,Ural Owl,4,0.5
+2023-06,Summer,Western Capercaillie,7,0.5
+2023-06,Summer,Whooper Swan,2,0.5
+2023-06,Summer,Willow Warbler,1,0.5
+2023-06,Summer,Wood Lark,7,0.5
+2023-06,Summer,Wood Warbler,1,0.5
+2023-06,Summer,Yellow-browed Warbler,4,0.5
+2023-06,Summer,Yellow-headed Parrot,3,0.5
+2023-07,Summer,Atlantic Puffin,2,0.5
+2023-07,Summer,Barnacle Goose,1,0.5
+2023-07,Summer,Bearded Reedling,1,0.5
+2023-07,Summer,Black Kite,2,0.5
+2023-07,Summer,Black Woodpecker,2,0.5
+2023-07,Summer,Black-bellied Plover,2,0.5
+2023-07,Summer,Black-legged Kittiwake,4,0.5
+2023-07,Summer,Bohemian Waxwing,1,0.5
+2023-07,Summer,Boreal Owl,3,0.5
+2023-07,Summer,Canada Goose,1,0.5
+2023-07,Summer,Carrion Crow,5,0.5
+2023-07,Summer,Cirl Bunting,1,0.5
+2023-07,Summer,Coal Tit,48,0.5
+2023-07,Summer,Collared Flycatcher,4,0.5
+2023-07,Summer,Common Buzzard,124,0.5
+2023-07,Summer,Common Crane,6,0.5
+2023-07,Summer,Common Firecrest,6,0.5
+2023-07,Summer,Common Grasshopper-Warbler,3,0.5
+2023-07,Summer,Common Kingfisher,18,0.5
+2023-07,Summer,Common Raven,11,0.5
+2023-07,Summer,Common Sandpiper,2,0.5
+2023-07,Summer,Common Swift,1,0.5
+2023-07,Summer,Common Wood-Pigeon,19,0.5
+2023-07,Summer,Corn Bunting,1,0.5
+2023-07,Summer,Dunnock,26,0.5
+2023-07,Summer,Eurasian Blackbird,1,0.5
+2023-07,Summer,Eurasian Blue Tit,19,0.5
+2023-07,Summer,Eurasian Bullfinch,1,0.5
+2023-07,Summer,Eurasian Collared-Dove,5,0.5
+2023-07,Summer,Eurasian Curlew,1,0.5
+2023-07,Summer,Eurasian Eagle-Owl,23,0.5
+2023-07,Summer,Eurasian Golden Oriole,1,0.5
+2023-07,Summer,Eurasian Green Woodpecker,243,0.5
+2023-07,Summer,Eurasian Hoopoe,2,0.5
+2023-07,Summer,Eurasian Jackdaw,117,0.5
+2023-07,Summer,Eurasian Jay,42,0.5
+2023-07,Summer,Eurasian Kestrel,6,0.5
+2023-07,Summer,Eurasian Magpie,6,0.5
+2023-07,Summer,Eurasian Nuthatch,2,0.5
+2023-07,Summer,Eurasian Scops-Owl,12,0.5
+2023-07,Summer,Eurasian Siskin,1,0.5
+2023-07,Summer,Eurasian Treecreeper,29,0.5
+2023-07,Summer,Eurasian Wren,498,0.5
+2023-07,Summer,European Golden-Plover,3,0.5
+2023-07,Summer,European Honey-buzzard,16,0.5
+2023-07,Summer,European Robin,8,0.5
+2023-07,Summer,European Storm-Petrel,3,0.5
+2023-07,Summer,European Turtle-Dove,1,0.5
+2023-07,Summer,Goldcrest,3,0.5
+2023-07,Summer,Gray Heron,1,0.5
+2023-07,Summer,Gray Wagtail,2,0.5
+2023-07,Summer,Gray-headed Woodpecker,14,0.5
+2023-07,Summer,Graylag Goose,6,0.5
+2023-07,Summer,Great Bittern,47,0.5
+2023-07,Summer,Great Spotted Woodpecker,9,0.5
+2023-07,Summer,Great Tit,1,0.5
+2023-07,Summer,Hooded Crow,2,0.5
+2023-07,Summer,Iberian Green Woodpecker,1,0.5
+2023-07,Summer,Little Bittern,1,0.5
+2023-07,Summer,Little Grebe,1,0.5
+2023-07,Summer,Little Owl,46,0.5
+2023-07,Summer,Long-eared Owl,10,0.5
+2023-07,Summer,Long-tailed Tit,1,0.5
+2023-07,Summer,Manx Shearwater,5,0.5
+2023-07,Summer,Northern Goshawk,6,0.5
+2023-07,Summer,Northern Lapwing,2,0.5
+2023-07,Summer,Peregrine Falcon,1,0.5
+2023-07,Summer,Razorbill,2,0.5
+2023-07,Summer,Red Kite,12,0.5
+2023-07,Summer,Red-billed Chough,23,0.5
+2023-07,Summer,Red-breasted Flycatcher,2,0.5
+2023-07,Summer,Red-throated Loon,1,0.5
+2023-07,Summer,Ring-necked Pheasant,10,0.5
+2023-07,Summer,Rock Pigeon,1,0.5
+2023-07,Summer,Rook,10,0.5
+2023-07,Summer,Rose-ringed Parakeet,8,0.5
+2023-07,Summer,Rough-legged Hawk,1,0.5
+2023-07,Summer,Short-toed Treecreeper,3,0.5
+2023-07,Summer,Spotted Flycatcher,1,0.5
+2023-07,Summer,Stock Dove,4,0.5
+2023-07,Summer,Tawny Owl,88,0.5
+2023-07,Summer,Ural Owl,17,0.5
+2023-07,Summer,Water Rail,2,0.5
+2023-07,Summer,Western Capercaillie,8,0.5
+2023-07,Summer,Yellow-browed Warbler,1,0.5
+2023-07,Summer,Yellow-headed Parrot,4,0.5
+2023-08,Summer,Boreal Owl,1,0.5
+2023-08,Summer,Canada Goose,1,0.5
+2023-08,Summer,Coal Tit,4,0.5
+2023-08,Summer,Common Buzzard,16,0.5
+2023-08,Summer,Common Crane,1,0.5
+2023-08,Summer,Common Wood-Pigeon,3,0.5
+2023-08,Summer,Eurasian Eagle-Owl,5,0.5
+2023-08,Summer,Eurasian Green Woodpecker,37,0.5
+2023-08,Summer,Eurasian Jackdaw,9,0.5
+2023-08,Summer,Eurasian Jay,3,0.5
+2023-08,Summer,Eurasian Magpie,1,0.5
+2023-08,Summer,Eurasian Scops-Owl,2,0.5
+2023-08,Summer,Eurasian Thick-knee,1,0.5
+2023-08,Summer,Eurasian Treecreeper,3,0.5
+2023-08,Summer,Eurasian Wren,13,0.5
+2023-08,Summer,European Honey-buzzard,7,0.5
+2023-08,Summer,Gray-headed Woodpecker,4,0.5
+2023-08,Summer,Graylag Goose,1,0.5
+2023-08,Summer,Great Bittern,7,0.5
+2023-08,Summer,Little Owl,15,0.5
+2023-08,Summer,Long-eared Owl,5,0.5
+2023-08,Summer,Long-tailed Tit,1,0.5
+2023-08,Summer,Manx Shearwater,1,0.5
+2023-08,Summer,Northern Goshawk,2,0.5
+2023-08,Summer,Red Kite,3,0.5
+2023-08,Summer,Ring-necked Pheasant,1,0.5
+2023-08,Summer,Rose-ringed Parakeet,6,0.5
+2023-08,Summer,Tawny Owl,34,0.5
+2023-08,Summer,Western Capercaillie,1,0.5
+2023-08,Summer,Whooper Swan,5,0.5
+2023-10,Autumn,Atlantic Puffin,3,0.5
+2023-10,Autumn,Barn Swallow,1,0.5
+2023-10,Autumn,Black Woodpecker,3,0.5
+2023-10,Autumn,Canada Goose,5,0.5
+2023-10,Autumn,Carrion Crow,17,0.5
+2023-10,Autumn,Common Buzzard,4,0.5
+2023-10,Autumn,Common Crane,2,0.5
+2023-10,Autumn,Common Raven,5,0.5
+2023-10,Autumn,Dunnock,4,0.5
+2023-10,Autumn,Eurasian Blackbird,2,0.5
+2023-10,Autumn,Eurasian Blue Tit,1,0.5
+2023-10,Autumn,Eurasian Eagle-Owl,10,0.5
+2023-10,Autumn,Eurasian Green Woodpecker,10,0.5
+2023-10,Autumn,Eurasian Jackdaw,141,0.5
+2023-10,Autumn,Eurasian Jay,23,0.5
+2023-10,Autumn,Eurasian Magpie,8,0.5
+2023-10,Autumn,Eurasian Scops-Owl,3,0.5
+2023-10,Autumn,Eurasian Treecreeper,2,0.5
+2023-10,Autumn,Eurasian Wren,29,0.5
+2023-10,Autumn,European Honey-buzzard,1,0.5
+2023-10,Autumn,European Robin,14,0.5
+2023-10,Autumn,European Storm-Petrel,1,0.5
+2023-10,Autumn,Fieldfare,1,0.5
+2023-10,Autumn,Gray-headed Woodpecker,1,0.5
+2023-10,Autumn,Graylag Goose,8,0.5
+2023-10,Autumn,Great Bittern,50,0.5
+2023-10,Autumn,Great Spotted Woodpecker,5,0.5
+2023-10,Autumn,Hawfinch,1,0.5
+2023-10,Autumn,Hooded Crow,8,0.5
+2023-10,Autumn,Little Owl,10,0.5
+2023-10,Autumn,Long-eared Owl,3,0.5
+2023-10,Autumn,Long-tailed Tit,7,0.5
+2023-10,Autumn,Mistle Thrush,1,0.5
+2023-10,Autumn,Northern Lapwing,5,0.5
+2023-10,Autumn,Peregrine Falcon,5,0.5
+2023-10,Autumn,Red-billed Chough,4,0.5
+2023-10,Autumn,Redwing,1,0.5
+2023-10,Autumn,Ring-necked Pheasant,1,0.5
+2023-10,Autumn,Rook,12,0.5
+2023-10,Autumn,Rose-ringed Parakeet,82,0.5
+2023-10,Autumn,Sardinian Warbler,1,0.5
+2023-10,Autumn,Sedge Warbler,1,0.5
+2023-10,Autumn,Short-toed Treecreeper,1,0.5
+2023-10,Autumn,Spotted Flycatcher,1,0.5
+2023-10,Autumn,Tawny Owl,39,0.5
+2023-10,Autumn,Western Capercaillie,1,0.5
+2023-11,Autumn,Barnacle Goose,1,0.5
+2023-11,Autumn,Black Kite,2,0.5
+2023-11,Autumn,Boreal Owl,3,0.5
+2023-11,Autumn,Carrion Crow,12,0.5
+2023-11,Autumn,Collared Flycatcher,2,0.5
+2023-11,Autumn,Common Buzzard,7,0.5
+2023-11,Autumn,Common Firecrest,2,0.5
+2023-11,Autumn,Common Grasshopper-Warbler,4,0.5
+2023-11,Autumn,Common Kingfisher,3,0.5
+2023-11,Autumn,Common Raven,2,0.5
+2023-11,Autumn,Common Wood-Pigeon,1,0.5
+2023-11,Autumn,Dunnock,8,0.5
+2023-11,Autumn,Eurasian Blue Tit,1,0.5
+2023-11,Autumn,Eurasian Eagle-Owl,16,0.5
+2023-11,Autumn,Eurasian Green Woodpecker,3,0.5
+2023-11,Autumn,Eurasian Jackdaw,35,0.5
+2023-11,Autumn,Eurasian Jay,19,0.5
+2023-11,Autumn,Eurasian Magpie,7,0.5
+2023-11,Autumn,Eurasian Moorhen,1,0.5
+2023-11,Autumn,Eurasian Oystercatcher,1,0.5
+2023-11,Autumn,Eurasian Scops-Owl,1,0.5
+2023-11,Autumn,Eurasian Siskin,1,0.5
+2023-11,Autumn,Eurasian Three-toed Woodpecker,11,0.5
+2023-11,Autumn,Eurasian Wren,77,0.5
+2023-11,Autumn,Eurasian Wryneck,1,0.5
+2023-11,Autumn,European Robin,7,0.5
+2023-11,Autumn,Gray Heron,3,0.5
+2023-11,Autumn,Gray Partridge,1,0.5
+2023-11,Autumn,Graylag Goose,1,0.5
+2023-11,Autumn,Great Bittern,29,0.5
+2023-11,Autumn,Great Spotted Woodpecker,1,0.5
+2023-11,Autumn,Hooded Crow,3,0.5
+2023-11,Autumn,Little Owl,13,0.5
+2023-11,Autumn,Little Ringed Plover,1,0.5
+2023-11,Autumn,Long-eared Owl,8,0.5
+2023-11,Autumn,Long-tailed Tit,6,0.5
+2023-11,Autumn,Manx Shearwater,3,0.5
+2023-11,Autumn,Mistle Thrush,6,0.5
+2023-11,Autumn,Northern Fulmar,1,0.5
+2023-11,Autumn,Northern Goshawk,2,0.5
+2023-11,Autumn,Red Kite,4,0.5
+2023-11,Autumn,Red-billed Chough,2,0.5
+2023-11,Autumn,Red-breasted Flycatcher,1,0.5
+2023-11,Autumn,Rock Partridge,5,0.5
+2023-11,Autumn,Rook,7,0.5
+2023-11,Autumn,Rose-ringed Parakeet,31,0.5
+2023-11,Autumn,Small Buttonquail,1,0.5
+2023-11,Autumn,Spectacled Warbler,3,0.5
+2023-11,Autumn,Tawny Owl,31,0.5
+2023-11,Autumn,Western Capercaillie,3,0.5
+2023-11,Autumn,White Wagtail,1,0.5
+2023-11,Autumn,Whooper Swan,1,0.5
+2023-12,Winter,Atlantic Puffin,1,0.5
+2023-12,Winter,Black Grouse,1,0.5
+2023-12,Winter,Boreal Owl,2,0.5
+2023-12,Winter,Canada Goose,1,0.5
+2023-12,Winter,Carrion Crow,7,0.5
+2023-12,Winter,Common Buzzard,6,0.5
+2023-12,Winter,Common Crane,1,0.5
+2023-12,Winter,Common Grasshopper-Warbler,9,0.5
+2023-12,Winter,Common Raven,1,0.5
+2023-12,Winter,Dunnock,7,0.5
+2023-12,Winter,Eurasian Blue Tit,3,0.5
+2023-12,Winter,Eurasian Eagle-Owl,10,0.5
+2023-12,Winter,Eurasian Jackdaw,15,0.5
+2023-12,Winter,Eurasian Jay,1,0.5
+2023-12,Winter,Eurasian Moorhen,1,0.5
+2023-12,Winter,Eurasian Three-toed Woodpecker,2,0.5
+2023-12,Winter,Eurasian Wren,78,0.5
+2023-12,Winter,European Robin,4,0.5
+2023-12,Winter,Goldcrest,1,0.5
+2023-12,Winter,Great Bittern,9,0.5
+2023-12,Winter,Hooded Crow,5,0.5
+2023-12,Winter,Long-eared Owl,6,0.5
+2023-12,Winter,Long-tailed Tit,3,0.5
+2023-12,Winter,Manx Shearwater,1,0.5
+2023-12,Winter,Mistle Thrush,6,0.5
+2023-12,Winter,Northern Goshawk,1,0.5
+2023-12,Winter,Red Kite,1,0.5
+2023-12,Winter,Redwing,1,0.5
+2023-12,Winter,Ring-necked Pheasant,3,0.5
+2023-12,Winter,Rook,1,0.5
+2023-12,Winter,Rose-ringed Parakeet,7,0.5
+2023-12,Winter,Sedge Warbler,3,0.5
+2023-12,Winter,Spectacled Warbler,2,0.5
+2023-12,Winter,Tawny Owl,16,0.5
+2023-12,Winter,Western Capercaillie,4,0.5
+2024-01,Winter,Atlantic Puffin,1,0.5
+2024-01,Winter,Boreal Owl,2,0.5
+2024-01,Winter,Carrion Crow,6,0.5
+2024-01,Winter,Coal Tit,2,0.5
+2024-01,Winter,Common Buzzard,3,0.5
+2024-01,Winter,Common Grasshopper-Warbler,11,0.5
+2024-01,Winter,Common Sandpiper,2,0.5
+2024-01,Winter,Dunnock,32,0.5
+2024-01,Winter,Eurasian Blue Tit,47,0.5
+2024-01,Winter,Eurasian Coot,2,0.5
+2024-01,Winter,Eurasian Eagle-Owl,4,0.5
+2024-01,Winter,Eurasian Green Woodpecker,3,0.5
+2024-01,Winter,Eurasian Jackdaw,21,0.5
+2024-01,Winter,Eurasian Jay,1,0.5
+2024-01,Winter,Eurasian Magpie,1,0.5
+2024-01,Winter,Eurasian Three-toed Woodpecker,1,0.5
+2024-01,Winter,Eurasian Wren,84,0.5
+2024-01,Winter,Eurasian Wryneck,1,0.5
+2024-01,Winter,European Robin,6,0.5
+2024-01,Winter,European Serin,1,0.5
+2024-01,Winter,Great Bittern,6,0.5
+2024-01,Winter,Great Tit,2,0.5
+2024-01,Winter,Hawfinch,1,0.5
+2024-01,Winter,Herring Gull,4,0.5
+2024-01,Winter,Little Bittern,1,0.5
+2024-01,Winter,Little Crake,1,0.5
+2024-01,Winter,Little Owl,3,0.5
+2024-01,Winter,Long-eared Owl,1,0.5
+2024-01,Winter,Long-tailed Tit,3,0.5
+2024-01,Winter,Manx Shearwater,1,0.5
+2024-01,Winter,Mistle Thrush,7,0.5
+2024-01,Winter,Red-breasted Flycatcher,1,0.5
+2024-01,Winter,Ring-necked Pheasant,11,0.5
+2024-01,Winter,Rook,3,0.5
+2024-01,Winter,Rose-ringed Parakeet,15,0.5
+2024-01,Winter,Tawny Owl,20,0.5
+2024-02,Winter,Atlantic Puffin,1,0.5
+2024-02,Winter,Black Woodpecker,1,0.5
+2024-02,Winter,Black-legged Kittiwake,1,0.5
+2024-02,Winter,Boreal Owl,4,0.5
+2024-02,Winter,Carrion Crow,41,0.5
+2024-02,Winter,Coal Tit,4,0.5
+2024-02,Winter,Common Buzzard,15,0.5
+2024-02,Winter,Common Crane,1,0.5
+2024-02,Winter,Common Firecrest,1,0.5
+2024-02,Winter,Common Grasshopper-Warbler,10,0.5
+2024-02,Winter,Common House-Martin,1,0.5
+2024-02,Winter,Common Raven,1,0.5
+2024-02,Winter,Common Sandpiper,7,0.5
+2024-02,Winter,Corn Bunting,1,0.5
+2024-02,Winter,Dunnock,50,0.5
+2024-02,Winter,Eurasian Blackbird,1,0.5
+2024-02,Winter,Eurasian Blue Tit,173,0.5
+2024-02,Winter,Eurasian Bullfinch,2,0.5
+2024-02,Winter,Eurasian Collared-Dove,1,0.5
+2024-02,Winter,Eurasian Eagle-Owl,10,0.5
+2024-02,Winter,Eurasian Green Woodpecker,8,0.5
+2024-02,Winter,Eurasian Hobby,1,0.5
+2024-02,Winter,Eurasian Jackdaw,109,0.5
+2024-02,Winter,Eurasian Jay,4,0.5
+2024-02,Winter,Eurasian Kestrel,7,0.5
+2024-02,Winter,Eurasian Magpie,4,0.5
+2024-02,Winter,Eurasian Scops-Owl,10,0.5
+2024-02,Winter,Eurasian Three-toed Woodpecker,1,0.5
+2024-02,Winter,Eurasian Treecreeper,11,0.5
+2024-02,Winter,Eurasian Wren,597,0.5
+2024-02,Winter,European Goldfinch,3,0.5
+2024-02,Winter,European Greenfinch,2,0.5
+2024-02,Winter,European Robin,23,0.5
+2024-02,Winter,European Serin,2,0.5
+2024-02,Winter,European Stonechat,1,0.5
+2024-02,Winter,Goldcrest,2,0.5
+2024-02,Winter,Gray-headed Woodpecker,2,0.5
+2024-02,Winter,Graylag Goose,1,0.5
+2024-02,Winter,Great Bittern,21,0.5
+2024-02,Winter,Great Spotted Woodpecker,11,0.5
+2024-02,Winter,Great Tit,14,0.5
+2024-02,Winter,Green Sandpiper,1,0.5
+2024-02,Winter,Hawfinch,2,0.5
+2024-02,Winter,Herring Gull,1,0.5
+2024-02,Winter,Hooded Crow,10,0.5
+2024-02,Winter,Lady Amherst's Pheasant,1,0.5
+2024-02,Winter,Lesser Spotted Woodpecker,1,0.5
+2024-02,Winter,Little Owl,10,0.5
+2024-02,Winter,Long-eared Owl,6,0.5
+2024-02,Winter,Long-tailed Tit,8,0.5
+2024-02,Winter,Manx Shearwater,2,0.5
+2024-02,Winter,Mistle Thrush,15,0.5
+2024-02,Winter,Northern Lapwing,1,0.5
+2024-02,Winter,Red Kite,1,0.5
+2024-02,Winter,Red-billed Chough,4,0.5
+2024-02,Winter,Ring-necked Pheasant,39,0.5
+2024-02,Winter,Rock Pigeon,2,0.5
+2024-02,Winter,Rook,25,0.5
+2024-02,Winter,Rose-ringed Parakeet,46,0.5
+2024-02,Winter,Short-toed Treecreeper,2,0.5
+2024-02,Winter,Spotted Flycatcher,1,0.5
+2024-02,Winter,Tawny Owl,39,0.5
+2024-02,Winter,Ural Owl,2,0.5
+2024-02,Winter,Western Capercaillie,22,0.5
+2024-02,Winter,White-winged Snowfinch,1,0.5
+2024-02,Winter,Whooper Swan,2,0.5
+2024-02,Winter,Willow Warbler,1,0.5
+2024-02,Winter,Wood Lark,4,0.5
+2024-03,Spring,Atlantic Puffin,3,0.5
+2024-03,Spring,Barnacle Goose,1,0.5
+2024-03,Spring,Black Kite,2,0.5
+2024-03,Spring,Black Redstart,1,0.5
+2024-03,Spring,Black Woodpecker,1,0.5
+2024-03,Spring,Black-legged Kittiwake,2,0.5
+2024-03,Spring,Black-tailed Godwit,2,0.5
+2024-03,Spring,Bohemian Waxwing,2,0.5
+2024-03,Spring,Boreal Owl,5,0.5
+2024-03,Spring,Canada Goose,4,0.5
+2024-03,Spring,Carrion Crow,7,0.5
+2024-03,Spring,Cirl Bunting,3,0.5
+2024-03,Spring,Coal Tit,36,0.5
+2024-03,Spring,Collared Flycatcher,1,0.5
+2024-03,Spring,Common Buzzard,22,0.5
+2024-03,Spring,Common Chiffchaff,2,0.5
+2024-03,Spring,Common Crane,12,0.5
+2024-03,Spring,Common Cuckoo,1,0.5
+2024-03,Spring,Common Firecrest,13,0.5
+2024-03,Spring,Common Grasshopper-Warbler,7,0.5
+2024-03,Spring,Common Kingfisher,3,0.5
+2024-03,Spring,Common Murre,1,0.5
+2024-03,Spring,Common Raven,2,0.5
+2024-03,Spring,Common Sandpiper,32,0.5
+2024-03,Spring,Common Scoter,1,0.5
+2024-03,Spring,Crested Tit,1,0.5
+2024-03,Spring,Dunnock,279,0.5
+2024-03,Spring,Egyptian Goose,2,0.5
+2024-03,Spring,Eurasian Blue Tit,794,0.5
+2024-03,Spring,Eurasian Bullfinch,7,0.5
+2024-03,Spring,Eurasian Collared-Dove,3,0.5
+2024-03,Spring,Eurasian Coot,1,0.5
+2024-03,Spring,Eurasian Curlew,3,0.5
+2024-03,Spring,Eurasian Eagle-Owl,6,0.5
+2024-03,Spring,Eurasian Golden Oriole,1,0.5
+2024-03,Spring,Eurasian Green Woodpecker,69,0.5
+2024-03,Spring,Eurasian Jackdaw,351,0.5
+2024-03,Spring,Eurasian Jay,16,0.5
+2024-03,Spring,Eurasian Linnet,1,0.5
+2024-03,Spring,Eurasian Magpie,32,0.5
+2024-03,Spring,Eurasian Nuthatch,2,0.5
+2024-03,Spring,Eurasian Oystercatcher,1,0.5
+2024-03,Spring,Eurasian Penduline-Tit,1,0.5
+2024-03,Spring,Eurasian Pygmy-Owl,2,0.5
+2024-03,Spring,Eurasian Scops-Owl,8,0.5
+2024-03,Spring,Eurasian Siskin,3,0.5
+2024-03,Spring,Eurasian Treecreeper,64,0.5
+2024-03,Spring,Eurasian Woodcock,3,0.5
+2024-03,Spring,Eurasian Wren,998,0.5
+2024-03,Spring,Eurasian Wryneck,6,0.5
+2024-03,Spring,European Goldfinch,7,0.5
+2024-03,Spring,European Honey-buzzard,1,0.5
+2024-03,Spring,European Robin,62,0.5
+2024-03,Spring,European Serin,4,0.5
+2024-03,Spring,European Stonechat,4,0.5
+2024-03,Spring,Golden Eagle,1,0.5
+2024-03,Spring,Gray Wagtail,8,0.5
+2024-03,Spring,Gray-headed Woodpecker,19,0.5
+2024-03,Spring,Graylag Goose,5,0.5
+2024-03,Spring,Great Bittern,36,0.5
+2024-03,Spring,Great Reed Warbler,1,0.5
+2024-03,Spring,Great Spotted Woodpecker,45,0.5
+2024-03,Spring,Great Tit,26,0.5
+2024-03,Spring,Hawfinch,4,0.5
+2024-03,Spring,Hooded Crow,2,0.5
+2024-03,Spring,Horned Lark,2,0.5
+2024-03,Spring,Iberian Chiffchaff,2,0.5
+2024-03,Spring,Lesser Spotted Woodpecker,10,0.5
+2024-03,Spring,Little Owl,37,0.5
+2024-03,Spring,Long-eared Owl,1,0.5
+2024-03,Spring,Long-tailed Tit,6,0.5
+2024-03,Spring,Mistle Thrush,8,0.5
+2024-03,Spring,Razorbill,1,0.5
+2024-03,Spring,Red Kite,13,0.5
+2024-03,Spring,Red-billed Chough,10,0.5
+2024-03,Spring,Redwing,5,0.5
+2024-03,Spring,Ring-necked Pheasant,497,0.5
+2024-03,Spring,Rook,4,0.5
+2024-03,Spring,Rose-ringed Parakeet,145,0.5
+2024-03,Spring,Short-toed Treecreeper,4,0.5
+2024-03,Spring,Siberian Accentor,6,0.5
+2024-03,Spring,Tawny Owl,110,0.5
+2024-03,Spring,Tawny Pipit,1,0.5
+2024-03,Spring,Ural Owl,5,0.5
+2024-03,Spring,Western Capercaillie,4,0.5
+2024-03,Spring,Western Yellow Wagtail,1,0.5
+2024-03,Spring,Whooper Swan,2,0.5
+2024-03,Spring,Willow Tit,5,0.5
+2024-03,Spring,Wood Lark,18,0.5
+2024-03,Spring,Wood Warbler,2,0.5
+2024-04,Spring,Bearded Reedling,1,0.5
+2024-04,Spring,Black Redstart,2,0.5
+2024-04,Spring,Black Woodpecker,1,0.5
+2024-04,Spring,Black-legged Kittiwake,5,0.5
+2024-04,Spring,Boreal Owl,1,0.5
+2024-04,Spring,Canada Goose,6,0.5
+2024-04,Spring,Carrion Crow,13,0.5
+2024-04,Spring,Cirl Bunting,1,0.5
+2024-04,Spring,Coal Tit,18,0.5
+2024-04,Spring,Common Buzzard,13,0.5
+2024-04,Spring,Common Chiffchaff,4,0.5
+2024-04,Spring,Common Crane,1,0.5
+2024-04,Spring,Common Firecrest,16,0.5
+2024-04,Spring,Common Grasshopper-Warbler,16,0.5
+2024-04,Spring,Common Sandpiper,38,0.5
+2024-04,Spring,Common Wood-Pigeon,1,0.5
+2024-04,Spring,Corn Bunting,5,0.5
+2024-04,Spring,Dunnock,45,0.5
+2024-04,Spring,Egyptian Goose,1,0.5
+2024-04,Spring,Eurasian Blackbird,1,0.5
+2024-04,Spring,Eurasian Blackcap,2,0.5
+2024-04,Spring,Eurasian Blue Tit,549,0.5
+2024-04,Spring,Eurasian Bullfinch,2,0.5
+2024-04,Spring,Eurasian Collared-Dove,1,0.5
+2024-04,Spring,Eurasian Curlew,1,0.5
+2024-04,Spring,Eurasian Eagle-Owl,3,0.5
+2024-04,Spring,Eurasian Green Woodpecker,36,0.5
+2024-04,Spring,Eurasian Jackdaw,69,0.5
+2024-04,Spring,Eurasian Jay,4,0.5
+2024-04,Spring,Eurasian Magpie,13,0.5
+2024-04,Spring,Eurasian Nuthatch,1,0.5
+2024-04,Spring,Eurasian Scops-Owl,2,0.5
+2024-04,Spring,Eurasian Siskin,3,0.5
+2024-04,Spring,Eurasian Treecreeper,57,0.5
+2024-04,Spring,Eurasian Wren,847,0.5
+2024-04,Spring,Eurasian Wryneck,1,0.5
+2024-04,Spring,European Golden-Plover,2,0.5
+2024-04,Spring,European Goldfinch,3,0.5
+2024-04,Spring,European Greenfinch,1,0.5
+2024-04,Spring,European Robin,32,0.5
+2024-04,Spring,European Serin,5,0.5
+2024-04,Spring,European Stonechat,2,0.5
+2024-04,Spring,European Storm-Petrel,2,0.5
+2024-04,Spring,Goldcrest,1,0.5
+2024-04,Spring,Gray Heron,1,0.5
+2024-04,Spring,Gray Wagtail,8,0.5
+2024-04,Spring,Gray-headed Woodpecker,2,0.5
+2024-04,Spring,Graylag Goose,3,0.5
+2024-04,Spring,Great Bittern,10,0.5
+2024-04,Spring,Great Spotted Woodpecker,8,0.5
+2024-04,Spring,Great Tit,48,0.5
+2024-04,Spring,Green-winged Teal,1,0.5
+2024-04,Spring,Hooded Crow,5,0.5
+2024-04,Spring,Iberian Chiffchaff,3,0.5
+2024-04,Spring,Lesser Spotted Woodpecker,1,0.5
+2024-04,Spring,Little Bittern,1,0.5
+2024-04,Spring,Little Owl,37,0.5
+2024-04,Spring,Long-eared Owl,2,0.5
+2024-04,Spring,Long-tailed Tit,1,0.5
+2024-04,Spring,Mandarin Duck,1,0.5
+2024-04,Spring,Manx Shearwater,3,0.5
+2024-04,Spring,Marsh Tit,1,0.5
+2024-04,Spring,Mistle Thrush,14,0.5
+2024-04,Spring,Northern Lapwing,3,0.5
+2024-04,Spring,Ortolan Bunting,1,0.5
+2024-04,Spring,Red Kite,4,0.5
+2024-04,Spring,Ring-necked Pheasant,625,0.5
+2024-04,Spring,Rock Bunting,1,0.5
+2024-04,Spring,Rook,2,0.5
+2024-04,Spring,Rose-ringed Parakeet,53,0.5
+2024-04,Spring,Short-toed Treecreeper,1,0.5
+2024-04,Spring,Siberian Accentor,8,0.5
+2024-04,Spring,Tawny Owl,46,0.5
+2024-04,Spring,Tawny Pipit,1,0.5
+2024-04,Spring,Western Capercaillie,9,0.5
+2024-04,Spring,Willow Tit,3,0.5
+2024-04,Spring,Wood Lark,21,0.5
+2024-04,Spring,Wood Warbler,2,0.5
+2021-12,Winter,Carrion Crow,1,0.7
+2021-12,Winter,Common Buzzard,1,0.7
+2021-12,Winter,Common Firecrest,1,0.7
+2021-12,Winter,Common Sandpiper,1,0.7
+2021-12,Winter,Eurasian Blue Tit,4,0.7
+2021-12,Winter,Eurasian Eagle-Owl,1,0.7
+2021-12,Winter,Eurasian Green Woodpecker,2,0.7
+2021-12,Winter,Eurasian Jackdaw,43,0.7
+2021-12,Winter,Eurasian Jay,7,0.7
+2021-12,Winter,Eurasian Magpie,1,0.7
+2021-12,Winter,European Goldfinch,1,0.7
+2021-12,Winter,European Robin,6,0.7
+2021-12,Winter,Great Bittern,1,0.7
+2021-12,Winter,Hawfinch,1,0.7
+2021-12,Winter,Hooded Crow,3,0.7
+2021-12,Winter,Mistle Thrush,1,0.7
+2021-12,Winter,Red Kite,1,0.7
+2021-12,Winter,Red-billed Chough,1,0.7
+2021-12,Winter,Rook,2,0.7
+2021-12,Winter,Rose-ringed Parakeet,72,0.7
+2021-12,Winter,Tawny Owl,3,0.7
+2021-12,Winter,Western Capercaillie,2,0.7
+2021-12,Winter,Whooper Swan,1,0.7
+2022-01,Winter,Atlantic Puffin,2,0.7
+2022-01,Winter,Black Redstart,2,0.7
+2022-01,Winter,Boreal Owl,3,0.7
+2022-01,Winter,Canada Goose,1,0.7
+2022-01,Winter,Carrion Crow,5,0.7
+2022-01,Winter,Common Buzzard,2,0.7
+2022-01,Winter,Common Sandpiper,3,0.7
+2022-01,Winter,Eurasian Blue Tit,29,0.7
+2022-01,Winter,Eurasian Eagle-Owl,5,0.7
+2022-01,Winter,Eurasian Green Woodpecker,14,0.7
+2022-01,Winter,Eurasian Jackdaw,102,0.7
+2022-01,Winter,Eurasian Jay,2,0.7
+2022-01,Winter,Eurasian Magpie,1,0.7
+2022-01,Winter,Eurasian Three-toed Woodpecker,1,0.7
+2022-01,Winter,Eurasian Wren,3,0.7
+2022-01,Winter,Eurasian Wryneck,1,0.7
+2022-01,Winter,European Goldfinch,1,0.7
+2022-01,Winter,European Greenfinch,1,0.7
+2022-01,Winter,European Robin,7,0.7
+2022-01,Winter,Great Bittern,2,0.7
+2022-01,Winter,Great Spotted Woodpecker,3,0.7
+2022-01,Winter,Great Tit,7,0.7
+2022-01,Winter,Herring Gull,1,0.7
+2022-01,Winter,Hooded Crow,3,0.7
+2022-01,Winter,Little Owl,1,0.7
+2022-01,Winter,Long-tailed Tit,10,0.7
+2022-01,Winter,Red-billed Chough,2,0.7
+2022-01,Winter,Redwing,1,0.7
+2022-01,Winter,Ring-necked Pheasant,2,0.7
+2022-01,Winter,Rook,3,0.7
+2022-01,Winter,Rose-ringed Parakeet,292,0.7
+2022-01,Winter,Tawny Owl,23,0.7
+2022-01,Winter,Whooper Swan,1,0.7
+2022-01,Winter,Wood Lark,10,0.7
+2022-02,Winter,Canada Goose,2,0.7
+2022-02,Winter,Common Buzzard,1,0.7
+2022-02,Winter,Eurasian Blue Tit,32,0.7
+2022-02,Winter,Eurasian Bullfinch,18,0.7
+2022-02,Winter,Eurasian Curlew,1,0.7
+2022-02,Winter,Eurasian Eagle-Owl,1,0.7
+2022-02,Winter,Eurasian Golden Oriole,2,0.7
+2022-02,Winter,Eurasian Green Woodpecker,20,0.7
+2022-02,Winter,Eurasian Jackdaw,55,0.7
+2022-02,Winter,Eurasian Jay,1,0.7
+2022-02,Winter,Eurasian Kestrel,1,0.7
+2022-02,Winter,Eurasian Nuthatch,5,0.7
+2022-02,Winter,Eurasian Three-toed Woodpecker,1,0.7
+2022-02,Winter,Eurasian Wren,1,0.7
+2022-02,Winter,European Goldfinch,1,0.7
+2022-02,Winter,European Robin,8,0.7
+2022-02,Winter,Gray Wagtail,1,0.7
+2022-02,Winter,Gray-headed Woodpecker,1,0.7
+2022-02,Winter,Great Bittern,3,0.7
+2022-02,Winter,Great Tit,10,0.7
+2022-02,Winter,Herring Gull,1,0.7
+2022-02,Winter,Little Owl,1,0.7
+2022-02,Winter,Manx Shearwater,1,0.7
+2022-02,Winter,Ortolan Bunting,3,0.7
+2022-02,Winter,Pied Avocet,1,0.7
+2022-02,Winter,Red-billed Chough,2,0.7
+2022-02,Winter,Rook,1,0.7
+2022-02,Winter,Rose-ringed Parakeet,136,0.7
+2022-02,Winter,Short-toed Treecreeper,1,0.7
+2022-02,Winter,Song Thrush,2,0.7
+2022-02,Winter,Tawny Owl,9,0.7
+2022-02,Winter,Willow Tit,2,0.7
+2022-02,Winter,Wood Lark,2,0.7
+2022-02,Winter,Yellow-browed Warbler,4,0.7
+2022-08,Summer,Common Buzzard,1,0.7
+2022-08,Summer,Common Raven,1,0.7
+2022-08,Summer,Eurasian Blue Tit,4,0.7
+2022-08,Summer,Eurasian Green Woodpecker,12,0.7
+2022-08,Summer,Eurasian Jackdaw,35,0.7
+2022-08,Summer,Eurasian Jay,7,0.7
+2022-08,Summer,Eurasian Magpie,3,0.7
+2022-08,Summer,Eurasian Wryneck,1,0.7
+2022-08,Summer,European Robin,14,0.7
+2022-08,Summer,Gray-headed Woodpecker,1,0.7
+2022-08,Summer,Graylag Goose,4,0.7
+2022-08,Summer,Great Bittern,1,0.7
+2022-08,Summer,Great Spotted Woodpecker,1,0.7
+2022-08,Summer,Hawfinch,4,0.7
+2022-08,Summer,Long-tailed Tit,2,0.7
+2022-08,Summer,Red-billed Chough,3,0.7
+2022-08,Summer,Ring-necked Pheasant,6,0.7
+2022-08,Summer,Rose-ringed Parakeet,20,0.7
+2022-08,Summer,Tawny Owl,1,0.7
+2022-09,Autumn,Atlantic Puffin,3,0.7
+2022-09,Autumn,Barn Swallow,2,0.7
+2022-09,Autumn,Black Redstart,2,0.7
+2022-09,Autumn,Boreal Owl,4,0.7
+2022-09,Autumn,Carrion Crow,3,0.7
+2022-09,Autumn,Cetti's Warbler,1,0.7
+2022-09,Autumn,Cirl Bunting,2,0.7
+2022-09,Autumn,Coal Tit,4,0.7
+2022-09,Autumn,Collared Flycatcher,1,0.7
+2022-09,Autumn,Common Buzzard,3,0.7
+2022-09,Autumn,Common Firecrest,3,0.7
+2022-09,Autumn,Common Grasshopper-Warbler,1,0.7
+2022-09,Autumn,Common Kingfisher,1,0.7
+2022-09,Autumn,Common Snipe,1,0.7
+2022-09,Autumn,Dunnock,15,0.7
+2022-09,Autumn,Eurasian Blue Tit,30,0.7
+2022-09,Autumn,Eurasian Eagle-Owl,6,0.7
+2022-09,Autumn,Eurasian Green Woodpecker,94,0.7
+2022-09,Autumn,Eurasian Hobby,1,0.7
+2022-09,Autumn,Eurasian Jackdaw,612,0.7
+2022-09,Autumn,Eurasian Jay,38,0.7
+2022-09,Autumn,Eurasian Magpie,14,0.7
+2022-09,Autumn,Eurasian Siskin,1,0.7
+2022-09,Autumn,Eurasian Treecreeper,3,0.7
+2022-09,Autumn,Eurasian Wren,16,0.7
+2022-09,Autumn,Eurasian Wryneck,49,0.7
+2022-09,Autumn,European Goldfinch,2,0.7
+2022-09,Autumn,European Greenfinch,3,0.7
+2022-09,Autumn,European Robin,317,0.7
+2022-09,Autumn,European Serin,2,0.7
+2022-09,Autumn,Gray Heron,1,0.7
+2022-09,Autumn,Gray Wagtail,1,0.7
+2022-09,Autumn,Great Bittern,33,0.7
+2022-09,Autumn,Great Spotted Woodpecker,3,0.7
+2022-09,Autumn,Great Tit,3,0.7
+2022-09,Autumn,Green Sandpiper,1,0.7
+2022-09,Autumn,Hawfinch,5,0.7
+2022-09,Autumn,Little Owl,7,0.7
+2022-09,Autumn,Long-eared Owl,2,0.7
+2022-09,Autumn,Long-tailed Tit,42,0.7
+2022-09,Autumn,Manx Shearwater,2,0.7
+2022-09,Autumn,Marsh Tit,1,0.7
+2022-09,Autumn,Mew Gull,1,0.7
+2022-09,Autumn,Mistle Thrush,1,0.7
+2022-09,Autumn,Northern Goshawk,1,0.7
+2022-09,Autumn,Northern Lapwing,3,0.7
+2022-09,Autumn,Peregrine Falcon,1,0.7
+2022-09,Autumn,Red Crossbill,1,0.7
+2022-09,Autumn,Red Kite,1,0.7
+2022-09,Autumn,Red-billed Chough,18,0.7
+2022-09,Autumn,Red-flanked Bluetail,1,0.7
+2022-09,Autumn,Ring-necked Pheasant,34,0.7
+2022-09,Autumn,Rook,4,0.7
+2022-09,Autumn,Rose-ringed Parakeet,872,0.7
+2022-09,Autumn,Short-toed Treecreeper,1,0.7
+2022-09,Autumn,Tawny Owl,62,0.7
+2022-09,Autumn,Western Capercaillie,1,0.7
+2022-09,Autumn,White-winged Tern,1,0.7
+2022-09,Autumn,Wood Lark,5,0.7
+2022-10,Autumn,Atlantic Puffin,2,0.7
+2022-10,Autumn,Barn Swallow,6,0.7
+2022-10,Autumn,Black-tailed Godwit,1,0.7
+2022-10,Autumn,Boreal Owl,2,0.7
+2022-10,Autumn,Canada Goose,1,0.7
+2022-10,Autumn,Carrion Crow,4,0.7
+2022-10,Autumn,Cirl Bunting,1,0.7
+2022-10,Autumn,Coal Tit,4,0.7
+2022-10,Autumn,Common Buzzard,1,0.7
+2022-10,Autumn,Common Firecrest,3,0.7
+2022-10,Autumn,Common Quail,1,0.7
+2022-10,Autumn,Common Sandpiper,2,0.7
+2022-10,Autumn,Dunnock,6,0.7
+2022-10,Autumn,Egyptian Goose,1,0.7
+2022-10,Autumn,Eurasian Blue Tit,8,0.7
+2022-10,Autumn,Eurasian Bullfinch,1,0.7
+2022-10,Autumn,Eurasian Eagle-Owl,7,0.7
+2022-10,Autumn,Eurasian Green Woodpecker,64,0.7
+2022-10,Autumn,Eurasian Jackdaw,592,0.7
+2022-10,Autumn,Eurasian Jay,26,0.7
+2022-10,Autumn,Eurasian Magpie,18,0.7
+2022-10,Autumn,Eurasian Treecreeper,3,0.7
+2022-10,Autumn,Eurasian Wren,42,0.7
+2022-10,Autumn,Eurasian Wryneck,43,0.7
+2022-10,Autumn,European Goldfinch,1,0.7
+2022-10,Autumn,European Greenfinch,4,0.7
+2022-10,Autumn,European Robin,200,0.7
+2022-10,Autumn,European Serin,4,0.7
+2022-10,Autumn,Gray Wagtail,1,0.7
+2022-10,Autumn,Gray-headed Woodpecker,3,0.7
+2022-10,Autumn,Great Bittern,21,0.7
+2022-10,Autumn,Great Spotted Woodpecker,2,0.7
+2022-10,Autumn,Great Tit,1,0.7
+2022-10,Autumn,Little Crake,1,0.7
+2022-10,Autumn,Little Owl,1,0.7
+2022-10,Autumn,Long-eared Owl,3,0.7
+2022-10,Autumn,Long-tailed Tit,44,0.7
+2022-10,Autumn,Mandarin Duck,1,0.7
+2022-10,Autumn,Manx Shearwater,1,0.7
+2022-10,Autumn,Marsh Tit,2,0.7
+2022-10,Autumn,Red Kite,8,0.7
+2022-10,Autumn,Red-billed Chough,19,0.7
+2022-10,Autumn,Red-legged Partridge,2,0.7
+2022-10,Autumn,Redwing,3,0.7
+2022-10,Autumn,Ring-necked Pheasant,23,0.7
+2022-10,Autumn,Rock Pigeon,1,0.7
+2022-10,Autumn,Rook,7,0.7
+2022-10,Autumn,Rose-ringed Parakeet,909,0.7
+2022-10,Autumn,Short-toed Treecreeper,1,0.7
+2022-10,Autumn,Spotted Crake,1,0.7
+2022-10,Autumn,Tawny Owl,55,0.7
+2022-10,Autumn,White-winged Tern,1,0.7
+2022-10,Autumn,Willow Warbler,1,0.7
+2022-10,Autumn,Wood Lark,2,0.7
+2022-10,Autumn,Wood Warbler,1,0.7
+2022-11,Autumn,Atlantic Puffin,1,0.7
+2022-11,Autumn,Bearded Reedling,1,0.7
+2022-11,Autumn,Black Redstart,1,0.7
+2022-11,Autumn,Boreal Owl,5,0.7
+2022-11,Autumn,Carrion Crow,1,0.7
+2022-11,Autumn,Coal Tit,3,0.7
+2022-11,Autumn,Common Buzzard,10,0.7
+2022-11,Autumn,Common Firecrest,4,0.7
+2022-11,Autumn,Dunnock,4,0.7
+2022-11,Autumn,Eurasian Blackbird,2,0.7
+2022-11,Autumn,Eurasian Blue Tit,13,0.7
+2022-11,Autumn,Eurasian Eagle-Owl,9,0.7
+2022-11,Autumn,Eurasian Green Woodpecker,17,0.7
+2022-11,Autumn,Eurasian Jackdaw,243,0.7
+2022-11,Autumn,Eurasian Jay,17,0.7
+2022-11,Autumn,Eurasian Kestrel,1,0.7
+2022-11,Autumn,Eurasian Magpie,5,0.7
+2022-11,Autumn,Eurasian Three-toed Woodpecker,2,0.7
+2022-11,Autumn,Eurasian Treecreeper,1,0.7
+2022-11,Autumn,Eurasian Wren,39,0.7
+2022-11,Autumn,Eurasian Wryneck,96,0.7
+2022-11,Autumn,European Goldfinch,2,0.7
+2022-11,Autumn,European Robin,78,0.7
+2022-11,Autumn,European Serin,1,0.7
+2022-11,Autumn,Goldcrest,5,0.7
+2022-11,Autumn,Graylag Goose,1,0.7
+2022-11,Autumn,Great Bittern,13,0.7
+2022-11,Autumn,Green Sandpiper,1,0.7
+2022-11,Autumn,Hazel Grouse,2,0.7
+2022-11,Autumn,Long-eared Owl,2,0.7
+2022-11,Autumn,Long-tailed Tit,51,0.7
+2022-11,Autumn,Manx Shearwater,1,0.7
+2022-11,Autumn,Mistle Thrush,1,0.7
+2022-11,Autumn,Northern Lapwing,1,0.7
+2022-11,Autumn,Ortolan Bunting,1,0.7
+2022-11,Autumn,Red Kite,3,0.7
+2022-11,Autumn,Red-billed Chough,5,0.7
+2022-11,Autumn,Red-legged Partridge,1,0.7
+2022-11,Autumn,Redwing,2,0.7
+2022-11,Autumn,Ring-necked Pheasant,67,0.7
+2022-11,Autumn,Rose-ringed Parakeet,914,0.7
+2022-11,Autumn,Tawny Owl,97,0.7
+2022-11,Autumn,Western Capercaillie,1,0.7
+2022-12,Winter,Atlantic Puffin,1,0.7
+2022-12,Winter,Barn Swallow,3,0.7
+2022-12,Winter,Boreal Owl,2,0.7
+2022-12,Winter,Canada Goose,1,0.7
+2022-12,Winter,Carrion Crow,2,0.7
+2022-12,Winter,Common Buzzard,3,0.7
+2022-12,Winter,Common Crane,1,0.7
+2022-12,Winter,Common Firecrest,1,0.7
+2022-12,Winter,Egyptian Goose,1,0.7
+2022-12,Winter,Eurasian Blackbird,3,0.7
+2022-12,Winter,Eurasian Blue Tit,12,0.7
+2022-12,Winter,Eurasian Green Woodpecker,9,0.7
+2022-12,Winter,Eurasian Jackdaw,96,0.7
+2022-12,Winter,Eurasian Jay,7,0.7
+2022-12,Winter,Eurasian Kestrel,2,0.7
+2022-12,Winter,Eurasian Magpie,3,0.7
+2022-12,Winter,Eurasian Treecreeper,1,0.7
+2022-12,Winter,Eurasian Wren,7,0.7
+2022-12,Winter,Eurasian Wryneck,21,0.7
+2022-12,Winter,European Robin,1,0.7
+2022-12,Winter,Gray-headed Woodpecker,1,0.7
+2022-12,Winter,Graylag Goose,1,0.7
+2022-12,Winter,Great Bittern,14,0.7
+2022-12,Winter,Great Spotted Woodpecker,1,0.7
+2022-12,Winter,Little Owl,1,0.7
+2022-12,Winter,Long-tailed Tit,30,0.7
+2022-12,Winter,Red Kite,1,0.7
+2022-12,Winter,Red-billed Chough,3,0.7
+2022-12,Winter,Red-legged Partridge,1,0.7
+2022-12,Winter,Redwing,1,0.7
+2022-12,Winter,Ring-necked Pheasant,15,0.7
+2022-12,Winter,Rook,1,0.7
+2022-12,Winter,Rose-ringed Parakeet,358,0.7
+2022-12,Winter,Tawny Owl,38,0.7
+2023-01,Winter,Boreal Owl,6,0.7
+2023-01,Winter,Carrion Crow,1,0.7
+2023-01,Winter,Common Buzzard,4,0.7
+2023-01,Winter,Common Firecrest,2,0.7
+2023-01,Winter,Common House-Martin,1,0.7
+2023-01,Winter,Common Sandpiper,3,0.7
+2023-01,Winter,Egyptian Goose,6,0.7
+2023-01,Winter,Eurasian Blackbird,1,0.7
+2023-01,Winter,Eurasian Blue Tit,48,0.7
+2023-01,Winter,Eurasian Eagle-Owl,4,0.7
+2023-01,Winter,Eurasian Green Woodpecker,7,0.7
+2023-01,Winter,Eurasian Jackdaw,98,0.7
+2023-01,Winter,Eurasian Jay,1,0.7
+2023-01,Winter,Eurasian Three-toed Woodpecker,1,0.7
+2023-01,Winter,Eurasian Wryneck,24,0.7
+2023-01,Winter,European Robin,2,0.7
+2023-01,Winter,Goldcrest,1,0.7
+2023-01,Winter,Gray Wagtail,1,0.7
+2023-01,Winter,Great Bittern,8,0.7
+2023-01,Winter,Great Tit,1,0.7
+2023-01,Winter,Little Bittern,1,0.7
+2023-01,Winter,Little Owl,3,0.7
+2023-01,Winter,Long-eared Owl,1,0.7
+2023-01,Winter,Long-tailed Tit,12,0.7
+2023-01,Winter,Mandarin Duck,1,0.7
+2023-01,Winter,Red-billed Chough,1,0.7
+2023-01,Winter,Ring-necked Pheasant,26,0.7
+2023-01,Winter,Rock Bunting,1,0.7
+2023-01,Winter,Rook,1,0.7
+2023-01,Winter,Rose-ringed Parakeet,404,0.7
+2023-01,Winter,Tawny Owl,51,0.7
+2023-01,Winter,Western Capercaillie,1,0.7
+2023-02,Winter,Atlantic Puffin,2,0.7
+2023-02,Winter,Black Kite,1,0.7
+2023-02,Winter,Black Woodpecker,1,0.7
+2023-02,Winter,Bohemian Waxwing,1,0.7
+2023-02,Winter,Boreal Owl,8,0.7
+2023-02,Winter,Canada Goose,3,0.7
+2023-02,Winter,Carrion Crow,5,0.7
+2023-02,Winter,Coal Tit,2,0.7
+2023-02,Winter,Common Buzzard,22,0.7
+2023-02,Winter,Common Raven,1,0.7
+2023-02,Winter,Common Sandpiper,2,0.7
+2023-02,Winter,Common Snipe,1,0.7
+2023-02,Winter,Dunnock,1,0.7
+2023-02,Winter,Egyptian Goose,20,0.7
+2023-02,Winter,Eurasian Blackbird,10,0.7
+2023-02,Winter,Eurasian Blue Tit,82,0.7
+2023-02,Winter,Eurasian Bullfinch,1,0.7
+2023-02,Winter,Eurasian Coot,1,0.7
+2023-02,Winter,Eurasian Eagle-Owl,4,0.7
+2023-02,Winter,Eurasian Green Woodpecker,44,0.7
+2023-02,Winter,Eurasian Hobby,2,0.7
+2023-02,Winter,Eurasian Jackdaw,470,0.7
+2023-02,Winter,Eurasian Jay,3,0.7
+2023-02,Winter,Eurasian Kestrel,1,0.7
+2023-02,Winter,Eurasian Magpie,9,0.7
+2023-02,Winter,Eurasian Nuthatch,2,0.7
+2023-02,Winter,Eurasian Treecreeper,3,0.7
+2023-02,Winter,Eurasian Wren,7,0.7
+2023-02,Winter,Eurasian Wryneck,74,0.7
+2023-02,Winter,European Robin,3,0.7
+2023-02,Winter,Gray Partridge,1,0.7
+2023-02,Winter,Gray-headed Woodpecker,2,0.7
+2023-02,Winter,Graylag Goose,5,0.7
+2023-02,Winter,Great Bittern,9,0.7
+2023-02,Winter,Great Spotted Woodpecker,1,0.7
+2023-02,Winter,Great Tit,2,0.7
+2023-02,Winter,Herring Gull,3,0.7
+2023-02,Winter,Hooded Crow,1,0.7
+2023-02,Winter,Lesser Spotted Woodpecker,1,0.7
+2023-02,Winter,Little Owl,3,0.7
+2023-02,Winter,Long-eared Owl,2,0.7
+2023-02,Winter,Long-tailed Tit,6,0.7
+2023-02,Winter,Mistle Thrush,13,0.7
+2023-02,Winter,Northern Lapwing,2,0.7
+2023-02,Winter,Red Kite,2,0.7
+2023-02,Winter,Red-billed Chough,6,0.7
+2023-02,Winter,Ring-necked Pheasant,78,0.7
+2023-02,Winter,Rook,4,0.7
+2023-02,Winter,Rose-ringed Parakeet,1059,0.7
+2023-02,Winter,Spotted Crake,1,0.7
+2023-02,Winter,Tawny Owl,42,0.7
+2023-02,Winter,Western Capercaillie,1,0.7
+2023-02,Winter,Western Yellow Wagtail,1,0.7
+2023-02,Winter,Wood Lark,1,0.7
+2023-03,Spring,Bearded Reedling,4,0.7
+2023-03,Spring,Boreal Owl,3,0.7
+2023-03,Spring,Canada Goose,3,0.7
+2023-03,Spring,Carrion Crow,1,0.7
+2023-03,Spring,Coal Tit,2,0.7
+2023-03,Spring,Common Buzzard,26,0.7
+2023-03,Spring,Common Chiffchaff,1,0.7
+2023-03,Spring,Common Raven,1,0.7
+2023-03,Spring,Common Sandpiper,4,0.7
+2023-03,Spring,Common Snipe,1,0.7
+2023-03,Spring,Dunnock,1,0.7
+2023-03,Spring,Egyptian Goose,6,0.7
+2023-03,Spring,Eurasian Blackbird,20,0.7
+2023-03,Spring,Eurasian Blue Tit,106,0.7
+2023-03,Spring,Eurasian Bullfinch,2,0.7
+2023-03,Spring,Eurasian Curlew,2,0.7
+2023-03,Spring,Eurasian Eagle-Owl,4,0.7
+2023-03,Spring,Eurasian Green Woodpecker,76,0.7
+2023-03,Spring,Eurasian Hobby,2,0.7
+2023-03,Spring,Eurasian Jackdaw,904,0.7
+2023-03,Spring,Eurasian Jay,4,0.7
+2023-03,Spring,Eurasian Magpie,10,0.7
+2023-03,Spring,Eurasian Moorhen,1,0.7
+2023-03,Spring,Eurasian Nuthatch,5,0.7
+2023-03,Spring,Eurasian Pygmy-Owl,1,0.7
+2023-03,Spring,Eurasian Siskin,4,0.7
+2023-03,Spring,Eurasian Treecreeper,16,0.7
+2023-03,Spring,Eurasian Woodcock,2,0.7
+2023-03,Spring,Eurasian Wren,127,0.7
+2023-03,Spring,Eurasian Wryneck,80,0.7
+2023-03,Spring,European Goldfinch,2,0.7
+2023-03,Spring,European Robin,51,0.7
+2023-03,Spring,Graylag Goose,1,0.7
+2023-03,Spring,Great Bittern,46,0.7
+2023-03,Spring,Great Spotted Woodpecker,9,0.7
+2023-03,Spring,Great Tit,4,0.7
+2023-03,Spring,Green Sandpiper,2,0.7
+2023-03,Spring,Hooded Crow,1,0.7
+2023-03,Spring,Lesser Spotted Woodpecker,1,0.7
+2023-03,Spring,Little Owl,3,0.7
+2023-03,Spring,Long-tailed Tit,4,0.7
+2023-03,Spring,Mandarin Duck,2,0.7
+2023-03,Spring,Marsh Tit,3,0.7
+2023-03,Spring,Mistle Thrush,83,0.7
+2023-03,Spring,Red Kite,5,0.7
+2023-03,Spring,Red-billed Chough,30,0.7
+2023-03,Spring,Redwing,4,0.7
+2023-03,Spring,Ring-necked Pheasant,498,0.7
+2023-03,Spring,Rook,6,0.7
+2023-03,Spring,Rose-ringed Parakeet,1404,0.7
+2023-03,Spring,Tawny Owl,33,0.7
+2023-03,Spring,Whooper Swan,1,0.7
+2023-03,Spring,Wood Lark,4,0.7
+2023-03,Spring,Yellow-billed Chough,1,0.7
+2023-04,Spring,Aquatic Warbler,1,0.7
+2023-04,Spring,Black Grouse,1,0.7
+2023-04,Spring,Black Kite,1,0.7
+2023-04,Spring,Black Woodpecker,1,0.7
+2023-04,Spring,Boreal Owl,6,0.7
+2023-04,Spring,Canada Goose,1,0.7
+2023-04,Spring,Carrion Crow,1,0.7
+2023-04,Spring,Cirl Bunting,6,0.7
+2023-04,Spring,Coal Tit,9,0.7
+2023-04,Spring,Common Buzzard,3,0.7
+2023-04,Spring,Common Chaffinch,1,0.7
+2023-04,Spring,Common Chiffchaff,37,0.7
+2023-04,Spring,Common Crane,2,0.7
+2023-04,Spring,Common Firecrest,4,0.7
+2023-04,Spring,Common Grasshopper-Warbler,2,0.7
+2023-04,Spring,Common Sandpiper,1,0.7
+2023-04,Spring,Common Wood-Pigeon,2,0.7
+2023-04,Spring,Corsican Finch,1,0.7
+2023-04,Spring,Crested Lark,1,0.7
+2023-04,Spring,Crested Tit,1,0.7
+2023-04,Spring,Dunnock,173,0.7
+2023-04,Spring,Egyptian Goose,1,0.7
+2023-04,Spring,Eurasian Blackbird,18,0.7
+2023-04,Spring,Eurasian Blackcap,11,0.7
+2023-04,Spring,Eurasian Blue Tit,207,0.7
+2023-04,Spring,Eurasian Bullfinch,1,0.7
+2023-04,Spring,Eurasian Curlew,4,0.7
+2023-04,Spring,Eurasian Eagle-Owl,2,0.7
+2023-04,Spring,Eurasian Green Woodpecker,88,0.7
+2023-04,Spring,Eurasian Hobby,1,0.7
+2023-04,Spring,Eurasian Hoopoe,1,0.7
+2023-04,Spring,Eurasian Jackdaw,415,0.7
+2023-04,Spring,Eurasian Jay,5,0.7
+2023-04,Spring,Eurasian Magpie,11,0.7
+2023-04,Spring,Eurasian Nuthatch,21,0.7
+2023-04,Spring,Eurasian Siskin,2,0.7
+2023-04,Spring,Eurasian Three-toed Woodpecker,1,0.7
+2023-04,Spring,Eurasian Treecreeper,20,0.7
+2023-04,Spring,Eurasian Woodcock,4,0.7
+2023-04,Spring,Eurasian Wren,331,0.7
+2023-04,Spring,Eurasian Wryneck,52,0.7
+2023-04,Spring,European Bee-eater,1,0.7
+2023-04,Spring,European Goldfinch,5,0.7
+2023-04,Spring,European Greenfinch,7,0.7
+2023-04,Spring,European Robin,163,0.7
+2023-04,Spring,European Serin,4,0.7
+2023-04,Spring,European Turtle-Dove,1,0.7
+2023-04,Spring,Gray Partridge,1,0.7
+2023-04,Spring,Gray Wagtail,3,0.7
+2023-04,Spring,Gray-headed Woodpecker,1,0.7
+2023-04,Spring,Graylag Goose,1,0.7
+2023-04,Spring,Great Bittern,24,0.7
+2023-04,Spring,Great Spotted Woodpecker,16,0.7
+2023-04,Spring,Great Tit,15,0.7
+2023-04,Spring,Green Sandpiper,1,0.7
+2023-04,Spring,Hooded Crow,2,0.7
+2023-04,Spring,Lesser Whitethroat,1,0.7
+2023-04,Spring,Little Owl,1,0.7
+2023-04,Spring,Little Ringed Plover,1,0.7
+2023-04,Spring,Long-eared Owl,1,0.7
+2023-04,Spring,Long-tailed Tit,3,0.7
+2023-04,Spring,Mandarin Duck,2,0.7
+2023-04,Spring,Marsh Tit,1,0.7
+2023-04,Spring,Mistle Thrush,43,0.7
+2023-04,Spring,Red Kite,6,0.7
+2023-04,Spring,Red-billed Chough,13,0.7
+2023-04,Spring,Ring-necked Pheasant,123,0.7
+2023-04,Spring,Rock Bunting,3,0.7
+2023-04,Spring,Rock Pigeon,1,0.7
+2023-04,Spring,Rook,4,0.7
+2023-04,Spring,Rose-ringed Parakeet,964,0.7
+2023-04,Spring,Song Thrush,1,0.7
+2023-04,Spring,Spotted Flycatcher,1,0.7
+2023-04,Spring,Tawny Owl,7,0.7
+2023-04,Spring,Whinchat,1,0.7
+2023-04,Spring,Willow Warbler,4,0.7
+2023-04,Spring,Wood Lark,6,0.7
+2023-05,Spring,Atlantic Puffin,1,0.7
+2023-05,Spring,Barn Owl,2,0.7
+2023-05,Spring,Barnacle Goose,1,0.7
+2023-05,Spring,Black Woodpecker,3,0.7
+2023-05,Spring,Boreal Owl,2,0.7
+2023-05,Spring,Canada Goose,1,0.7
+2023-05,Spring,Carrion Crow,21,0.7
+2023-05,Spring,Cirl Bunting,1,0.7
+2023-05,Spring,Coal Tit,2,0.7
+2023-05,Spring,Common Buzzard,7,0.7
+2023-05,Spring,Common Chiffchaff,11,0.7
+2023-05,Spring,Common Firecrest,1,0.7
+2023-05,Spring,Common Sandpiper,10,0.7
+2023-05,Spring,Common Wood-Pigeon,1,0.7
+2023-05,Spring,Dunnock,29,0.7
+2023-05,Spring,Eurasian Blackbird,11,0.7
+2023-05,Spring,Eurasian Blackcap,40,0.7
+2023-05,Spring,Eurasian Blue Tit,97,0.7
+2023-05,Spring,Eurasian Bullfinch,2,0.7
+2023-05,Spring,Eurasian Curlew,3,0.7
+2023-05,Spring,Eurasian Eagle-Owl,1,0.7
+2023-05,Spring,Eurasian Golden Oriole,5,0.7
+2023-05,Spring,Eurasian Green Woodpecker,92,0.7
+2023-05,Spring,Eurasian Jackdaw,1123,0.7
+2023-05,Spring,Eurasian Jay,1,0.7
+2023-05,Spring,Eurasian Magpie,28,0.7
+2023-05,Spring,Eurasian Nuthatch,17,0.7
+2023-05,Spring,Eurasian Treecreeper,5,0.7
+2023-05,Spring,Eurasian Woodcock,3,0.7
+2023-05,Spring,Eurasian Wren,387,0.7
+2023-05,Spring,Eurasian Wryneck,6,0.7
+2023-05,Spring,European Goldfinch,4,0.7
+2023-05,Spring,European Greenfinch,1,0.7
+2023-05,Spring,European Robin,36,0.7
+2023-05,Spring,European Serin,1,0.7
+2023-05,Spring,Fieldfare,2,0.7
+2023-05,Spring,Goldcrest,1,0.7
+2023-05,Spring,Gray Wagtail,9,0.7
+2023-05,Spring,Gray-headed Woodpecker,2,0.7
+2023-05,Spring,Graylag Goose,7,0.7
+2023-05,Spring,Great Bittern,17,0.7
+2023-05,Spring,Great Spotted Woodpecker,29,0.7
+2023-05,Spring,Great Tit,16,0.7
+2023-05,Spring,Hooded Crow,13,0.7
+2023-05,Spring,Little Owl,4,0.7
+2023-05,Spring,Little Ringed Plover,1,0.7
+2023-05,Spring,Long-tailed Tit,7,0.7
+2023-05,Spring,Manx Shearwater,1,0.7
+2023-05,Spring,Mistle Thrush,8,0.7
+2023-05,Spring,Northern Lapwing,1,0.7
+2023-05,Spring,Red Kite,17,0.7
+2023-05,Spring,Red-billed Chough,36,0.7
+2023-05,Spring,Red-throated Loon,1,0.7
+2023-05,Spring,Ring Ouzel,1,0.7
+2023-05,Spring,Ring-necked Pheasant,1621,0.7
+2023-05,Spring,Rook,18,0.7
+2023-05,Spring,Rose-ringed Parakeet,172,0.7
+2023-05,Spring,Stock Dove,1,0.7
+2023-05,Spring,Subalpine Warbler,1,0.7
+2023-05,Spring,Tawny Owl,33,0.7
+2023-05,Spring,Western Capercaillie,1,0.7
+2023-05,Spring,Whinchat,2,0.7
+2023-05,Spring,Willow Warbler,1,0.7
+2023-05,Spring,Wood Lark,21,0.7
+2023-05,Spring,Wood Warbler,2,0.7
+2023-06,Summer,Aquatic Warbler,1,0.7
+2023-06,Summer,Barn Swallow,1,0.7
+2023-06,Summer,Black Woodpecker,8,0.7
+2023-06,Summer,Boreal Owl,4,0.7
+2023-06,Summer,Cirl Bunting,1,0.7
+2023-06,Summer,Coal Tit,40,0.7
+2023-06,Summer,Common Buzzard,35,0.7
+2023-06,Summer,Common Chiffchaff,1,0.7
+2023-06,Summer,Common Crane,1,0.7
+2023-06,Summer,Common Raven,1,0.7
+2023-06,Summer,Common Sandpiper,6,0.7
+2023-06,Summer,Common Wood-Pigeon,1,0.7
+2023-06,Summer,Corn Bunting,1,0.7
+2023-06,Summer,Dunnock,5,0.7
+2023-06,Summer,Eurasian Blackbird,8,0.7
+2023-06,Summer,Eurasian Blue Tit,33,0.7
+2023-06,Summer,Eurasian Bullfinch,5,0.7
+2023-06,Summer,Eurasian Collared-Dove,1,0.7
+2023-06,Summer,Eurasian Curlew,1,0.7
+2023-06,Summer,Eurasian Eagle-Owl,4,0.7
+2023-06,Summer,Eurasian Golden Oriole,1,0.7
+2023-06,Summer,Eurasian Green Woodpecker,144,0.7
+2023-06,Summer,Eurasian Jackdaw,971,0.7
+2023-06,Summer,Eurasian Jay,22,0.7
+2023-06,Summer,Eurasian Kestrel,2,0.7
+2023-06,Summer,Eurasian Magpie,21,0.7
+2023-06,Summer,Eurasian Nuthatch,15,0.7
+2023-06,Summer,Eurasian Scops-Owl,3,0.7
+2023-06,Summer,Eurasian Three-toed Woodpecker,2,0.7
+2023-06,Summer,Eurasian Treecreeper,19,0.7
+2023-06,Summer,Eurasian Woodcock,1,0.7
+2023-06,Summer,Eurasian Wren,633,0.7
+2023-06,Summer,European Goldfinch,2,0.7
+2023-06,Summer,European Robin,11,0.7
+2023-06,Summer,European Turtle-Dove,2,0.7
+2023-06,Summer,Gray Heron,1,0.7
+2023-06,Summer,Gray-headed Woodpecker,1,0.7
+2023-06,Summer,Graylag Goose,9,0.7
+2023-06,Summer,Great Bittern,13,0.7
+2023-06,Summer,Great Spotted Woodpecker,73,0.7
+2023-06,Summer,Hawfinch,1,0.7
+2023-06,Summer,Hooded Crow,1,0.7
+2023-06,Summer,Iberian Green Woodpecker,1,0.7
+2023-06,Summer,Little Bittern,2,0.7
+2023-06,Summer,Little Owl,14,0.7
+2023-06,Summer,Long-tailed Tit,5,0.7
+2023-06,Summer,Manx Shearwater,1,0.7
+2023-06,Summer,Middle Spotted Woodpecker,1,0.7
+2023-06,Summer,Mistle Thrush,4,0.7
+2023-06,Summer,Northern Lapwing,1,0.7
+2023-06,Summer,Razorbill,1,0.7
+2023-06,Summer,Red Kite,15,0.7
+2023-06,Summer,Red-billed Chough,180,0.7
+2023-06,Summer,Red-throated Loon,1,0.7
+2023-06,Summer,Ring-necked Pheasant,40,0.7
+2023-06,Summer,Rook,5,0.7
+2023-06,Summer,Rose-ringed Parakeet,66,0.7
+2023-06,Summer,Short-toed Treecreeper,1,0.7
+2023-06,Summer,Spotted Flycatcher,1,0.7
+2023-06,Summer,Stock Dove,2,0.7
+2023-06,Summer,Tawny Owl,42,0.7
+2023-06,Summer,Western Capercaillie,3,0.7
+2023-06,Summer,Wood Lark,1,0.7
+2023-06,Summer,Yellow-headed Parrot,2,0.7
+2023-07,Summer,Boreal Owl,1,0.7
+2023-07,Summer,Carrion Crow,1,0.7
+2023-07,Summer,Coal Tit,17,0.7
+2023-07,Summer,Common Buzzard,68,0.7
+2023-07,Summer,Common Crane,1,0.7
+2023-07,Summer,Common Grasshopper-Warbler,2,0.7
+2023-07,Summer,Common Kingfisher,3,0.7
+2023-07,Summer,Common Sandpiper,2,0.7
+2023-07,Summer,Common Swift,1,0.7
+2023-07,Summer,Common Wood-Pigeon,2,0.7
+2023-07,Summer,Dunnock,4,0.7
+2023-07,Summer,Eurasian Blue Tit,3,0.7
+2023-07,Summer,Eurasian Collared-Dove,1,0.7
+2023-07,Summer,Eurasian Eagle-Owl,2,0.7
+2023-07,Summer,Eurasian Green Woodpecker,140,0.7
+2023-07,Summer,Eurasian Hoopoe,1,0.7
+2023-07,Summer,Eurasian Jackdaw,72,0.7
+2023-07,Summer,Eurasian Jay,22,0.7
+2023-07,Summer,Eurasian Kestrel,6,0.7
+2023-07,Summer,Eurasian Magpie,4,0.7
+2023-07,Summer,Eurasian Nuthatch,2,0.7
+2023-07,Summer,Eurasian Scops-Owl,3,0.7
+2023-07,Summer,Eurasian Treecreeper,15,0.7
+2023-07,Summer,Eurasian Wren,152,0.7
+2023-07,Summer,European Golden-Plover,1,0.7
+2023-07,Summer,European Honey-buzzard,4,0.7
+2023-07,Summer,European Robin,4,0.7
+2023-07,Summer,European Storm-Petrel,1,0.7
+2023-07,Summer,European Turtle-Dove,1,0.7
+2023-07,Summer,Goldcrest,1,0.7
+2023-07,Summer,Gray Wagtail,1,0.7
+2023-07,Summer,Gray-headed Woodpecker,6,0.7
+2023-07,Summer,Great Bittern,21,0.7
+2023-07,Summer,Great Spotted Woodpecker,6,0.7
+2023-07,Summer,Iberian Green Woodpecker,1,0.7
+2023-07,Summer,Little Owl,13,0.7
+2023-07,Summer,Long-eared Owl,1,0.7
+2023-07,Summer,Long-tailed Tit,1,0.7
+2023-07,Summer,Northern Goshawk,1,0.7
+2023-07,Summer,Red Kite,2,0.7
+2023-07,Summer,Red-billed Chough,9,0.7
+2023-07,Summer,Red-breasted Flycatcher,1,0.7
+2023-07,Summer,Ring-necked Pheasant,7,0.7
+2023-07,Summer,Rock Pigeon,1,0.7
+2023-07,Summer,Rook,6,0.7
+2023-07,Summer,Rose-ringed Parakeet,6,0.7
+2023-07,Summer,Short-toed Treecreeper,3,0.7
+2023-07,Summer,Tawny Owl,40,0.7
+2023-07,Summer,Ural Owl,3,0.7
+2023-07,Summer,Western Capercaillie,2,0.7
+2023-08,Summer,Common Buzzard,8,0.7
+2023-08,Summer,Eurasian Eagle-Owl,3,0.7
+2023-08,Summer,Eurasian Green Woodpecker,20,0.7
+2023-08,Summer,Eurasian Jackdaw,5,0.7
+2023-08,Summer,Eurasian Jay,2,0.7
+2023-08,Summer,Eurasian Scops-Owl,2,0.7
+2023-08,Summer,Eurasian Thick-knee,1,0.7
+2023-08,Summer,Eurasian Treecreeper,3,0.7
+2023-08,Summer,Eurasian Wren,1,0.7
+2023-08,Summer,European Honey-buzzard,2,0.7
+2023-08,Summer,Gray-headed Woodpecker,1,0.7
+2023-08,Summer,Great Bittern,1,0.7
+2023-08,Summer,Little Owl,3,0.7
+2023-08,Summer,Long-tailed Tit,1,0.7
+2023-08,Summer,Rose-ringed Parakeet,5,0.7
+2023-08,Summer,Tawny Owl,13,0.7
+2023-10,Autumn,Black Woodpecker,1,0.7
+2023-10,Autumn,Canada Goose,2,0.7
+2023-10,Autumn,Carrion Crow,2,0.7
+2023-10,Autumn,Common Buzzard,1,0.7
+2023-10,Autumn,Common Crane,1,0.7
+2023-10,Autumn,Common Raven,1,0.7
+2023-10,Autumn,Dunnock,1,0.7
+2023-10,Autumn,Eurasian Eagle-Owl,5,0.7
+2023-10,Autumn,Eurasian Green Woodpecker,6,0.7
+2023-10,Autumn,Eurasian Jackdaw,85,0.7
+2023-10,Autumn,Eurasian Jay,12,0.7
+2023-10,Autumn,Eurasian Magpie,5,0.7
+2023-10,Autumn,Eurasian Scops-Owl,1,0.7
+2023-10,Autumn,Eurasian Wren,12,0.7
+2023-10,Autumn,European Robin,5,0.7
+2023-10,Autumn,Graylag Goose,1,0.7
+2023-10,Autumn,Great Bittern,17,0.7
+2023-10,Autumn,Great Spotted Woodpecker,1,0.7
+2023-10,Autumn,Hooded Crow,1,0.7
+2023-10,Autumn,Little Owl,2,0.7
+2023-10,Autumn,Long-tailed Tit,1,0.7
+2023-10,Autumn,Northern Lapwing,2,0.7
+2023-10,Autumn,Peregrine Falcon,4,0.7
+2023-10,Autumn,Red-billed Chough,1,0.7
+2023-10,Autumn,Ring-necked Pheasant,1,0.7
+2023-10,Autumn,Rook,4,0.7
+2023-10,Autumn,Rose-ringed Parakeet,51,0.7
+2023-10,Autumn,Tawny Owl,26,0.7
+2023-11,Autumn,Boreal Owl,1,0.7
+2023-11,Autumn,Common Buzzard,4,0.7
+2023-11,Autumn,Common Grasshopper-Warbler,2,0.7
+2023-11,Autumn,Common Raven,1,0.7
+2023-11,Autumn,Dunnock,2,0.7
+2023-11,Autumn,Eurasian Eagle-Owl,7,0.7
+2023-11,Autumn,Eurasian Green Woodpecker,2,0.7
+2023-11,Autumn,Eurasian Jackdaw,22,0.7
+2023-11,Autumn,Eurasian Jay,10,0.7
+2023-11,Autumn,Eurasian Magpie,5,0.7
+2023-11,Autumn,Eurasian Three-toed Woodpecker,1,0.7
+2023-11,Autumn,Eurasian Wren,42,0.7
+2023-11,Autumn,European Robin,2,0.7
+2023-11,Autumn,Graylag Goose,1,0.7
+2023-11,Autumn,Great Bittern,3,0.7
+2023-11,Autumn,Great Spotted Woodpecker,1,0.7
+2023-11,Autumn,Little Owl,3,0.7
+2023-11,Autumn,Long-eared Owl,3,0.7
+2023-11,Autumn,Long-tailed Tit,2,0.7
+2023-11,Autumn,Northern Goshawk,1,0.7
+2023-11,Autumn,Red Kite,3,0.7
+2023-11,Autumn,Red-billed Chough,1,0.7
+2023-11,Autumn,Rook,4,0.7
+2023-11,Autumn,Rose-ringed Parakeet,19,0.7
+2023-11,Autumn,Tawny Owl,20,0.7
+2023-11,Autumn,Western Capercaillie,2,0.7
+2023-11,Autumn,Whooper Swan,1,0.7
+2023-12,Winter,Atlantic Puffin,1,0.7
+2023-12,Winter,Boreal Owl,1,0.7
+2023-12,Winter,Canada Goose,1,0.7
+2023-12,Winter,Common Buzzard,5,0.7
+2023-12,Winter,Common Grasshopper-Warbler,1,0.7
+2023-12,Winter,Dunnock,3,0.7
+2023-12,Winter,Eurasian Eagle-Owl,3,0.7
+2023-12,Winter,Eurasian Jackdaw,11,0.7
+2023-12,Winter,Eurasian Jay,1,0.7
+2023-12,Winter,Eurasian Wren,43,0.7
+2023-12,Winter,European Robin,2,0.7
+2023-12,Winter,Great Bittern,4,0.7
+2023-12,Winter,Hooded Crow,2,0.7
+2023-12,Winter,Long-tailed Tit,1,0.7
+2023-12,Winter,Mistle Thrush,1,0.7
+2023-12,Winter,Redwing,1,0.7
+2023-12,Winter,Ring-necked Pheasant,3,0.7
+2023-12,Winter,Rose-ringed Parakeet,5,0.7
+2023-12,Winter,Tawny Owl,4,0.7
+2023-12,Winter,Western Capercaillie,1,0.7
+2024-01,Winter,Common Grasshopper-Warbler,4,0.7
+2024-01,Winter,Common Sandpiper,1,0.7
+2024-01,Winter,Dunnock,17,0.7
+2024-01,Winter,Eurasian Blue Tit,14,0.7
+2024-01,Winter,Eurasian Eagle-Owl,3,0.7
+2024-01,Winter,Eurasian Green Woodpecker,2,0.7
+2024-01,Winter,Eurasian Jackdaw,12,0.7
+2024-01,Winter,Eurasian Magpie,1,0.7
+2024-01,Winter,Eurasian Wren,42,0.7
+2024-01,Winter,European Robin,5,0.7
+2024-01,Winter,Great Bittern,2,0.7
+2024-01,Winter,Hawfinch,1,0.7
+2024-01,Winter,Herring Gull,2,0.7
+2024-01,Winter,Long-tailed Tit,1,0.7
+2024-01,Winter,Ring-necked Pheasant,10,0.7
+2024-01,Winter,Rook,2,0.7
+2024-01,Winter,Rose-ringed Parakeet,11,0.7
+2024-01,Winter,Tawny Owl,11,0.7
+2024-02,Winter,Carrion Crow,9,0.7
+2024-02,Winter,Common Buzzard,7,0.7
+2024-02,Winter,Common Grasshopper-Warbler,1,0.7
+2024-02,Winter,Common Sandpiper,1,0.7
+2024-02,Winter,Dunnock,25,0.7
+2024-02,Winter,Eurasian Blue Tit,46,0.7
+2024-02,Winter,Eurasian Eagle-Owl,3,0.7
+2024-02,Winter,Eurasian Green Woodpecker,1,0.7
+2024-02,Winter,Eurasian Jackdaw,60,0.7
+2024-02,Winter,Eurasian Jay,2,0.7
+2024-02,Winter,Eurasian Kestrel,5,0.7
+2024-02,Winter,Eurasian Magpie,3,0.7
+2024-02,Winter,Eurasian Scops-Owl,1,0.7
+2024-02,Winter,Eurasian Treecreeper,2,0.7
+2024-02,Winter,Eurasian Wren,334,0.7
+2024-02,Winter,European Robin,6,0.7
+2024-02,Winter,Great Bittern,9,0.7
+2024-02,Winter,Great Spotted Woodpecker,3,0.7
+2024-02,Winter,Great Tit,2,0.7
+2024-02,Winter,Hawfinch,1,0.7
+2024-02,Winter,Hooded Crow,3,0.7
+2024-02,Winter,Lesser Spotted Woodpecker,1,0.7
+2024-02,Winter,Little Owl,3,0.7
+2024-02,Winter,Long-eared Owl,2,0.7
+2024-02,Winter,Long-tailed Tit,3,0.7
+2024-02,Winter,Manx Shearwater,1,0.7
+2024-02,Winter,Mistle Thrush,1,0.7
+2024-02,Winter,Red-billed Chough,2,0.7
+2024-02,Winter,Ring-necked Pheasant,36,0.7
+2024-02,Winter,Rook,5,0.7
+2024-02,Winter,Rose-ringed Parakeet,34,0.7
+2024-02,Winter,Spotted Flycatcher,1,0.7
+2024-02,Winter,Tawny Owl,15,0.7
+2024-02,Winter,Western Capercaillie,4,0.7
+2024-03,Spring,Black Kite,1,0.7
+2024-03,Spring,Black Woodpecker,1,0.7
+2024-03,Spring,Black-legged Kittiwake,1,0.7
+2024-03,Spring,Black-tailed Godwit,1,0.7
+2024-03,Spring,Bohemian Waxwing,1,0.7
+2024-03,Spring,Boreal Owl,2,0.7
+2024-03,Spring,Canada Goose,1,0.7
+2024-03,Spring,Carrion Crow,1,0.7
+2024-03,Spring,Cirl Bunting,1,0.7
+2024-03,Spring,Coal Tit,9,0.7
+2024-03,Spring,Common Buzzard,7,0.7
+2024-03,Spring,Common Chiffchaff,1,0.7
+2024-03,Spring,Common Grasshopper-Warbler,3,0.7
+2024-03,Spring,Common Kingfisher,1,0.7
+2024-03,Spring,Common Sandpiper,10,0.7
+2024-03,Spring,Dunnock,122,0.7
+2024-03,Spring,Egyptian Goose,2,0.7
+2024-03,Spring,Eurasian Blue Tit,295,0.7
+2024-03,Spring,Eurasian Bullfinch,1,0.7
+2024-03,Spring,Eurasian Green Woodpecker,28,0.7
+2024-03,Spring,Eurasian Jackdaw,206,0.7
+2024-03,Spring,Eurasian Jay,5,0.7
+2024-03,Spring,Eurasian Magpie,20,0.7
+2024-03,Spring,Eurasian Nuthatch,1,0.7
+2024-03,Spring,Eurasian Pygmy-Owl,1,0.7
+2024-03,Spring,Eurasian Scops-Owl,3,0.7
+2024-03,Spring,Eurasian Treecreeper,12,0.7
+2024-03,Spring,Eurasian Woodcock,3,0.7
+2024-03,Spring,Eurasian Wren,488,0.7
+2024-03,Spring,Eurasian Wryneck,3,0.7
+2024-03,Spring,European Robin,10,0.7
+2024-03,Spring,European Stonechat,2,0.7
+2024-03,Spring,Gray Wagtail,1,0.7
+2024-03,Spring,Gray-headed Woodpecker,6,0.7
+2024-03,Spring,Graylag Goose,3,0.7
+2024-03,Spring,Great Bittern,13,0.7
+2024-03,Spring,Great Spotted Woodpecker,21,0.7
+2024-03,Spring,Great Tit,6,0.7
+2024-03,Spring,Hawfinch,1,0.7
+2024-03,Spring,Lesser Spotted Woodpecker,1,0.7
+2024-03,Spring,Little Owl,6,0.7
+2024-03,Spring,Long-eared Owl,1,0.7
+2024-03,Spring,Long-tailed Tit,4,0.7
+2024-03,Spring,Mistle Thrush,3,0.7
+2024-03,Spring,Red Kite,9,0.7
+2024-03,Spring,Red-billed Chough,4,0.7
+2024-03,Spring,Ring-necked Pheasant,425,0.7
+2024-03,Spring,Rose-ringed Parakeet,78,0.7
+2024-03,Spring,Short-toed Treecreeper,2,0.7
+2024-03,Spring,Siberian Accentor,2,0.7
+2024-03,Spring,Tawny Owl,70,0.7
+2024-03,Spring,Ural Owl,4,0.7
+2024-03,Spring,Whooper Swan,2,0.7
+2024-03,Spring,Willow Tit,2,0.7
+2024-04,Spring,Black-legged Kittiwake,3,0.7
+2024-04,Spring,Canada Goose,3,0.7
+2024-04,Spring,Carrion Crow,6,0.7
+2024-04,Spring,Coal Tit,7,0.7
+2024-04,Spring,Common Buzzard,6,0.7
+2024-04,Spring,Common Chiffchaff,2,0.7
+2024-04,Spring,Common Firecrest,1,0.7
+2024-04,Spring,Common Grasshopper-Warbler,5,0.7
+2024-04,Spring,Common Sandpiper,9,0.7
+2024-04,Spring,Corn Bunting,1,0.7
+2024-04,Spring,Dunnock,20,0.7
+2024-04,Spring,Eurasian Blackbird,1,0.7
+2024-04,Spring,Eurasian Blue Tit,173,0.7
+2024-04,Spring,Eurasian Bullfinch,2,0.7
+2024-04,Spring,Eurasian Collared-Dove,1,0.7
+2024-04,Spring,Eurasian Green Woodpecker,18,0.7
+2024-04,Spring,Eurasian Jackdaw,40,0.7
+2024-04,Spring,Eurasian Jay,1,0.7
+2024-04,Spring,Eurasian Magpie,8,0.7
+2024-04,Spring,Eurasian Siskin,1,0.7
+2024-04,Spring,Eurasian Treecreeper,7,0.7
+2024-04,Spring,Eurasian Wren,477,0.7
+2024-04,Spring,Eurasian Wryneck,1,0.7
+2024-04,Spring,European Golden-Plover,1,0.7
+2024-04,Spring,European Robin,7,0.7
+2024-04,Spring,Gray Wagtail,1,0.7
+2024-04,Spring,Great Bittern,7,0.7
+2024-04,Spring,Great Spotted Woodpecker,3,0.7
+2024-04,Spring,Great Tit,9,0.7
+2024-04,Spring,Hooded Crow,1,0.7
+2024-04,Spring,Little Owl,12,0.7
+2024-04,Spring,Long-eared Owl,1,0.7
+2024-04,Spring,Mandarin Duck,1,0.7
+2024-04,Spring,Mistle Thrush,6,0.7
+2024-04,Spring,Red Kite,3,0.7
+2024-04,Spring,Ring-necked Pheasant,516,0.7
+2024-04,Spring,Rock Bunting,1,0.7
+2024-04,Spring,Rook,1,0.7
+2024-04,Spring,Rose-ringed Parakeet,24,0.7
+2024-04,Spring,Siberian Accentor,5,0.7
+2024-04,Spring,Tawny Owl,31,0.7
+2024-04,Spring,Western Capercaillie,3,0.7
+2024-04,Spring,Willow Tit,1,0.7
+2024-04,Spring,Wood Lark,4,0.7
+2021-12,Winter,Eurasian Jackdaw,18,0.9
+2021-12,Winter,Eurasian Jay,1,0.9
+2021-12,Winter,Eurasian Magpie,1,0.9
+2021-12,Winter,Mistle Thrush,1,0.9
+2021-12,Winter,Rook,1,0.9
+2021-12,Winter,Rose-ringed Parakeet,39,0.9
+2021-12,Winter,Tawny Owl,2,0.9
+2022-01,Winter,Common Buzzard,1,0.9
+2022-01,Winter,Common Sandpiper,1,0.9
+2022-01,Winter,Eurasian Blue Tit,3,0.9
+2022-01,Winter,Eurasian Green Woodpecker,5,0.9
+2022-01,Winter,Eurasian Jackdaw,39,0.9
+2022-01,Winter,European Robin,1,0.9
+2022-01,Winter,Great Tit,2,0.9
+2022-01,Winter,Long-tailed Tit,2,0.9
+2022-01,Winter,Ring-necked Pheasant,2,0.9
+2022-01,Winter,Rose-ringed Parakeet,141,0.9
+2022-01,Winter,Tawny Owl,5,0.9
+2022-02,Winter,Eurasian Blue Tit,5,0.9
+2022-02,Winter,Eurasian Bullfinch,1,0.9
+2022-02,Winter,Eurasian Golden Oriole,1,0.9
+2022-02,Winter,Eurasian Green Woodpecker,6,0.9
+2022-02,Winter,Eurasian Jackdaw,24,0.9
+2022-02,Winter,Eurasian Jay,1,0.9
+2022-02,Winter,European Robin,3,0.9
+2022-02,Winter,Rose-ringed Parakeet,58,0.9
+2022-02,Winter,Song Thrush,1,0.9
+2022-02,Winter,Tawny Owl,2,0.9
+2022-02,Winter,Willow Tit,1,0.9
+2022-08,Summer,Eurasian Blue Tit,1,0.9
+2022-08,Summer,Eurasian Green Woodpecker,6,0.9
+2022-08,Summer,Eurasian Jackdaw,19,0.9
+2022-08,Summer,Eurasian Jay,1,0.9
+2022-08,Summer,Eurasian Magpie,3,0.9
+2022-08,Summer,European Robin,6,0.9
+2022-08,Summer,Hawfinch,1,0.9
+2022-08,Summer,Long-tailed Tit,1,0.9
+2022-08,Summer,Red-billed Chough,1,0.9
+2022-08,Summer,Ring-necked Pheasant,2,0.9
+2022-08,Summer,Rose-ringed Parakeet,11,0.9
+2022-08,Summer,Tawny Owl,1,0.9
+2022-09,Autumn,Boreal Owl,1,0.9
+2022-09,Autumn,Coal Tit,1,0.9
+2022-09,Autumn,Common Buzzard,1,0.9
+2022-09,Autumn,Dunnock,5,0.9
+2022-09,Autumn,Eurasian Blue Tit,4,0.9
+2022-09,Autumn,Eurasian Green Woodpecker,46,0.9
+2022-09,Autumn,Eurasian Jackdaw,270,0.9
+2022-09,Autumn,Eurasian Jay,13,0.9
+2022-09,Autumn,Eurasian Magpie,7,0.9
+2022-09,Autumn,Eurasian Treecreeper,1,0.9
+2022-09,Autumn,Eurasian Wren,2,0.9
+2022-09,Autumn,Eurasian Wryneck,6,0.9
+2022-09,Autumn,European Robin,94,0.9
+2022-09,Autumn,Great Bittern,4,0.9
+2022-09,Autumn,Little Owl,1,0.9
+2022-09,Autumn,Long-tailed Tit,11,0.9
+2022-09,Autumn,Red-billed Chough,2,0.9
+2022-09,Autumn,Ring-necked Pheasant,22,0.9
+2022-09,Autumn,Rose-ringed Parakeet,457,0.9
+2022-09,Autumn,Tawny Owl,17,0.9
+2022-10,Autumn,Barn Swallow,1,0.9
+2022-10,Autumn,Dunnock,1,0.9
+2022-10,Autumn,Egyptian Goose,1,0.9
+2022-10,Autumn,Eurasian Blue Tit,1,0.9
+2022-10,Autumn,Eurasian Green Woodpecker,35,0.9
+2022-10,Autumn,Eurasian Jackdaw,261,0.9
+2022-10,Autumn,Eurasian Jay,12,0.9
+2022-10,Autumn,Eurasian Magpie,2,0.9
+2022-10,Autumn,Eurasian Wren,12,0.9
+2022-10,Autumn,Eurasian Wryneck,6,0.9
+2022-10,Autumn,European Greenfinch,2,0.9
+2022-10,Autumn,European Robin,49,0.9
+2022-10,Autumn,European Serin,1,0.9
+2022-10,Autumn,Gray-headed Woodpecker,1,0.9
+2022-10,Autumn,Great Bittern,1,0.9
+2022-10,Autumn,Little Owl,1,0.9
+2022-10,Autumn,Long-tailed Tit,10,0.9
+2022-10,Autumn,Red Kite,5,0.9
+2022-10,Autumn,Red-billed Chough,3,0.9
+2022-10,Autumn,Redwing,2,0.9
+2022-10,Autumn,Ring-necked Pheasant,13,0.9
+2022-10,Autumn,Rook,1,0.9
+2022-10,Autumn,Rose-ringed Parakeet,457,0.9
+2022-10,Autumn,Tawny Owl,20,0.9
+2022-11,Autumn,Boreal Owl,1,0.9
+2022-11,Autumn,Common Buzzard,6,0.9
+2022-11,Autumn,Dunnock,2,0.9
+2022-11,Autumn,Eurasian Blue Tit,3,0.9
+2022-11,Autumn,Eurasian Green Woodpecker,4,0.9
+2022-11,Autumn,Eurasian Jackdaw,96,0.9
+2022-11,Autumn,Eurasian Jay,2,0.9
+2022-11,Autumn,Eurasian Kestrel,1,0.9
+2022-11,Autumn,Eurasian Magpie,1,0.9
+2022-11,Autumn,Eurasian Wren,5,0.9
+2022-11,Autumn,Eurasian Wryneck,16,0.9
+2022-11,Autumn,European Robin,18,0.9
+2022-11,Autumn,Great Bittern,1,0.9
+2022-11,Autumn,Green Sandpiper,1,0.9
+2022-11,Autumn,Long-tailed Tit,9,0.9
+2022-11,Autumn,Red Kite,1,0.9
+2022-11,Autumn,Red-legged Partridge,1,0.9
+2022-11,Autumn,Ring-necked Pheasant,41,0.9
+2022-11,Autumn,Rose-ringed Parakeet,461,0.9
+2022-11,Autumn,Tawny Owl,39,0.9
+2022-12,Winter,Canada Goose,1,0.9
+2022-12,Winter,Common Buzzard,2,0.9
+2022-12,Winter,Eurasian Blue Tit,1,0.9
+2022-12,Winter,Eurasian Green Woodpecker,4,0.9
+2022-12,Winter,Eurasian Jackdaw,46,0.9
+2022-12,Winter,Eurasian Jay,3,0.9
+2022-12,Winter,Eurasian Kestrel,2,0.9
+2022-12,Winter,Eurasian Magpie,2,0.9
+2022-12,Winter,Eurasian Wren,1,0.9
+2022-12,Winter,Eurasian Wryneck,3,0.9
+2022-12,Winter,Great Bittern,2,0.9
+2022-12,Winter,Long-tailed Tit,1,0.9
+2022-12,Winter,Red Kite,1,0.9
+2022-12,Winter,Ring-necked Pheasant,11,0.9
+2022-12,Winter,Rose-ringed Parakeet,181,0.9
+2022-12,Winter,Tawny Owl,12,0.9
+2023-01,Winter,Boreal Owl,2,0.9
+2023-01,Winter,Common Sandpiper,2,0.9
+2023-01,Winter,Egyptian Goose,3,0.9
+2023-01,Winter,Eurasian Blue Tit,10,0.9
+2023-01,Winter,Eurasian Green Woodpecker,3,0.9
+2023-01,Winter,Eurasian Jackdaw,41,0.9
+2023-01,Winter,Eurasian Jay,1,0.9
+2023-01,Winter,Eurasian Wryneck,2,0.9
+2023-01,Winter,Great Bittern,2,0.9
+2023-01,Winter,Long-eared Owl,1,0.9
+2023-01,Winter,Long-tailed Tit,3,0.9
+2023-01,Winter,Ring-necked Pheasant,17,0.9
+2023-01,Winter,Rose-ringed Parakeet,212,0.9
+2023-01,Winter,Tawny Owl,25,0.9
+2023-02,Winter,Boreal Owl,1,0.9
+2023-02,Winter,Common Buzzard,8,0.9
+2023-02,Winter,Common Raven,1,0.9
+2023-02,Winter,Egyptian Goose,7,0.9
+2023-02,Winter,Eurasian Blue Tit,17,0.9
+2023-02,Winter,Eurasian Green Woodpecker,15,0.9
+2023-02,Winter,Eurasian Jackdaw,196,0.9
+2023-02,Winter,Eurasian Kestrel,1,0.9
+2023-02,Winter,Eurasian Magpie,2,0.9
+2023-02,Winter,Eurasian Treecreeper,1,0.9
+2023-02,Winter,Eurasian Wryneck,11,0.9
+2023-02,Winter,Great Tit,1,0.9
+2023-02,Winter,Mistle Thrush,5,0.9
+2023-02,Winter,Ring-necked Pheasant,56,0.9
+2023-02,Winter,Rose-ringed Parakeet,509,0.9
+2023-02,Winter,Tawny Owl,18,0.9
+2023-03,Spring,Bearded Reedling,1,0.9
+2023-03,Spring,Boreal Owl,1,0.9
+2023-03,Spring,Common Buzzard,16,0.9
+2023-03,Spring,Egyptian Goose,3,0.9
+2023-03,Spring,Eurasian Blue Tit,20,0.9
+2023-03,Spring,Eurasian Green Woodpecker,26,0.9
+2023-03,Spring,Eurasian Jackdaw,388,0.9
+2023-03,Spring,Eurasian Jay,2,0.9
+2023-03,Spring,Eurasian Magpie,1,0.9
+2023-03,Spring,Eurasian Moorhen,1,0.9
+2023-03,Spring,Eurasian Nuthatch,1,0.9
+2023-03,Spring,Eurasian Treecreeper,1,0.9
+2023-03,Spring,Eurasian Woodcock,1,0.9
+2023-03,Spring,Eurasian Wren,36,0.9
+2023-03,Spring,Eurasian Wryneck,18,0.9
+2023-03,Spring,European Robin,9,0.9
+2023-03,Spring,Great Bittern,5,0.9
+2023-03,Spring,Great Tit,1,0.9
+2023-03,Spring,Mandarin Duck,1,0.9
+2023-03,Spring,Mistle Thrush,15,0.9
+2023-03,Spring,Red Kite,1,0.9
+2023-03,Spring,Ring-necked Pheasant,392,0.9
+2023-03,Spring,Rose-ringed Parakeet,802,0.9
+2023-03,Spring,Tawny Owl,19,0.9
+2023-04,Spring,Boreal Owl,1,0.9
+2023-04,Spring,Common Buzzard,1,0.9
+2023-04,Spring,Common Chiffchaff,7,0.9
+2023-04,Spring,Dunnock,82,0.9
+2023-04,Spring,Eurasian Blackbird,1,0.9
+2023-04,Spring,Eurasian Blue Tit,30,0.9
+2023-04,Spring,Eurasian Green Woodpecker,22,0.9
+2023-04,Spring,Eurasian Jackdaw,161,0.9
+2023-04,Spring,Eurasian Jay,1,0.9
+2023-04,Spring,Eurasian Magpie,5,0.9
+2023-04,Spring,Eurasian Nuthatch,1,0.9
+2023-04,Spring,Eurasian Three-toed Woodpecker,1,0.9
+2023-04,Spring,Eurasian Treecreeper,3,0.9
+2023-04,Spring,Eurasian Woodcock,2,0.9
+2023-04,Spring,Eurasian Wren,85,0.9
+2023-04,Spring,Eurasian Wryneck,3,0.9
+2023-04,Spring,European Goldfinch,1,0.9
+2023-04,Spring,European Greenfinch,1,0.9
+2023-04,Spring,European Robin,31,0.9
+2023-04,Spring,European Serin,1,0.9
+2023-04,Spring,Great Bittern,3,0.9
+2023-04,Spring,Great Spotted Woodpecker,1,0.9
+2023-04,Spring,Mistle Thrush,11,0.9
+2023-04,Spring,Red Kite,1,0.9
+2023-04,Spring,Ring-necked Pheasant,63,0.9
+2023-04,Spring,Rose-ringed Parakeet,479,0.9
+2023-04,Spring,Tawny Owl,1,0.9
+2023-04,Spring,Wood Lark,1,0.9
+2023-05,Spring,Boreal Owl,1,0.9
+2023-05,Spring,Common Buzzard,1,0.9
+2023-05,Spring,Common Chiffchaff,1,0.9
+2023-05,Spring,Common Sandpiper,2,0.9
+2023-05,Spring,Dunnock,9,0.9
+2023-05,Spring,Eurasian Blackbird,3,0.9
+2023-05,Spring,Eurasian Blackcap,3,0.9
+2023-05,Spring,Eurasian Blue Tit,9,0.9
+2023-05,Spring,Eurasian Bullfinch,1,0.9
+2023-05,Spring,Eurasian Green Woodpecker,36,0.9
+2023-05,Spring,Eurasian Jackdaw,565,0.9
+2023-05,Spring,Eurasian Magpie,8,0.9
+2023-05,Spring,Eurasian Nuthatch,2,0.9
+2023-05,Spring,Eurasian Woodcock,1,0.9
+2023-05,Spring,Eurasian Wren,47,0.9
+2023-05,Spring,Eurasian Wryneck,1,0.9
+2023-05,Spring,European Robin,3,0.9
+2023-05,Spring,Graylag Goose,4,0.9
+2023-05,Spring,Great Bittern,2,0.9
+2023-05,Spring,Great Spotted Woodpecker,9,0.9
+2023-05,Spring,Great Tit,4,0.9
+2023-05,Spring,Long-tailed Tit,1,0.9
+2023-05,Spring,Mistle Thrush,1,0.9
+2023-05,Spring,Red Kite,10,0.9
+2023-05,Spring,Red-billed Chough,1,0.9
+2023-05,Spring,Ring-necked Pheasant,1237,0.9
+2023-05,Spring,Rose-ringed Parakeet,81,0.9
+2023-05,Spring,Stock Dove,1,0.9
+2023-05,Spring,Tawny Owl,10,0.9
+2023-05,Spring,Whinchat,1,0.9
+2023-05,Spring,Wood Lark,2,0.9
+2023-06,Summer,Boreal Owl,1,0.9
+2023-06,Summer,Coal Tit,6,0.9
+2023-06,Summer,Common Buzzard,14,0.9
+2023-06,Summer,Eurasian Blackbird,2,0.9
+2023-06,Summer,Eurasian Blue Tit,2,0.9
+2023-06,Summer,Eurasian Green Woodpecker,66,0.9
+2023-06,Summer,Eurasian Jackdaw,374,0.9
+2023-06,Summer,Eurasian Jay,6,0.9
+2023-06,Summer,Eurasian Magpie,7,0.9
+2023-06,Summer,Eurasian Nuthatch,4,0.9
+2023-06,Summer,Eurasian Scops-Owl,1,0.9
+2023-06,Summer,Eurasian Treecreeper,5,0.9
+2023-06,Summer,Eurasian Woodcock,1,0.9
+2023-06,Summer,Eurasian Wren,53,0.9
+2023-06,Summer,European Goldfinch,2,0.9
+2023-06,Summer,European Robin,3,0.9
+2023-06,Summer,European Turtle-Dove,1,0.9
+2023-06,Summer,Great Spotted Woodpecker,16,0.9
+2023-06,Summer,Long-tailed Tit,1,0.9
+2023-06,Summer,Red Kite,6,0.9
+2023-06,Summer,Red-billed Chough,28,0.9
+2023-06,Summer,Ring-necked Pheasant,27,0.9
+2023-06,Summer,Rose-ringed Parakeet,15,0.9
+2023-06,Summer,Tawny Owl,17,0.9
+2023-06,Summer,Western Capercaillie,1,0.9
+2023-07,Summer,Boreal Owl,1,0.9
+2023-07,Summer,Coal Tit,5,0.9
+2023-07,Summer,Common Buzzard,25,0.9
+2023-07,Summer,Eurasian Blue Tit,1,0.9
+2023-07,Summer,Eurasian Green Woodpecker,57,0.9
+2023-07,Summer,Eurasian Jackdaw,26,0.9
+2023-07,Summer,Eurasian Jay,7,0.9
+2023-07,Summer,Eurasian Kestrel,5,0.9
+2023-07,Summer,Eurasian Magpie,2,0.9
+2023-07,Summer,Eurasian Nuthatch,1,0.9
+2023-07,Summer,Eurasian Treecreeper,4,0.9
+2023-07,Summer,Eurasian Wren,7,0.9
+2023-07,Summer,European Robin,1,0.9
+2023-07,Summer,European Turtle-Dove,1,0.9
+2023-07,Summer,Goldcrest,1,0.9
+2023-07,Summer,Great Bittern,1,0.9
+2023-07,Summer,Great Spotted Woodpecker,3,0.9
+2023-07,Summer,Little Owl,1,0.9
+2023-07,Summer,Long-eared Owl,1,0.9
+2023-07,Summer,Red Kite,1,0.9
+2023-07,Summer,Red-billed Chough,1,0.9
+2023-07,Summer,Ring-necked Pheasant,4,0.9
+2023-07,Summer,Rook,1,0.9
+2023-07,Summer,Rose-ringed Parakeet,4,0.9
+2023-07,Summer,Tawny Owl,14,0.9
+2023-07,Summer,Western Capercaillie,1,0.9
+2023-08,Summer,Common Buzzard,2,0.9
+2023-08,Summer,Eurasian Green Woodpecker,10,0.9
+2023-08,Summer,Eurasian Jackdaw,1,0.9
+2023-08,Summer,Eurasian Jay,1,0.9
+2023-08,Summer,Rose-ringed Parakeet,1,0.9
+2023-08,Summer,Tawny Owl,4,0.9
+2023-10,Autumn,Canada Goose,1,0.9
+2023-10,Autumn,Eurasian Eagle-Owl,1,0.9
+2023-10,Autumn,Eurasian Green Woodpecker,5,0.9
+2023-10,Autumn,Eurasian Jackdaw,42,0.9
+2023-10,Autumn,Eurasian Jay,2,0.9
+2023-10,Autumn,Eurasian Magpie,3,0.9
+2023-10,Autumn,Eurasian Wren,3,0.9
+2023-10,Autumn,Great Bittern,1,0.9
+2023-10,Autumn,Peregrine Falcon,2,0.9
+2023-10,Autumn,Ring-necked Pheasant,1,0.9
+2023-10,Autumn,Rook,1,0.9
+2023-10,Autumn,Rose-ringed Parakeet,25,0.9
+2023-10,Autumn,Tawny Owl,10,0.9
+2023-11,Autumn,Common Buzzard,2,0.9
+2023-11,Autumn,Eurasian Eagle-Owl,2,0.9
+2023-11,Autumn,Eurasian Jackdaw,6,0.9
+2023-11,Autumn,Eurasian Magpie,2,0.9
+2023-11,Autumn,Eurasian Wren,19,0.9
+2023-11,Autumn,Rose-ringed Parakeet,9,0.9
+2023-11,Autumn,Tawny Owl,5,0.9
+2023-12,Winter,Common Buzzard,3,0.9
+2023-12,Winter,Eurasian Jackdaw,6,0.9
+2023-12,Winter,Eurasian Wren,19,0.9
+2023-12,Winter,Great Bittern,2,0.9
+2023-12,Winter,Ring-necked Pheasant,2,0.9
+2023-12,Winter,Rose-ringed Parakeet,3,0.9
+2024-01,Winter,Common Grasshopper-Warbler,1,0.9
+2024-01,Winter,Dunnock,5,0.9
+2024-01,Winter,Eurasian Blue Tit,1,0.9
+2024-01,Winter,Eurasian Jackdaw,3,0.9
+2024-01,Winter,Eurasian Wren,13,0.9
+2024-01,Winter,European Robin,1,0.9
+2024-01,Winter,Ring-necked Pheasant,6,0.9
+2024-01,Winter,Tawny Owl,3,0.9
+2024-02,Winter,Common Buzzard,3,0.9
+2024-02,Winter,Dunnock,5,0.9
+2024-02,Winter,Eurasian Blue Tit,3,0.9
+2024-02,Winter,Eurasian Jackdaw,26,0.9
+2024-02,Winter,Eurasian Kestrel,4,0.9
+2024-02,Winter,Eurasian Magpie,1,0.9
+2024-02,Winter,Eurasian Wren,150,0.9
+2024-02,Winter,European Robin,1,0.9
+2024-02,Winter,Great Bittern,2,0.9
+2024-02,Winter,Long-tailed Tit,1,0.9
+2024-02,Winter,Red-billed Chough,1,0.9
+2024-02,Winter,Ring-necked Pheasant,30,0.9
+2024-02,Winter,Rose-ringed Parakeet,13,0.9
+2024-02,Winter,Tawny Owl,5,0.9
+2024-03,Spring,Coal Tit,1,0.9
+2024-03,Spring,Common Buzzard,4,0.9
+2024-03,Spring,Dunnock,50,0.9
+2024-03,Spring,Eurasian Blue Tit,43,0.9
+2024-03,Spring,Eurasian Green Woodpecker,6,0.9
+2024-03,Spring,Eurasian Jackdaw,73,0.9
+2024-03,Spring,Eurasian Jay,2,0.9
+2024-03,Spring,Eurasian Magpie,14,0.9
+2024-03,Spring,Eurasian Nuthatch,1,0.9
+2024-03,Spring,Eurasian Scops-Owl,1,0.9
+2024-03,Spring,Eurasian Treecreeper,2,0.9
+2024-03,Spring,Eurasian Woodcock,1,0.9
+2024-03,Spring,Eurasian Wren,160,0.9
+2024-03,Spring,Graylag Goose,1,0.9
+2024-03,Spring,Great Bittern,1,0.9
+2024-03,Spring,Great Spotted Woodpecker,4,0.9
+2024-03,Spring,Long-tailed Tit,2,0.9
+2024-03,Spring,Red Kite,3,0.9
+2024-03,Spring,Red-billed Chough,1,0.9
+2024-03,Spring,Ring-necked Pheasant,313,0.9
+2024-03,Spring,Rose-ringed Parakeet,30,0.9
+2024-03,Spring,Tawny Owl,25,0.9
+2024-03,Spring,Ural Owl,2,0.9
+2024-04,Spring,Canada Goose,1,0.9
+2024-04,Spring,Common Buzzard,2,0.9
+2024-04,Spring,Common Chiffchaff,1,0.9
+2024-04,Spring,Common Sandpiper,1,0.9
+2024-04,Spring,Dunnock,7,0.9
+2024-04,Spring,Eurasian Blue Tit,21,0.9
+2024-04,Spring,Eurasian Green Woodpecker,9,0.9
+2024-04,Spring,Eurasian Jackdaw,18,0.9
+2024-04,Spring,Eurasian Magpie,6,0.9
+2024-04,Spring,Eurasian Wren,188,0.9
+2024-04,Spring,Great Bittern,1,0.9
+2024-04,Spring,Great Tit,1,0.9
+2024-04,Spring,Ring-necked Pheasant,342,0.9
+2024-04,Spring,Rose-ringed Parakeet,10,0.9
+2024-04,Spring,Tawny Owl,20,0.9
+2024-04,Spring,Western Capercaillie,1,0.9

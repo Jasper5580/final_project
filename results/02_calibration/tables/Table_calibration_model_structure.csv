@@ -1,0 +1,5 @@
+Model,Role,Records,Events,Species,AIC,Delta_AIC,Species_intercept_SD,Species_score_slope_SD,Singular_fit,Maximum_gradient
+M1: Score,Baseline,1147,1138,229,1342.03,365.91,,,,
+M2: Score + event,Pooled candidate,1147,1138,229,1336.6,360.49,,,,
+M3: Species-aware,Primary candidate,1147,1138,229,976.49,0.37,2.327,,FALSE,2.35e-4
+M4: Random score slope,Structural sensitivity,1147,1138,229,976.12,0,2.278,0.862,FALSE,2.23e-4

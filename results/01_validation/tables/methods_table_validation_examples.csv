@@ -1,0 +1,4 @@
+validation_id,validation_round,predicted_species,birdnet_score,actual_multi_event,prediction_correct,validation_basis,analysis_primary_include,analysis_audio_only_sensitivity_include
+R1_0002,1,Barn Swallow,0.8974832,0,1,audio_based,1,1
+R1_0011,1,Common Buzzard,0.5486039,1,0,audio_based,1,1
+R1_0287,1,Red-billed Chough,0.58285403,1,0,audio_plus_ecological_prior,1,0

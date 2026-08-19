@@ -1,0 +1,28 @@
+FINAL PROJECT PACKAGE VALIDATION REPORT
+
+This report checks package structure, frozen-data counts, final-output presence, obsolete path references, and basic R-script delimiter balance. The supplied analytical results are the final-run outputs from the uploaded project. A full R re-execution was not performed in this build environment because R was unavailable.
+
+[PASS] required README.md
+[PASS] required run_all.R
+[PASS] required install_packages.R
+[PASS] required silwood_project.Rproj.Rproj
+[PASS] required data/00_raw/detections-export-proj_silwood_park(in).csv
+[PASS] required data/02_manual_validation/final/validation_sample_silwood_combined_final.csv
+[PASS] required scripts/00_setup/00_pipeline_functions.R
+[PASS] required scripts/01_data_preparation/01_clean_birdnet_data.R
+[PASS] required scripts/08_reporting/27_collect_final_outputs.R
+[PASS] raw rows: 79398
+[PASS] clean rows: 65255
+[PASS] events: 63985
+[PASS] species: 229
+[PASS] months: 23
+[PASS] validation rows: 1147
+[PASS] validation species: 229
+[PASS] no obsolete executable paths: []
+[PASS] R delimiter balance: []
+[PASS] main figure files present: 9
+[PASS] supp figure files present: 12
+[PASS] main tables present: 4
+[PASS] supp tables present: 6
+
+Overall: PASS
